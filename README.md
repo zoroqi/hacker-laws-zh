@@ -71,6 +71,7 @@
   - [利特尔法则 Little's law](#利特尔法则-littles-law)
   - [安斯库姆四重奏](#安斯库姆四重奏-anscombes-quartet)
   - [维尔特定律](#维尔特定律-wirths-law)
+  - [林迪效应](#林迪效应-lindy-effect)
 - [阅读清单](#阅读清单)
 - [在线资源](#在线资源)
 - [相关项目](#相关项目)
@@ -1051,6 +1052,13 @@ KISS 原则指明了如果大多数的系统能够保持简单而非复杂化，
 
 参考[摩尔定律](#摩尔定律-moores-law)
 
+# 林迪效应 Lindy effect
+
+* [林迪效应 中文wiki](https://zh.wikipedia.org/zh-hans/%E6%9E%97%E8%BF%AA%E6%95%88%E5%BA%94)
+* [Lindy effect wiki](https://en.wikipedia.org/wiki/Lindy_effect)
+
+**林迪效应**（Lindy effect）是指，对于一些不会自然消亡的东西，比如一种技术、一个想法，它们的预期寿命和它们目前已经存在的时间成正比。即它每多生存一段时间，它的剩余预期寿命就会增加一点林迪效应#cite_note-1)。在林迪效应适用的情况下，死亡率随时间下降。与此相反，生物上或者机械上的东西则遵从浴缸曲线，过了“儿童期”之后，死亡率会随着时间上升。预期寿命是概率意义上的，所以即使“预期”某事会继续存在，它还是有可能灭绝或消失。换句话说，需要同时估计年龄和“健康程度”，来判定一个事物是不是会继续存在。
+
 ## 其他
 
 ## 阅读清单
@@ -1082,5 +1090,4 @@ KISS 原则指明了如果大多数的系统能够保持简单而非复杂化，
 嗨！如果你读到这里，点击了一个我尚未编写的主题链接，我感到很抱歉。这是正在进行中的工作！
 
 随意给 [hacker-laws](https://github.com/dwmkerr/hacker-laws) 和 [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) 提 [Issue](https://github.com/dwmkerr/hacker-laws/issues) 或者 [Pull Request](https://github.com/dwmkerr/hacker-laws/pulls)。
-
 
