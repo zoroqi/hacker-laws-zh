@@ -72,6 +72,7 @@
   - [安斯库姆四重奏](#安斯库姆四重奏-anscombes-quartet)
   - [维尔特定律](#维尔特定律-wirths-law)
   - [林迪效应](#林迪效应-lindy-effect)
+  - [眼镜蛇效应](#眼镜蛇效应-cobra-effect)
 - [阅读清单](#阅读清单)
 - [在线资源](#在线资源)
 - [相关项目](#相关项目)
@@ -1039,7 +1040,7 @@ KISS 原则指明了如果大多数的系统能够保持简单而非复杂化，
 | 7.0 | 4.82 | 7.0 | 7.26 | 7.0 | 6.42 | 8.0 | 7.91 |
 | 5.0 | 5.68 | 5.0 | 4.74 | 5.0 | 5.73 | 8.0 | 6.89 |
 
-# 维尔特定律 Wirth's law
+### 维尔特定律 Wirth's law
 
 - [中文wiki](https://zh.wikipedia.org/wiki/%E7%B6%AD%E7%88%BE%E7%89%B9%E5%AE%9A%E5%BE%8B)
 - [wiki](https://en.wikipedia.org/wiki/Wirth%27s_law)
@@ -1052,12 +1053,22 @@ KISS 原则指明了如果大多数的系统能够保持简单而非复杂化，
 
 参考[摩尔定律](#摩尔定律-moores-law)
 
-# 林迪效应 Lindy effect
+### 林迪效应 Lindy effect
 
 * [林迪效应 中文wiki](https://zh.wikipedia.org/zh-hans/%E6%9E%97%E8%BF%AA%E6%95%88%E5%BA%94)
 * [Lindy effect wiki](https://en.wikipedia.org/wiki/Lindy_effect)
 
 **林迪效应**（Lindy effect）是指，对于一些不会自然消亡的东西，比如一种技术、一个想法，它们的预期寿命和它们目前已经存在的时间成正比。即它每多生存一段时间，它的剩余预期寿命就会增加一点林迪效应#cite_note-1)。在林迪效应适用的情况下，死亡率随时间下降。与此相反，生物上或者机械上的东西则遵从浴缸曲线，过了“儿童期”之后，死亡率会随着时间上升。预期寿命是概率意义上的，所以即使“预期”某事会继续存在，它还是有可能灭绝或消失。换句话说，需要同时估计年龄和“健康程度”，来判定一个事物是不是会继续存在。
+
+### 眼镜蛇效应 Cobra effect
+
+* [ #眼镜蛇效应 中文wiki](https://zh.wikipedia.org/wiki/%E7%9C%BC%E9%95%9C%E8%9B%87%E6%95%88%E5%BA%94)
+* [Perverse incentive 负面激励 wiki](https://en.wikipedia.org/wiki/Perverse_incentive#The_original_cobra_effect) 
+
+“眼镜蛇效应”一词来自殖民时期印度的逸闻：英国政府计划要减少眼镜蛇的数量，因而颁布法令说每打死一条眼镜蛇都可以领取赏金。然而印度人为了赏金反而开始养殖眼镜蛇。当英国政府意识到这种情况而取消赏金后，养殖蛇的人把蛇都放了；放出去的蛇继而大量繁殖，结果眼镜蛇族群数量不减反增。现今该术语用于形容政治和经济政策下错误的刺激机制。
+
+参考:
+* [舍基原理 (The Shirky Principle)](#舍基原理-the-shirky-principle)
 
 ## 其他
 
