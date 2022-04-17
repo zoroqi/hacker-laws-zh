@@ -519,6 +519,12 @@ _(图片来源: By Jeremykemp at English Wikipedia, CC BY-SA 3.0, https://common
 
 - [侯世达定律](#%E4%BE%AF%E4%B8%96%E8%BE%BE%E5%AE%9A%E5%BE%8B-hofstadters-law)
 
+#### 帕金森定理官僚系统扩展
+
+这个则是用来描述官僚组织随著时间而扩大的速率。帕金森观察到，一个官僚组织中的雇员总数，通常以每年5-7%的速度增加。他认为，有两股力量造成了这个增长：
+* (1) 一个官员希望他的可动用的下属增加，但不希望解雇造成敌人增加；
+* (2) 官员会分散和制造工作量给彼此。
+
 ### 过早优化效应 (Premature Optimization Effect)
 
 - [英文在线网站](http://wiki.c2.com/?PrematureOptimization)
