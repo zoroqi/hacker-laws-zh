@@ -16,7 +16,7 @@ tag:
 
 该法则指出，移动到目标区域所需的时间是到目标的距离除以目标宽度的函数。
 
-<img width="300px" alt="Diagram: Fitts Law" src="./images/Fitts_Law.svg" />
+![](../images/Fitts_Law.svg)
 
 *(图片来源：By Foobar628 at English Wikipedia, Creative Commons Attribution-Share Alike 3.0 Unported, https://en.wikipedia.org/wiki/Fitts%27s_law#/media/File:Fitts_Law.svg)*
 
