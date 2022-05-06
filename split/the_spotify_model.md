@@ -1,0 +1,19 @@
+---
+aliases:
+- "Spotify 模型"
+- "The Spotify Model"
+name: "The Spotify Model"
+zhname: "Spotify 模型"
+tag:
+- "Spotify模型"
+- "Spotify"
+---
+
+# Spotify 模型 (The Spotify Model)
+
+- [英文在线地址](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
+
+Spotify 模型是团队和组织结构的一种方法，已被 Spotify 实验室推广开来。在此模型中，团队围绕功能而非技术进行组织。
+
+Spotify 模型还普及了部落、行会以及章节的概念，这些是组织结构的其他组成部分。
+
