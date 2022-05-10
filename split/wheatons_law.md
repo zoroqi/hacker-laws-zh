@@ -1,12 +1,15 @@
 ---
 aliases:
-- "惠顿定律"
-- "Wheaton's Law"
-name: "Wheaton's Law"
-zhname: "惠顿定律"
+- 惠顿定律
+- Wheaton's Law
+category:
+- 方法论
+- hacker-law
+name: Wheaton's Law
 tag:
-- "惠顿定律"
-- "惠顿"
+- 惠顿定律
+- 惠顿
+zhname: 惠顿定律
 ---
 
 # 惠顿定律 (Wheaton's Law)

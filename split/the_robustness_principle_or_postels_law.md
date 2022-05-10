@@ -1,12 +1,15 @@
 ---
 aliases:
-- "鲁棒性原则"
-- "The Robustness Principle or Postel's Law"
-name: "The Robustness Principle or Postel's Law"
-zhname: "鲁棒性原则"
+- 鲁棒性原则
+- The Robustness Principle or Postel's Law
+category:
+- 方法论
+- hacker-law
+name: The Robustness Principle or Postel's Law
 tag:
-- "鲁棒性原则"
-- "鲁棒性"
+- 鲁棒性原则
+- 鲁棒性
+zhname: 鲁棒性原则
 ---
 
 # 鲁棒性原则 (The Robustness Principle or Postel's Law)

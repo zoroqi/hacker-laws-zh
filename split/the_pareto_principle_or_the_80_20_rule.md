@@ -1,12 +1,15 @@
 ---
 aliases:
-- "帕累托法则"
-- "The Pareto Principle or The 80/20 Rule"
-name: "The Pareto Principle or The 80/20 Rule"
-zhname: "帕累托法则"
+- 帕累托法则
+- The Pareto Principle or The 80/20 Rule
+category:
+- 方法论
+- hacker-law
+name: The Pareto Principle or The 80/20 Rule
 tag:
-- "帕累托法则"
-- "帕累托"
+- 帕累托法则
+- 帕累托
+zhname: 帕累托法则
 ---
 
 # 帕累托法则 (The Pareto Principle or The 80/20 Rule)

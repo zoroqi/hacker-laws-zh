@@ -1,12 +1,15 @@
 ---
 aliases:
-- "彼得原理"
-- "The Peter Principle"
-name: "The Peter Principle"
-zhname: "彼得原理"
+- 彼得原理
+- The Peter Principle
+category:
+- 方法论
+- hacker-law
+name: The Peter Principle
 tag:
-- "彼得原理"
-- "彼得"
+- 彼得原理
+- 彼得
+zhname: 彼得原理
 ---
 
 # 彼得原理 (The Peter Principle)

@@ -1,14 +1,17 @@
 ---
 aliases:
-- "乔治·伯克斯定律"
-- "All Models Are Wrong or George Box's Law"
-name: "All Models Are Wrong or George Box's Law"
-zhname: "乔治·伯克斯定律"
+- 乔治·伯克斯定律
+- All Models Are Wrong or George Box's Law
+category:
+- 方法论
+- hacker-law
+name: All Models Are Wrong or George Box's Law
 tag:
-- "乔治·伯克斯定律"
-- "乔治"
-- "伯克斯"
-- "乔治·伯克斯"
+- 乔治·伯克斯定律
+- 乔治
+- 伯克斯
+- 乔治·伯克斯
+zhname: 乔治·伯克斯定律
 ---
 
 # 乔治·伯克斯定律 (All Models Are Wrong or George Box's Law)

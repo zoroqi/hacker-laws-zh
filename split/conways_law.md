@@ -1,12 +1,15 @@
 ---
 aliases:
-- "康威定律"
-- "Conway's Law"
-name: "Conway's Law"
-zhname: "康威定律"
+- 康威定律
+- Conway's Law
+category:
+- 方法论
+- hacker-law
+name: Conway's Law
 tag:
-- "康威定律"
-- "康威"
+- 康威定律
+- 康威
+zhname: 康威定律
 ---
 
 # 康威定律 (Conway's Law)

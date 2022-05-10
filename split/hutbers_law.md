@@ -1,12 +1,15 @@
 ---
 aliases:
-- "哈特伯定律"
-- "Hutber's Law"
-name: "Hutber's Law"
-zhname: "哈特伯定律"
+- 哈特伯定律
+- Hutber's Law
+category:
+- 方法论
+- hacker-law
+name: Hutber's Law
 tag:
-- "哈特伯定律"
-- "哈特伯"
+- 哈特伯定律
+- 哈特伯
+zhname: 哈特伯定律
 ---
 
 # 哈特伯定律 (Hutber's Law)

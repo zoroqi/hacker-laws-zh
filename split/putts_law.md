@@ -1,12 +1,15 @@
 ---
 aliases:
-- "普特定律"
-- "Putt's Law"
-name: "Putt's Law"
-zhname: "普特定律"
+- 普特定律
+- Putt's Law
+category:
+- 方法论
+- hacker-law
+name: Putt's Law
 tag:
-- "普特定律"
-- "普特"
+- 普特定律
+- 普特
+zhname: 普特定律
 ---
 
 # 普特定律 (Putt's Law)

@@ -1,12 +1,15 @@
 ---
 aliases:
-- "帕金森定理"
-- "Parkinson's Law"
-name: "Parkinson's Law"
-zhname: "帕金森定理"
+- 帕金森定理
+- Parkinson's Law
+category:
+- 方法论
+- hacker-law
+name: Parkinson's Law
 tag:
-- "帕金森定理"
-- "帕金森"
+- 帕金森定理
+- 帕金森
+zhname: 帕金森定理
 ---
 
 # 帕金森定理 (Parkinson's Law)

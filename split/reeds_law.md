@@ -1,12 +1,15 @@
 ---
 aliases:
-- "里德定律"
-- "Reed's Law"
-name: "Reed's Law"
-zhname: "里德定律"
+- 里德定律
+- Reed's Law
+category:
+- 方法论
+- hacker-law
+name: Reed's Law
 tag:
-- "里德定律"
-- "里德"
+- 里德定律
+- 里德
+zhname: 里德定律
 ---
 
 # 里德定律 (Reed's Law)

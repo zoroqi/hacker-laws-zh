@@ -1,12 +1,15 @@
 ---
 aliases:
-- "侯世达定律"
-- "Hofstadter's Law"
-name: "Hofstadter's Law"
-zhname: "侯世达定律"
+- 侯世达定律
+- Hofstadter's Law
+category:
+- 方法论
+- hacker-law
+name: Hofstadter's Law
 tag:
-- "侯世达定律"
-- "侯世达"
+- 侯世达定律
+- 侯世达
+zhname: 侯世达定律
 ---
 
 # 侯世达定律 (Hofstadter's Law)

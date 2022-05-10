@@ -1,12 +1,15 @@
 ---
 aliases:
-- "柯林汉定律"
-- "Kernighan's Law"
-name: "Kernighan's Law"
-zhname: "柯林汉定律"
+- 柯林汉定律
+- Kernighan's Law
+category:
+- 方法论
+- hacker-law
+name: Kernighan's Law
 tag:
-- "柯林汉定律"
-- "柯林汉"
+- 柯林汉定律
+- 柯林汉
+zhname: 柯林汉定律
 ---
 
 # 柯林汉定律 (Kernighan's Law)

@@ -1,12 +1,15 @@
 ---
 aliases:
-- "邓巴数字"
-- "Dunbar's Number"
-name: "Dunbar's Number"
-zhname: "邓巴数字"
+- 邓巴数字
+- Dunbar's Number
+category:
+- 方法论
+- hacker-law
+name: Dunbar's Number
 tag:
-- "邓巴数字"
-- "邓巴"
+- 邓巴数字
+- 邓巴
+zhname: 邓巴数字
 ---
 
 # 邓巴数字 (Dunbar's Number)

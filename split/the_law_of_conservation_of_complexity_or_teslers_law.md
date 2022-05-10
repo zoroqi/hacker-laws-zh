@@ -1,12 +1,15 @@
 ---
 aliases:
-- "复杂性守恒定律"
-- "The Law of Conservation of Complexity or Tesler's Law"
-name: "The Law of Conservation of Complexity or Tesler's Law"
-zhname: "复杂性守恒定律"
+- 复杂性守恒定律
+- The Law of Conservation of Complexity or Tesler's Law
+category:
+- 方法论
+- hacker-law
+name: The Law of Conservation of Complexity or Tesler's Law
 tag:
-- "复杂性守恒定律"
-- "复杂性守恒"
+- 复杂性守恒定律
+- 复杂性守恒
+zhname: 复杂性守恒定律
 ---
 
 # 复杂性守恒定律 (The Law of Conservation of Complexity or Tesler's Law)

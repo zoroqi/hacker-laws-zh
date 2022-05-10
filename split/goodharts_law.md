@@ -1,12 +1,15 @@
 ---
 aliases:
-- "古德哈特定律"
-- "Goodhart's Law"
-name: "Goodhart's Law"
-zhname: "古德哈特定律"
+- 古德哈特定律
+- Goodhart's Law
+category:
+- 方法论
+- hacker-law
+name: Goodhart's Law
 tag:
-- "古德哈特定律"
-- "古德哈特"
+- 古德哈特定律
+- 古德哈特
+zhname: 古德哈特定律
 ---
 
 # 古德哈特定律 (Goodhart's Law)

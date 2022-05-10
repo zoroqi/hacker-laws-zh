@@ -1,12 +1,15 @@
 ---
 aliases:
-- "里氏替换原则"
-- "The Liskov Substitution Principle"
-name: "The Liskov Substitution Principle"
-zhname: "里氏替换原则"
+- 里氏替换原则
+- The Liskov Substitution Principle
+category:
+- 方法论
+- hacker-law
+name: The Liskov Substitution Principle
 tag:
-- "里氏替换原则"
-- "里氏替换"
+- 里氏替换原则
+- 里氏替换
+zhname: 里氏替换原则
 ---
 
 # 里氏替换原则 (The Liskov Substitution Principle)

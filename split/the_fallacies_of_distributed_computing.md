@@ -1,12 +1,15 @@
 ---
 aliases:
-- "分布式计算的谬论"
-- "The Fallacies of Distributed Computing"
-name: "The Fallacies of Distributed Computing"
-zhname: "分布式计算的谬论"
+- 分布式计算的谬论
+- The Fallacies of Distributed Computing
+category:
+- 方法论
+- hacker-law
+name: The Fallacies of Distributed Computing
 tag:
-- "分布式计算的谬论"
-- "谬论"
+- 分布式计算的谬论
+- 分布式计算
+zhname: 分布式计算的谬论
 ---
 
 # 分布式计算的谬论 (The Fallacies of Distributed Computing)

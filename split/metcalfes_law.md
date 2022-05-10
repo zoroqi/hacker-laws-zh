@@ -1,12 +1,15 @@
 ---
 aliases:
-- "梅特卡夫定律"
-- "Metcalfe's Law"
-name: "Metcalfe's Law"
-zhname: "梅特卡夫定律"
+- 梅特卡夫定律
+- Metcalfe's Law
+category:
+- 方法论
+- hacker-law
+name: Metcalfe's Law
 tag:
-- "梅特卡夫定律"
-- "梅特卡夫"
+- 梅特卡夫定律
+- 梅特卡夫
+zhname: 梅特卡夫定律
 ---
 
 # 梅特卡夫定律 (Metcalfe's Law)

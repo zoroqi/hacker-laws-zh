@@ -1,12 +1,15 @@
 ---
 aliases:
-- "席克定律"
-- "Hick's Law or Hick-Hyman Law"
-name: "Hick's Law or Hick-Hyman Law"
-zhname: "席克定律"
+- 席克定律
+- Hick's Law or Hick-Hyman Law
+category:
+- 方法论
+- hacker-law
+name: Hick's Law or Hick-Hyman Law
 tag:
-- "席克定律"
-- "席克"
+- 席克定律
+- 席克
+zhname: 席克定律
 ---
 
 # 席克定律 (Hick's Law or Hick-Hyman Law)

@@ -1,12 +1,15 @@
 ---
 aliases:
-- "维尔特定律"
-- "Wirth's law"
-name: "Wirth's law"
-zhname: "维尔特定律"
+- 维尔特定律
+- Wirth's law
+category:
+- 方法论
+- hacker-law
+name: Wirth's law
 tag:
-- "维尔特定律"
-- "维尔特"
+- 维尔特定律
+- 维尔特
+zhname: 维尔特定律
 ---
 
 # 维尔特定律 (Wirth's law)

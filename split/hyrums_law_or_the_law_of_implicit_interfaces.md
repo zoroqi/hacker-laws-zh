@@ -1,12 +1,15 @@
 ---
 aliases:
-- "隐式接口定律"
-- "Hyrum's Law or The Law of Implicit Interfaces"
-name: "Hyrum's Law or The Law of Implicit Interfaces"
-zhname: "隐式接口定律"
+- 隐式接口定律
+- Hyrum's Law or The Law of Implicit Interfaces
+category:
+- 方法论
+- hacker-law
+name: Hyrum's Law or The Law of Implicit Interfaces
 tag:
-- "隐式接口定律"
-- "隐式接口"
+- 隐式接口定律
+- 隐式接口
+zhname: 隐式接口定律
 ---
 
 # 隐式接口定律 (Hyrum's Law or The Law of Implicit Interfaces)

@@ -1,12 +1,15 @@
 ---
 aliases:
-- "邓宁-克鲁格效应"
-- "The Dunning-Kruger Effect"
-name: "The Dunning-Kruger Effect"
-zhname: "邓宁-克鲁格效应"
+- 邓宁-克鲁格效应
+- The Dunning-Kruger Effect
+category:
+- 方法论
+- hacker-law
+name: The Dunning-Kruger Effect
 tag:
-- "邓宁-克鲁格效应"
-- "邓宁-克鲁格"
+- 邓宁-克鲁格效应
+- 邓宁-克鲁格
+zhname: 邓宁-克鲁格效应
 ---
 
 # 邓宁-克鲁格效应 (The Dunning-Kruger Effect)

@@ -1,12 +1,15 @@
 ---
 aliases:
-- "单一功能原则"
-- "The Single Responsibility Principle"
-name: "The Single Responsibility Principle"
-zhname: "单一功能原则"
+- 单一功能原则
+- The Single Responsibility Principle
+category:
+- 方法论
+- hacker-law
+name: The Single Responsibility Principle
 tag:
-- "单一功能原则"
-- "单一功能"
+- 单一功能原则
+- 单一功能
+zhname: 单一功能原则
 ---
 
 # 单一功能原则 (The Single Responsibility Principle)

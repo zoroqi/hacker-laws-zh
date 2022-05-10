@@ -1,12 +1,15 @@
 ---
 aliases:
-- "SOLID"
-- "SOLID"
-name: "SOLID"
-zhname: "SOLID"
+- SOLID
+- SOLID
+category:
+- 方法论
+- hacker-law
+name: SOLID
 tag:
-- "SOLID"
-- "SOLID"
+- SOLID
+- SOLID
+zhname: SOLID
 ---
 
 # SOLID (SOLID)

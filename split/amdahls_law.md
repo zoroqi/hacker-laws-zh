@@ -1,12 +1,15 @@
 ---
 aliases:
-- "阿姆达尔定律"
-- "Amdahl's Law"
-name: "Amdahl's Law"
-zhname: "阿姆达尔定律"
+- 阿姆达尔定律
+- Amdahl's Law
+category:
+- 方法论
+- hacker-law
+name: Amdahl's Law
 tag:
-- "阿姆达尔定律"
-- "阿姆达尔"
+- 阿姆达尔定律
+- 阿姆达尔
+zhname: 阿姆达尔定律
 ---
 
 # 阿姆达尔定律 (Amdahl's Law)

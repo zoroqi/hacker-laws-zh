@@ -1,12 +1,15 @@
 ---
 aliases:
-- "接口隔离原则"
-- "The Interface Segregation Principle"
-name: "The Interface Segregation Principle"
-zhname: "接口隔离原则"
+- 接口隔离原则
+- The Interface Segregation Principle
+category:
+- 方法论
+- hacker-law
+name: The Interface Segregation Principle
 tag:
-- "接口隔离原则"
-- "接口隔离"
+- 接口隔离原则
+- 接口隔离
+zhname: 接口隔离原则
 ---
 
 # 接口隔离原则 (The Interface Segregation Principle)

@@ -1,12 +1,15 @@
 ---
 aliases:
-- "得墨忒耳定律"
-- "The Law of Demeter"
-name: "The Law of Demeter"
-zhname: "得墨忒耳定律"
+- 得墨忒耳定律
+- The Law of Demeter
+category:
+- 方法论
+- hacker-law
+name: The Law of Demeter
 tag:
-- "得墨忒耳定律"
-- "得墨忒耳"
+- 得墨忒耳定律
+- 得墨忒耳
+zhname: 得墨忒耳定律
 ---
 
 # 得墨忒耳定律 (The Law of Demeter)

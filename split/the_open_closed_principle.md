@@ -1,12 +1,15 @@
 ---
 aliases:
-- "开闭原则"
-- "The Open/Closed Principle"
-name: "The Open/Closed Principle"
-zhname: "开闭原则"
+- 开闭原则
+- The Open/Closed Principle
+category:
+- 方法论
+- hacker-law
+name: The Open/Closed Principle
 tag:
-- "开闭原则"
-- "开闭"
+- 开闭原则
+- 开闭
+zhname: 开闭原则
 ---
 
 # 开闭原则 (The Open/Closed Principle)

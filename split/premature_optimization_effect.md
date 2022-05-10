@@ -1,12 +1,15 @@
 ---
 aliases:
-- "过早优化效应"
-- "Premature Optimization Effect"
-name: "Premature Optimization Effect"
-zhname: "过早优化效应"
+- 过早优化效应
+- Premature Optimization Effect
+category:
+- 方法论
+- hacker-law
+name: Premature Optimization Effect
 tag:
-- "过早优化效应"
-- "过早优化"
+- 过早优化效应
+- 过早优化
+zhname: 过早优化效应
 ---
 
 # 过早优化效应 (Premature Optimization Effect)

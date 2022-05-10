@@ -1,13 +1,16 @@
 ---
 aliases:
-- "你不需要它原则"
-- "YAGNI"
-name: "YAGNI"
-zhname: "你不需要它原则"
+- 你不需要它原则
+- YAGNI
+category:
+- 方法论
+- hacker-law
+name: YAGNI
 tag:
-- "你不需要它原则"
-- "你不需要它"
-- "YAGNI"
+- 你不需要它原则
+- 你不需要它
+- YAGNI
+zhname: 你不需要它原则
 ---
 
 # 你不需要它原则 (YAGNI)

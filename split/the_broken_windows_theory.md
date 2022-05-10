@@ -1,12 +1,15 @@
 ---
 aliases:
-- "破窗效应"
-- "The Broken Windows Theory"
-name: "The Broken Windows Theory"
-zhname: "破窗效应"
+- 破窗效应
+- The Broken Windows Theory
+category:
+- 方法论
+- hacker-law
+name: The Broken Windows Theory
 tag:
-- "破窗效应"
-- "破窗"
+- 破窗效应
+- 破窗
+zhname: 破窗效应
 ---
 
 # 破窗效应 (The Broken Windows Theory)

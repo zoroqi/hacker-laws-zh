@@ -1,12 +1,15 @@
 ---
 aliases:
-- "依赖反转原则"
-- "The Dependency Inversion Principle"
-name: "The Dependency Inversion Principle"
-zhname: "依赖反转原则"
+- 依赖反转原则
+- The Dependency Inversion Principle
+category:
+- 方法论
+- hacker-law
+name: The Dependency Inversion Principle
 tag:
-- "依赖反转原则"
-- "依赖反转"
+- 依赖反转原则
+- 依赖反转
+zhname: 依赖反转原则
 ---
 
 # 依赖反转原则 (The Dependency Inversion Principle)

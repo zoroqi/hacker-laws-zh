@@ -1,12 +1,15 @@
 ---
 aliases:
-- "利特尔法则"
-- "Little's law"
-name: "Little's law"
-zhname: "利特尔法则"
+- 利特尔法则
+- Little's law
+category:
+- 方法论
+- hacker-law
+name: Little's law
 tag:
-- "利特尔法则"
-- "利特尔"
+- 利特尔法则
+- 利特尔
+zhname: 利特尔法则
 ---
 
 # 利特尔法则 (Little's law)

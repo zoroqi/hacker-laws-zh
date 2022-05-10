@@ -1,12 +1,15 @@
 ---
 aliases:
-- "死海效应"
-- "The Dead Sea Effect"
-name: "The Dead Sea Effect"
-zhname: "死海效应"
+- 死海效应
+- The Dead Sea Effect
+category:
+- 方法论
+- hacker-law
+name: The Dead Sea Effect
 tag:
-- "死海效应"
-- "死海"
+- 死海效应
+- 死海
+zhname: 死海效应
 ---
 
 # 死海效应 (The Dead Sea Effect)

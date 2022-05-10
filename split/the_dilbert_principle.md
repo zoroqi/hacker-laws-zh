@@ -1,12 +1,15 @@
 ---
 aliases:
-- "呆伯特法则"
-- "The Dilbert Principle"
-name: "The Dilbert Principle"
-zhname: "呆伯特法则"
+- 呆伯特法则
+- The Dilbert Principle
+category:
+- 方法论
+- hacker-law
+name: The Dilbert Principle
 tag:
-- "呆伯特法则"
-- "呆伯特"
+- 呆伯特法则
+- 呆伯特
+zhname: 呆伯特法则
 ---
 
 # 呆伯特法则 (The Dilbert Principle)

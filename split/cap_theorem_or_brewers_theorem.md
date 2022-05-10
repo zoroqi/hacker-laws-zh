@@ -1,12 +1,15 @@
 ---
 aliases:
-- "CAP 定理"
-- "CAP Theorem or Brewer's Theorem"
-name: "CAP Theorem or Brewer's Theorem"
-zhname: "CAP 定理"
+- CAP 定理
+- CAP Theorem or Brewer's Theorem
+category:
+- 方法论
+- hacker-law
+name: CAP Theorem or Brewer's Theorem
 tag:
-- "CAP定理"
-- "CAP"
+- CAP定理
+- CAP
+zhname: CAP 定理
 ---
 
 # CAP 定理 (CAP Theorem or Brewer's Theorem)

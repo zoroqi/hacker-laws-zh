@@ -1,12 +1,15 @@
 ---
 aliases:
-- "沃德勒定律"
-- "Wadler's Law"
-name: "Wadler's Law"
-zhname: "沃德勒定律"
+- 沃德勒定律
+- Wadler's Law
+category:
+- 方法论
+- hacker-law
+name: Wadler's Law
 tag:
-- "沃德勒定律"
-- "沃德勒"
+- 沃德勒定律
+- 沃德勒
+zhname: 沃德勒定律
 ---
 
 # 沃德勒定律 (Wadler's Law)

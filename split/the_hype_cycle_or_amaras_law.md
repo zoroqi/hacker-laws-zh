@@ -1,12 +1,15 @@
 ---
 aliases:
-- "技术成熟度曲线"
-- "The Hype Cycle or Amara's Law"
-name: "The Hype Cycle or Amara's Law"
-zhname: "技术成熟度曲线"
+- 技术成熟度曲线
+- The Hype Cycle or Amara's Law
+category:
+- 方法论
+- hacker-law
+name: The Hype Cycle or Amara's Law
 tag:
-- "技术成熟度曲线"
-- "技术成熟度曲线"
+- 技术成熟度曲线
+- 技术成熟度曲线
+zhname: 技术成熟度曲线
 ---
 
 # 技术成熟度曲线 (The Hype Cycle or Amara's Law)

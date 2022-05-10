@@ -1,12 +1,15 @@
 ---
 aliases:
-- "布鲁克斯法则"
-- "Brooks's Law"
-name: "Brooks's Law"
-zhname: "布鲁克斯法则"
+- 布鲁克斯法则
+- Brooks's Law
+category:
+- 方法论
+- hacker-law
+name: Brooks's Law
 tag:
-- "布鲁克斯法则"
-- "布鲁克斯"
+- 布鲁克斯法则
+- 布鲁克斯
+zhname: 布鲁克斯法则
 ---
 
 # 布鲁克斯法则 (Brooks's Law)

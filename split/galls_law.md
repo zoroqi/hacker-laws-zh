@@ -1,12 +1,15 @@
 ---
 aliases:
-- "盖尔定律"
-- "Gall's Law"
-name: "Gall's Law"
-zhname: "盖尔定律"
+- 盖尔定律
+- Gall's Law
+category:
+- 方法论
+- hacker-law
+name: Gall's Law
 tag:
-- "盖尔定律"
-- "盖尔"
+- 盖尔定律
+- 盖尔
+zhname: 盖尔定律
 ---
 
 # 盖尔定律 (Gall's Law)

@@ -1,12 +1,15 @@
 ---
 aliases:
-- "舍基原理"
-- "The Shirky Principle"
-name: "The Shirky Principle"
-zhname: "舍基原理"
+- 舍基原理
+- The Shirky Principle
+category:
+- 方法论
+- hacker-law
+name: The Shirky Principle
 tag:
-- "舍基原理"
-- "舍基原理"
+- 舍基原理
+- 舍基原理
+zhname: 舍基原理
 ---
 
 # 舍基原理 (The Shirky Principle)

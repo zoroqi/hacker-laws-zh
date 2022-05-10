@@ -1,11 +1,14 @@
 ---
 aliases:
-- "眼镜蛇效应"
-- "Cobra effect"
-name: "Cobra effect"
-zhname: "眼镜蛇效应"
+- 眼镜蛇效应
+- Cobra effect
+category:
+- 方法论
+- hacker-law
+name: Cobra effect
 tag:
-- "眼镜蛇效应"
+- 眼镜蛇效应
+zhname: 眼镜蛇效应
 ---
 
 # 眼镜蛇效应 (Cobra effect)

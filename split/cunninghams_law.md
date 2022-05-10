@@ -1,12 +1,15 @@
 ---
 aliases:
-- "坎宁汉姆定律"
-- "Cunningham's Law"
-name: "Cunningham's Law"
-zhname: "坎宁汉姆定律"
+- 坎宁汉姆定律
+- Cunningham's Law
+category:
+- 方法论
+- hacker-law
+name: Cunningham's Law
 tag:
-- "坎宁汉姆定律"
-- "坎宁汉姆"
+- 坎宁汉姆定律
+- 坎宁汉姆
+zhname: 坎宁汉姆定律
 ---
 
 # 坎宁汉姆定律 (Cunningham's Law)

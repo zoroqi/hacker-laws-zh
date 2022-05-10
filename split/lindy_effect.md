@@ -1,12 +1,15 @@
 ---
 aliases:
-- "林迪效应"
-- "Lindy effect"
-name: "Lindy effect"
-zhname: "林迪效应"
+- 林迪效应
+- Lindy effect
+category:
+- 方法论
+- hacker-law
+name: Lindy effect
 tag:
-- "林迪效应"
-- "林迪"
+- 林迪效应
+- 林迪
+zhname: 林迪效应
 ---
 
 # 林迪效应 (Lindy effect)

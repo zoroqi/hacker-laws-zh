@@ -1,11 +1,14 @@
 ---
 aliases:
-- "切斯特森围栏"
-- "Chesterson's Fence"
-name: "Chesterson's Fence"
-zhname: "切斯特森围栏"
+- 切斯特森围栏
+- Chesterson's Fence
+category:
+- 方法论
+- hacker-law
+name: Chesterson's Fence
 tag:
-- "切斯特森围栏"
+- 切斯特森围栏
+zhname: 切斯特森围栏
 ---
 
 # 切斯特森围栏 (Chesterson's Fence)

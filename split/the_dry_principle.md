@@ -1,12 +1,15 @@
 ---
 aliases:
-- "不要重复你自己原则"
-- "The DRY Principle"
-name: "The DRY Principle"
-zhname: "不要重复你自己原则"
+- 不要重复你自己原则
+- The DRY Principle
+category:
+- 方法论
+- hacker-law
+name: The DRY Principle
 tag:
-- "不要重复你自己原则"
-- "不要重复你自己"
+- 不要重复你自己原则
+- 不要重复你自己
+zhname: 不要重复你自己原则
 ---
 
 # 不要重复你自己原则 (The DRY Principle)

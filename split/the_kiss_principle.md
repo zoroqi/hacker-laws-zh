@@ -1,12 +1,15 @@
 ---
 aliases:
-- "KISS 原则"
-- "The KISS Principle"
-name: "The KISS Principle"
-zhname: "KISS 原则"
+- KISS 原则
+- The KISS Principle
+category:
+- 方法论
+- hacker-law
+name: The KISS Principle
 tag:
-- "KISS 原则"
-- "KISS "
+- KISS 原则
+- 'KISS '
+zhname: KISS 原则
 ---
 
 # KISS 原则 (The KISS Principle)

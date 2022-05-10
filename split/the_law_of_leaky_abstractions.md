@@ -1,12 +1,15 @@
 ---
 aliases:
-- "抽象泄漏定律"
-- "The Law of Leaky Abstractions"
-name: "The Law of Leaky Abstractions"
-zhname: "抽象泄漏定律"
+- 抽象泄漏定律
+- The Law of Leaky Abstractions
+category:
+- 方法论
+- hacker-law
+name: The Law of Leaky Abstractions
 tag:
-- "抽象泄漏定律"
-- "抽象泄漏"
+- 抽象泄漏定律
+- 抽象泄漏
+zhname: 抽象泄漏定律
 ---
 
 # 抽象泄漏定律 (The Law of Leaky Abstractions)

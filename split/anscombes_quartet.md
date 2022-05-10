@@ -1,11 +1,14 @@
 ---
 aliases:
-- "安斯库姆四重奏"
-- "Anscombe's quartet"
-name: "Anscombe's quartet"
-zhname: "安斯库姆四重奏"
+- 安斯库姆四重奏
+- Anscombe's quartet
+category:
+- 方法论
+- hacker-law
+name: Anscombe's quartet
 tag:
-- "安斯库姆四重奏"
+- 安斯库姆四重奏
+zhname: 安斯库姆四重奏
 ---
 
 # 安斯库姆四重奏 (Anscombe's quartet)

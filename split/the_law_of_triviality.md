@@ -1,13 +1,16 @@
 ---
 aliases:
-- "帕金森琐碎定理"
-- "The Law of Triviality"
-name: "The Law of Triviality"
-zhname: "帕金森琐碎定理"
+- 帕金森琐碎定理
+- The Law of Triviality
+category:
+- 方法论
+- hacker-law
+name: The Law of Triviality
 tag:
-- "帕金森琐碎定理"
-- "帕金森琐碎"
-- "帕金森"
+- 帕金森琐碎定理
+- 帕金森琐碎
+- 帕金森
+zhname: 帕金森琐碎定理
 ---
 
 # 帕金森琐碎定理 (The Law of Triviality)

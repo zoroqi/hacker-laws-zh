@@ -1,12 +1,15 @@
 ---
 aliases:
-- "费茨法则"
-- "Fitts's Law"
-name: "Fitts's Law"
-zhname: "费茨法则"
+- 费茨法则
+- Fitts's Law
+category:
+- 方法论
+- hacker-law
+name: Fitts's Law
 tag:
-- "费茨法则"
-- "费茨"
+- 费茨法则
+- 费茨
+zhname: 费茨法则
 ---
 
 # 费茨法则 (Fitts's Law)

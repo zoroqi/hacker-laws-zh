@@ -1,12 +1,15 @@
 ---
 aliases:
-- "墨菲定律"
-- "Murphy's Law / Sod's Law"
-name: "Murphy's Law / Sod's Law"
-zhname: "墨菲定律"
+- 墨菲定律
+- Murphy's Law / Sod's Law
+category:
+- 方法论
+- hacker-law
+name: Murphy's Law / Sod's Law
 tag:
-- "墨菲定律"
-- "墨菲"
+- 墨菲定律
+- 墨菲
+zhname: 墨菲定律
 ---
 
 # 墨菲定律 (Murphy's Law / Sod's Law)

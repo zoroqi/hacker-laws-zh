@@ -1,12 +1,15 @@
 ---
 aliases:
-- "摩尔定律"
-- "Moore's Law"
-name: "Moore's Law"
-zhname: "摩尔定律"
+- 摩尔定律
+- Moore's Law
+category:
+- 方法论
+- hacker-law
+name: Moore's Law
 tag:
-- "摩尔定律"
-- "摩尔"
+- 摩尔定律
+- 摩尔
+zhname: 摩尔定律
 ---
 
 # 摩尔定律 (Moore's Law)

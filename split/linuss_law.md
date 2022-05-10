@@ -1,12 +1,15 @@
 ---
 aliases:
-- "林纳斯定律"
-- "Linus's Law"
-name: "Linus's Law"
-zhname: "林纳斯定律"
+- 林纳斯定律
+- Linus's Law
+category:
+- 方法论
+- hacker-law
+name: Linus's Law
 tag:
-- "林纳斯定律"
-- "林纳斯"
+- 林纳斯定律
+- 林纳斯
+zhname: 林纳斯定律
 ---
 
 # 林纳斯定律 (Linus's Law)

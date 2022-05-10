@@ -1,11 +1,14 @@
 ---
 aliases:
-- "Unix 哲学"
-- "The Unix Philosophy"
-name: "The Unix Philosophy"
-zhname: "Unix 哲学"
+- Unix 哲学
+- The Unix Philosophy
+category:
+- 方法论
+- hacker-law
+name: The Unix Philosophy
 tag:
-- "Unix"
+- Unix
+zhname: Unix 哲学
 ---
 
 # Unix 哲学 (The Unix Philosophy)

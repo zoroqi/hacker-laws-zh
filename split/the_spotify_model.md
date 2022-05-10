@@ -1,12 +1,15 @@
 ---
 aliases:
-- "Spotify 模型"
-- "The Spotify Model"
-name: "The Spotify Model"
-zhname: "Spotify 模型"
+- Spotify 模型
+- The Spotify Model
+category:
+- 方法论
+- hacker-law
+name: The Spotify Model
 tag:
-- "Spotify模型"
-- "Spotify"
+- Spotify模型
+- Spotify
+zhname: Spotify 模型
 ---
 
 # Spotify 模型 (The Spotify Model)

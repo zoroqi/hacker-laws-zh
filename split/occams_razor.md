@@ -1,12 +1,15 @@
 ---
 aliases:
-- "奥卡姆剃刀"
-- "Occam's Razor"
-name: "Occam's Razor"
-zhname: "奥卡姆剃刀"
+- 奥卡姆剃刀
+- Occam's Razor
+category:
+- 方法论
+- hacker-law
+name: Occam's Razor
 tag:
-- "奥卡姆剃刀"
-- "奥卡姆剃刀"
+- 奥卡姆剃刀
+- 奥卡姆剃刀
+zhname: 奥卡姆剃刀
 ---
 
 # 奥卡姆剃刀 (Occam's Razor)

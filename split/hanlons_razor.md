@@ -1,11 +1,14 @@
 ---
 aliases:
-- "汉隆的剃刀"
-- "Hanlon's Razor"
-name: "Hanlon's Razor"
-zhname: "汉隆的剃刀"
+- 汉隆的剃刀
+- Hanlon's Razor
+category:
+- 方法论
+- hacker-law
+name: Hanlon's Razor
 tag:
-- "汉隆的剃刀"
+- 汉隆的剃刀
+zhname: 汉隆的剃刀
 ---
 
 # 汉隆的剃刀 (Hanlon's Razor)
