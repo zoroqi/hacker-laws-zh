@@ -1,0 +1,20 @@
+---
+aliases:
+- Moral luck
+- 道德运气
+category:
+- 行为经济学
+- 认知偏见
+- 认知偏差
+- 认知偏误
+groups: 社会偏差
+name:
+- Moral luck
+zhname:
+- 道德运气
+zhwiki: https://zh.wikipedia.org/wiki/%E9%81%93%E5%BE%B7%E8%BF%90%E6%B0%94
+---
+
+# 道德运气
+
+评价他人行为的道德时，根据结果而非根据行为时的情境。

@@ -1,0 +1,20 @@
+---
+aliases:
+- Zero-sum heuristic
+- 零和捷思
+category:
+- 行为经济学
+- 认知偏见
+- 认知偏差
+- 认知偏误
+groups: 决策、信念与行为偏差
+name:
+- Zero-sum heuristic
+zhname:
+- 零和捷思
+zhwiki: https://zh.wikipedia.org/w/index.php?title=%E9%9B%B6%E5%92%8C%E6%8D%B7%E6%80%9D&action=edit&redlink=1
+---
+
+# 零和捷思
+
+直觉判定一个情况是零和的，但实情未必如此。零和一词源于博弈论，是指成功与失败期望值的总和为零。
