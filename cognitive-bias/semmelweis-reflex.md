@@ -12,7 +12,6 @@ name:
 - Semmelweis reflex
 zhname:
 - 塞麦尔维斯反射
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%A1%9E%E9%BA%A5%E7%88%BE%E7%B6%AD%E6%96%AF%E5%8F%8D%E5%B0%84&action=edit&redlink=1
 ---
 
 # 塞麦尔维斯反射

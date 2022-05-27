@@ -12,7 +12,6 @@ name:
 - Denomination effect
 zhname:
 - 面额效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E9%9D%A2%E9%A1%8D%E6%95%88%E6%87%89&action=edit&redlink=1
 ---
 
 # 面额效应

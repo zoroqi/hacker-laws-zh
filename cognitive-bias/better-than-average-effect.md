@@ -19,8 +19,6 @@ name:
 zhname:
 - 优于常人效应
 - 优越感偏差
-- ""
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%84%AA%E6%96%BC%E5%B8%B8%E4%BA%BA%E6%95%88%E6%87%89&action=edit&redlink=1
 ---
 
 # 优于常人效应

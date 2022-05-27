@@ -12,7 +12,6 @@ name:
 - Exclusion bias
 zhname:
 - 排除偏差
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E6%8E%92%E9%99%A4%E5%81%8F%E8%AA%A4&action=edit&redlink=1
 ---
 
 # 排除偏差

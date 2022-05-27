@@ -12,7 +12,6 @@ name:
 - Shared information bias
 zhname:
 - 共有资讯偏差
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%85%B1%E6%9C%89%E8%B3%87%E8%A8%8A%E5%81%8F%E8%AA%A4&action=edit&redlink=1
 ---
 
 # 共有资讯偏差

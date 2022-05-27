@@ -12,7 +12,6 @@ name:
 - Testing effect
 zhname:
 - 考试效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E8%80%83%E8%A9%A6%E6%95%88%E6%87%89&action=edit&redlink=1
 ---
 
 # 考试效应

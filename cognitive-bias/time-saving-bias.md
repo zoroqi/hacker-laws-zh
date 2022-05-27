@@ -12,7 +12,6 @@ name:
 - Time-saving bias
 zhname:
 - 省时偏差
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E7%9C%81%E6%99%82%E5%81%8F%E8%AA%A4&action=edit&redlink=1
 ---
 
 # 省时偏差

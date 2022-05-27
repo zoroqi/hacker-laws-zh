@@ -12,7 +12,6 @@ name:
 - Exaggerated expectation
 zhname:
 - 极端预期
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E6%9E%81%E7%AB%AF%E9%A2%84%E6%9C%9F&action=edit&redlink=1
 ---
 
 # 极端预期

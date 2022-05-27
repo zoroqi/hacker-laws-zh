@@ -16,7 +16,6 @@ name:
 zhname:
 - 风险代偿
 - 佩兹曼效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E9%A2%A8%E9%9A%AA%E4%BB%A3%E5%84%9F&action=edit&redlink=1
 ---
 
 # 风险代偿

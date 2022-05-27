@@ -12,7 +12,6 @@ name:
 - Contrast effect
 zhname:
 - 对比效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%AF%B9%E6%AF%94%E6%95%88%E5%BA%94&action=edit&redlink=1
 ---
 
 # 对比效应

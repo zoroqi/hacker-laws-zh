@@ -14,7 +14,6 @@ name:
 zhname:
 - 系统正当化
 - 制度正当化
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E7%B3%BB%E7%B5%B1%E6%AD%A3%E7%95%B6%E5%8C%96&action=edit&redlink=1
 ---
 
 # 系统正当化

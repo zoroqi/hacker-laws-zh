@@ -12,7 +12,6 @@ name:
 - Comfort zone effect
 zhname:
 - 舒适区效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E8%88%92%E9%81%A9%E5%8D%80%E6%95%88%E6%87%89&action=edit&redlink=1
 ---
 
 # 舒适区效应

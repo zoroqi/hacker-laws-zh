@@ -12,7 +12,6 @@ name:
 - Overdiagnosis bias
 zhname:
 - 过度诊断偏差
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E9%81%8E%E5%BA%A6%E8%A8%BA%E6%96%B7%E5%81%8F%E8%AA%A4&action=edit&redlink=1
 ---
 
 # 过度诊断偏差

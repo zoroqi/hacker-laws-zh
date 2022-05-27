@@ -12,7 +12,6 @@ name:
 - Post-purchase rationalization
 zhname:
 - 购后合理化
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E8%B4%AD%E5%90%8E%E5%90%88%E7%90%86%E5%8C%96&action=edit&redlink=1
 ---
 
 # 购后合理化

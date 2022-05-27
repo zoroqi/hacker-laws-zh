@@ -12,7 +12,6 @@ name:
 - Availability cascade
 zhname:
 - 可获性层叠
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%8F%AF%E7%8D%B2%E6%80%A7%E5%B1%A4%E7%96%8A&action=edit&redlink=1
 ---
 
 # 可获性层叠

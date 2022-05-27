@@ -12,7 +12,6 @@ name:
 - Leveling and Sharpening
 zhname:
 - 钝化与锐化
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E9%88%8D%E5%8C%96%E8%88%87%E9%8A%B3%E5%8C%96&action=edit&redlink=1
 ---
 
 # 钝化与锐化

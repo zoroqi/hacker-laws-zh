@@ -12,7 +12,6 @@ name:
 - Spotlight effect
 zhname:
 - 镁光灯效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E9%8E%82%E5%85%89%E7%87%88%E6%95%88%E6%87%89&action=edit&redlink=1
 ---
 
 # 镁光灯效应

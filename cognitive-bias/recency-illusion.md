@@ -12,7 +12,6 @@ name:
 - Recency illusion
 zhname:
 - 新词错觉
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E6%96%B0%E8%A9%9E%E9%8C%AF%E8%A6%BA&action=edit&redlink=1
 ---
 
 # 新词错觉

@@ -12,7 +12,6 @@ name:
 - List-length effect
 zhname:
 - 列表清度效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%88%97%E8%A1%A8%E6%B8%85%E5%BA%A6%E6%95%88%E6%87%89&action=edit&redlink=1
 ---
 
 # 列表清度效应

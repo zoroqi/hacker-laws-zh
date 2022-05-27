@@ -12,7 +12,6 @@ name:
 - Peak-end rule
 zhname:
 - 峰终法则
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%B3%B0%E7%B5%82%E6%B3%95%E5%89%87&action=edit&redlink=1
 ---
 
 # 峰终法则

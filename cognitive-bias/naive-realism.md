@@ -12,7 +12,6 @@ name:
 - Naïve realism
 zhname:
 - 素朴实在论
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E7%B4%A0%E6%A8%B8%E5%AF%A6%E5%9C%A8%E8%AB%96&action=edit&redlink=1
 ---
 
 # 素朴实在论

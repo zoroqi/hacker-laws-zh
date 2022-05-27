@@ -12,7 +12,6 @@ name:
 - Observation selection bias
 zhname:
 - 选择性观察偏差
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E9%81%B8%E6%93%87%E6%80%A7%E8%A7%80%E5%AF%9F%E5%81%8F%E8%AA%A4&action=edit&redlink=1
 ---
 
 # 选择性观察偏差

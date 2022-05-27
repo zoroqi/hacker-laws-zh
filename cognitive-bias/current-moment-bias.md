@@ -20,9 +20,7 @@ name:
 zhname:
 - 当下偏差
 - 现时偏差
-- ""
 - 双曲折现
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E7%95%B6%E4%B8%8B%E5%81%8F%E8%AA%A4&action=edit&redlink=1
 ---
 
 # 当下偏差

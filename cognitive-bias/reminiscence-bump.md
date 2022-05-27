@@ -12,7 +12,6 @@ name:
 - Reminiscence bump
 zhname:
 - 怀旧凸隆
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E6%87%B7%E8%88%8A%E5%87%B8%E9%9A%86&action=edit&redlink=1
 ---
 
 # 怀旧凸隆

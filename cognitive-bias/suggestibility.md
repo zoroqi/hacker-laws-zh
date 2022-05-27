@@ -12,7 +12,6 @@ name:
 - Suggestibility
 zhname:
 - 可暗示性
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%8F%AF%E6%9A%97%E7%A4%BA%E6%80%A7&action=edit&redlink=1
 ---
 
 # 可暗示性

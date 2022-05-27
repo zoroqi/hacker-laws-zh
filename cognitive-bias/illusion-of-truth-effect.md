@@ -12,7 +12,6 @@ name:
 - Illusion of truth effect
 zhname:
 - 真相错觉效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E7%9C%9F%E7%9B%B8%E9%8C%AF%E8%A6%BA%E6%95%88%E6%87%89&action=edit&redlink=1
 ---
 
 # 真相错觉效应

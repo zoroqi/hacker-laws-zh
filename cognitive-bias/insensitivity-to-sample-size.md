@@ -12,7 +12,6 @@ name:
 - Insensitivity to sample size
 zhname:
 - 对样本数不敏锐
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%B0%8D%E6%A8%A3%E6%9C%AC%E6%95%B8%E4%B8%8D%E6%95%8F%E9%8A%B3&action=edit&redlink=1
 ---
 
 # 对样本数不敏锐

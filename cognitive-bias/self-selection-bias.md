@@ -12,7 +12,6 @@ name:
 - Self-selection bias
 zhname:
 - 自我选择偏差
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E8%87%AA%E6%88%91%E9%81%B8%E6%93%87%E5%81%8F%E8%AA%A4&action=edit&redlink=1
 ---
 
 # 自我选择偏差

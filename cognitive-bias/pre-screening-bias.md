@@ -12,7 +12,6 @@ name:
 - Pre-screening bias
 zhname:
 - 预筛选偏差
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E9%A0%90%E7%AF%A9%E9%81%B8%E5%81%8F%E8%AA%A4&action=edit&redlink=1
 ---
 
 # 预筛选偏差

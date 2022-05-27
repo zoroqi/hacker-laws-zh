@@ -12,7 +12,6 @@ name:
 - Moral credential effect
 zhname:
 - 道德许可证效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E9%81%93%E5%BE%B7%E8%A8%B1%E5%8F%AF%E8%AD%89%E6%95%88%E6%87%89&action=edit&redlink=1
 ---
 
 # 道德许可证效应

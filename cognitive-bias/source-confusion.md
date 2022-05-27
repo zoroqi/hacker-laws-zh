@@ -12,7 +12,6 @@ name:
 - Source confusion
 zhname:
 - 来源混淆
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E4%BE%86%E6%BA%90%E6%B7%B7%E6%B7%86&action=edit&redlink=1
 ---
 
 # 来源混淆

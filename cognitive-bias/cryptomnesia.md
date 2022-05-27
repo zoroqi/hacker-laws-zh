@@ -12,7 +12,6 @@ name:
 - Cryptomnesia
 zhname:
 - 潜抑记忆
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E6%BD%9B%E6%8A%91%E8%A8%98%E6%86%B6&action=edit&redlink=1
 ---
 
 # 潜抑记忆

@@ -12,7 +12,6 @@ name:
 - Telescoping effect
 zhname:
 - 伸缩效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E4%BC%B8%E7%B8%AE%E6%95%88%E6%87%89&action=edit&redlink=1
 ---
 
 # 伸缩效应

@@ -12,7 +12,6 @@ name:
 - Impact bias
 zhname:
 - 影响力偏差
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%BD%B1%E9%9F%BF%E5%8A%9B%E5%81%8F%E8%AA%A4&action=edit&redlink=1
 ---
 
 # 影响力偏差

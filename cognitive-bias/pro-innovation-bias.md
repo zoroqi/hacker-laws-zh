@@ -12,7 +12,6 @@ name:
 - Pro-innovation bias
 zhname:
 - 支持创新偏差
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E6%94%AF%E6%8C%81%E5%89%B5%E6%96%B0%E5%81%8F%E8%AA%A4&action=edit&redlink=1
 ---
 
 # 支持创新偏差

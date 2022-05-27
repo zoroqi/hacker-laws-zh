@@ -12,7 +12,6 @@ name:
 - Persistence of traumatic event
 zhname:
 - 创伤的持续性
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%89%B5%E5%82%B7%E7%9A%84%E6%8C%81%E7%BA%8C%E6%80%A7&action=edit&redlink=1
 ---
 
 # 创伤的持续性

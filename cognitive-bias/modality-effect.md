@@ -12,7 +12,6 @@ name:
 - Modality effect
 zhname:
 - 模态效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E6%A8%A1%E6%85%8B%E6%95%88%E6%87%89&action=edit&redlink=1
 ---
 
 # 模态效应

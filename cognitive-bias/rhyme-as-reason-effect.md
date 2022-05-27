@@ -12,7 +12,6 @@ name:
 - Rhyme as reason effect
 zhname:
 - 韵律当理由效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E9%9F%BB%E5%BE%8B%E7%95%B6%E7%90%86%E7%94%B1%E6%95%88%E6%87%89&action=edit&redlink=1
 ---
 
 # 韵律当理由效应

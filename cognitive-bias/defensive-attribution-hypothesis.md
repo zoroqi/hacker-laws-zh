@@ -12,7 +12,6 @@ name:
 - Defensive attribution hypothesis
 zhname:
 - 防卫性归因
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E9%98%B2%E8%A1%9B%E6%80%A7%E6%AD%B8%E5%9B%A0&action=edit&redlink=1
 ---
 
 # 防卫性归因

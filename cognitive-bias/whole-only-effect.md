@@ -12,7 +12,6 @@ name:
 - Whole only effect
 zhname:
 - 只看整体效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%8F%AA%E7%9C%8B%E6%95%B4%E9%AB%94%E6%95%88%E6%87%89&action=edit&redlink=1
 ---
 
 # 只看整体效应

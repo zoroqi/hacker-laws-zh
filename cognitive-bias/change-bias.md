@@ -12,7 +12,6 @@ name:
 - Change bias
 zhname:
 - 改变偏差
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E6%94%B9%E8%AE%8A%E5%81%8F%E8%AA%A4&action=edit&redlink=1
 ---
 
 # 改变偏差

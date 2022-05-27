@@ -16,7 +16,6 @@ name:
 zhname:
 - 正面结果偏差
 - 情价效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E6%AD%A3%E9%9D%A2%E7%B5%90%E6%9E%9C%E5%81%8F%E8%AA%A4&action=edit&redlink=1
 ---
 
 # 正面结果偏差

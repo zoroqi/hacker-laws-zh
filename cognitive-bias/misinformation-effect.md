@@ -12,7 +12,6 @@ name:
 - Misinformation effect
 zhname:
 - 错误讯息效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E9%8C%AF%E8%AA%A4%E8%A8%8A%E6%81%AF%E6%95%88%E6%87%89&action=edit&redlink=1
 ---
 
 # 错误讯息效应

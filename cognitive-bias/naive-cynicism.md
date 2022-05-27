@@ -12,7 +12,6 @@ name:
 - Naïve cynicism
 zhname:
 - 素朴犬儒主义
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E7%B4%A0%E6%A8%B8%E7%8A%AC%E5%84%92%E4%B8%BB%E7%BE%A9&action=edit&redlink=1
 ---
 
 # 素朴犬儒主义

@@ -12,7 +12,6 @@ name:
 - Default effect
 zhname:
 - 默认效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E9%BB%98%E8%AA%8D%E6%95%88%E5%BA%94&action=edit&redlink=1
 ---
 
 # 默认效应

@@ -12,7 +12,6 @@ name:
 - Egocentric bias
 zhname:
 - 自我中心偏差
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E8%87%AA%E6%88%91%E4%B8%AD%E5%BF%83%E5%81%8F%E8%AA%A4&action=edit&redlink=1
 ---
 
 # 自我中心偏差

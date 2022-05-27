@@ -12,7 +12,6 @@ name:
 - Pseudocertainty effect
 zhname:
 - 假确定性效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%81%87%E7%A2%BA%E5%AE%9A%E6%80%A7%E6%95%88%E6%87%89&action=edit&redlink=1
 ---
 
 # 假确定性效应

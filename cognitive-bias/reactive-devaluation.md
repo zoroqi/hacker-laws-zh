@@ -12,7 +12,6 @@ name:
 - Reactive devaluation
 zhname:
 - 反动贬低
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%8F%8D%E5%8B%95%E8%B2%B6%E4%BD%8E&action=edit&redlink=1
 ---
 
 # 反动贬低

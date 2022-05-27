@@ -12,7 +12,6 @@ name:
 - Subadditivity effect
 zhname:
 - 分开加总效应
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%88%86%E9%96%8B%E5%8A%A0%E7%B8%BD%E6%95%88%E6%87%89&action=edit&redlink=1
 ---
 
 # 分开加总效应

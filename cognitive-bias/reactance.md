@@ -14,7 +14,6 @@ name:
 zhname:
 - 对抗心理
 - 抗拒心理
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%B0%8D%E6%8A%97%E5%BF%83%E7%90%86&action=edit&redlink=1
 ---
 
 # 对抗心理

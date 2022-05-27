@@ -12,7 +12,6 @@ name:
 - Restraint bias
 zhname:
 - 自制偏差
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E8%87%AA%E5%88%B6%E5%81%8F%E8%AA%A4&action=edit&redlink=1
 ---
 
 # 自制偏差

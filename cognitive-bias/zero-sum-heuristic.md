@@ -12,7 +12,6 @@ name:
 - Zero-sum heuristic
 zhname:
 - 零和捷思
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E9%9B%B6%E5%92%8C%E6%8D%B7%E6%80%9D&action=edit&redlink=1
 ---
 
 # 零和捷思

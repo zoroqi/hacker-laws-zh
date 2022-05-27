@@ -12,7 +12,6 @@ name:
 - Circular analysis
 zhname:
 - 循环分析
-zhwiki: https://zh.wikipedia.org/w/index.php?title=%E5%BE%AA%E7%92%B0%E5%88%86%E6%9E%90&action=edit&redlink=1
 ---
 
 # 循环分析
