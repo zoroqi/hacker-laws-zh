@@ -38,4 +38,4 @@ CAP 定理由 Eric Brewer 所定义，它指出对于分布式数据存储来说
 - [ACID](#TODO)
 - [the_fallacies_of_distributed_computing|分布式计算的谬论](./the_fallacies_of_distributed_computing.md)
 - [PACELC](#TODO)
-
+- [CAP 定理的含义](https://www.ruanyifeng.com/blog/2018/07/cap.html)
