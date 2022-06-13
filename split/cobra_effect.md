@@ -2,6 +2,7 @@
 aliases:
 - 眼镜蛇效应
 - Cobra effect
+- 养寇自重
 category:
 - 方法论
 - hacker-law
