@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Escalation of commitment"
-- "承诺升级"
-name: "Escalation of commitment"
-zhname: "承诺升级"
-zhwiki: "https://zh.wikipedia.org/wiki/%E6%89%BF%E8%AB%BE%E5%8D%87%E7%B4%9A"
-groups: "组织结构"
+- Escalation of commitment
+- 承诺升级
+name: Escalation of commitment
+zhname: 承诺升级
+zhwiki: https://zh.wikipedia.org/wiki/%E6%89%BF%E8%AB%BE%E5%8D%87%E7%B4%9A
+groups: 组织结构
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703231949_915c48e30ed8407a
 ---
 
 # 承诺升级

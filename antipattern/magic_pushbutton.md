@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Magic pushbutton"
-- "魔力按键"
-name: "Magic pushbutton"
-zhname: "魔力按键"
-wiki: "https://en.wikipedia.org/wiki/Magic_pushbutton"
-groups: "软件设计"
+- Magic pushbutton
+- 魔力按键
+name: Magic pushbutton
+zhname: 魔力按键
+wiki: https://en.wikipedia.org/wiki/Magic_pushbutton
+groups: 软件设计
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703233715_7b0e545fd32a4711
 ---
 
 # 魔力按键

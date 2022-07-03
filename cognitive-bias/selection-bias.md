@@ -12,6 +12,7 @@ name:
 - Selection bias
 zhname:
 - 选择偏差
+id: 20220703232021_67529af586d445bc
 ---
 
 # 选择偏差

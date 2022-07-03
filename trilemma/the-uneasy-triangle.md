@@ -7,10 +7,11 @@ category:
 - Trilemma
 groups:
 - 经济上的三难困境
-tags:
-zhwiki:
+tags: null
+zhwiki: null
 name: The Uneasy Triangle
 zhname: 不稳定的三角关系
+id: 20220703231533_9527b547b6894152
 ---
 
 # 不稳定的三角关系

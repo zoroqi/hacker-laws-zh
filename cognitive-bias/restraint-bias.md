@@ -12,6 +12,7 @@ name:
 - Restraint bias
 zhname:
 - 自制偏差
+id: 20220703231224_e679e64e1b354387
 ---
 
 # 自制偏差

@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Poltergeists"
-- "幽灵"
-name: "Poltergeists"
-zhname: "幽灵"
-zhwiki: "https://zh.wikipedia.org/wiki/%E5%B9%BD%E7%81%B5_(%E5%8F%8D%E9%9D%A2%E6%A8%A1%E5%BC%8F))"
-groups: "面向对象设计"
+- Poltergeists
+- 幽灵
+name: Poltergeists
+zhname: 幽灵
+zhwiki: https://zh.wikipedia.org/wiki/%E5%B9%BD%E7%81%B5_(%E5%8F%8D%E9%9D%A2%E6%A8%A1%E5%BC%8F))
+groups: 面向对象设计
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703232247_6490733ddc2c44f3
 ---
 
 # 幽灵

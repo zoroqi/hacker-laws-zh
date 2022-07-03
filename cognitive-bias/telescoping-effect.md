@@ -12,6 +12,7 @@ name:
 - Telescoping effect
 zhname:
 - 伸缩效应
+id: 20220703230039_4614e990f0e3411f
 ---
 
 # 伸缩效应

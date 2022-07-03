@@ -13,6 +13,7 @@ name:
 zhname:
 - 正常化偏差
 zhwiki: https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%B8%B8%E5%8C%96%E5%81%8F%E8%AA%A4
+id: 20220703230337_1a0f8ab644944e7a
 ---
 
 # 正常化偏差

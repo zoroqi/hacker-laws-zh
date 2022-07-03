@@ -13,6 +13,7 @@ name:
 zhname:
 - 诱饵效应
 zhwiki: https://zh.wikipedia.org/wiki/%E8%AA%98%E9%A4%8C%E6%95%88%E6%87%89
+id: 20220703225126_1e2335042cf64b55
 ---
 
 # 诱饵效应

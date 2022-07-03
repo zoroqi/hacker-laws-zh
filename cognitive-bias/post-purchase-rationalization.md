@@ -12,6 +12,7 @@ name:
 - Post-purchase rationalization
 zhname:
 - 购后合理化
+id: 20220703231204_636789faa81a4c10
 ---
 
 # 购后合理化

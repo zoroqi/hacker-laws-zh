@@ -9,6 +9,7 @@ name: The Unix Philosophy
 tag:
 - Unix
 zhname: Unix 哲学
+id: 20220703230230_2fcba071eeb447d4
 ---
 
 # Unix 哲学 (The Unix Philosophy)

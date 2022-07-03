@@ -17,6 +17,7 @@ zhname:
 - 选择性注意
 - 选择性知觉
 zhwiki: https://zh.wikipedia.org/wiki/%E9%81%B8%E6%93%87%E6%80%A7%E6%B3%A8%E6%84%8F
+id: 20220703230616_a29b17d4e9364616
 ---
 
 # 选择性注意

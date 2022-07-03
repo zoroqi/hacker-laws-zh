@@ -11,6 +11,7 @@ tag:
 - 帕金森琐碎
 - 帕金森
 zhname: 帕金森琐碎定理
+id: 20220703233354_d1abc30ce17d4ec8
 ---
 
 # 帕金森琐碎定理 (The Law of Triviality)

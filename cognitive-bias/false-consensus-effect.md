@@ -13,6 +13,7 @@ name:
 zhname:
 - 错误共识效应
 zhwiki: https://zh.wikipedia.org/wiki/%E9%8C%AF%E8%AA%A4%E5%85%B1%E8%AD%98%E6%95%88%E6%87%89
+id: 20220703232524_74ca0e2c0d5b4de7
 ---
 
 # 错误共识效应

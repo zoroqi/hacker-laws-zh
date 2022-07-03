@@ -1,15 +1,16 @@
 ---
 aliases:
-- "invented here"
-- "这里发明的"
-name: "invented here"
-zhname: "这里发明的"
-wiki: "https://en.wikipedia.org/wiki/invented_here"
-groups: "方法论"
+- invented here
+- 这里发明的
+name: invented here
+zhname: 这里发明的
+wiki: https://en.wikipedia.org/wiki/invented_here
+groups: 方法论
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703225833_a896afd2579f471b
 ---
 
 # 这里发明的

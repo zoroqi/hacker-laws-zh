@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Dependency hell"
-- "依赖地狱"
-- "相依性地狱"
-name: "Dependency hell"
-zhname: "依赖地狱"
-zhwiki: "https://zh.wikipedia.org/wiki/%E4%BE%9D%E8%B5%96%E5%9C%B0%E7%8B%B1"
-groups: "配置管理"
+- Dependency hell
+- 依赖地狱
+- 相依性地狱
+name: Dependency hell
+zhname: 依赖地狱
+zhwiki: https://zh.wikipedia.org/wiki/%E4%BE%9D%E8%B5%96%E5%9C%B0%E7%8B%B1
+groups: 配置管理
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703232113_1af8e43aec6348d0
 ---
 
 # 依赖地狱

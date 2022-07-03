@@ -17,6 +17,7 @@ zhname:
 - 保守倾向
 - 退缩偏差
 zhwiki: https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%AE%88%E5%82%BE%E5%90%91
+id: 20220703225140_66db87818bce4ec3
 ---
 
 # 保守倾向

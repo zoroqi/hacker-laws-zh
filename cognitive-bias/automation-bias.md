@@ -12,6 +12,7 @@ name:
 - Automation bias
 zhname:
 - 自动化的偏见
+id: 20220703224537_77d3b0339ce54fda
 ---
 
 # 自动化的偏见

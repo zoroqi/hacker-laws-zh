@@ -12,6 +12,7 @@ name:
 - Reactive devaluation
 zhname:
 - 反动贬低
+id: 20220703225713_d55e9976f63642f3
 ---
 
 # 反动贬低

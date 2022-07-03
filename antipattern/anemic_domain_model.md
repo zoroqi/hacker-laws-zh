@@ -1,14 +1,15 @@
 ---
 aliases:
-- "Anemic Domain Model"
-- "贫血的域模型"
-name: "Anemic Domain Model"
-zhname: "贫血的域模型"
-groups: "面向对象设计"
+- Anemic Domain Model
+- 贫血的域模型
+name: Anemic Domain Model
+zhname: 贫血的域模型
+groups: 面向对象设计
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703233637_61427429af534b8a
 ---
 
 # 贫血的域模型

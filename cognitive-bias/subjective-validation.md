@@ -15,6 +15,7 @@ zhname:
 - 主观验证
 - 主观确认
 zhwiki: https://zh.wikipedia.org/wiki/%E4%B8%BB%E8%A7%82%E9%AA%8C%E8%AF%81
+id: 20220703232422_7a87ec85c32149fc
 ---
 
 # 主观验证

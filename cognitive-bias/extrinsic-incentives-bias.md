@@ -13,6 +13,7 @@ name:
 zhname:
 - 外在激励偏差
 zhwiki: https://zh.wikipedia.org/wiki/%E5%A4%96%E5%9C%A8%E6%BF%80%E5%8A%B1%E5%81%8F%E5%B7%AE
+id: 20220703225830_63308a617818476d
 ---
 
 # 外在激励偏差

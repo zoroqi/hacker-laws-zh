@@ -13,6 +13,7 @@ name:
 zhname:
 - 德州神枪手谬误
 zhwiki: https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%B7%9E%E7%A5%9E%E6%A7%8D%E6%89%8B%E8%AC%AC%E8%AA%A4
+id: 20220703230952_b343037647e146a6
 ---
 
 # 德州神枪手谬误

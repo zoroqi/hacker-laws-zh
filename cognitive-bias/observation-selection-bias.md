@@ -12,6 +12,7 @@ name:
 - Observation selection bias
 zhname:
 - 选择性观察偏差
+id: 20220703232834_c02dcae5fa254141
 ---
 
 # 选择性观察偏差

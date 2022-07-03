@@ -13,6 +13,7 @@ name:
 zhname:
 - 取样偏差
 zhwiki: https://zh.wikipedia.org/wiki/%E5%8F%96%E6%A8%A3%E5%81%8F%E8%AA%A4
+id: 20220703224542_c562bc6d3ea146f7
 ---
 
 # 取样偏差

@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Design by committee"
-- "委员会设计"
-name: "Design by committee"
-zhname: "委员会设计"
-zhwiki: "https://zh.wikipedia.org/wiki/%E5%A7%94%E5%91%98%E4%BC%9A%E8%AE%BE%E8%AE%A1"
-groups: "组织结构"
+- Design by committee
+- 委员会设计
+name: Design by committee
+zhname: 委员会设计
+zhwiki: https://zh.wikipedia.org/wiki/%E5%A7%94%E5%91%98%E4%BC%9A%E8%AE%BE%E8%AE%A1
+groups: 组织结构
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703232825_22d1a2efc4914ca4
 ---
 
 # 委员会设计

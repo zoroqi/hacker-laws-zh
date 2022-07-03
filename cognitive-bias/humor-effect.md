@@ -13,6 +13,7 @@ name:
 zhname:
 - 幽默效应
 zhwiki: https://zh.wikipedia.org/wiki/%E5%B9%BD%E9%BB%98%E6%95%88%E5%BA%94
+id: 20220703231855_03639bb277ea41a8
 ---
 
 # 幽默效应

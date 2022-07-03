@@ -13,6 +13,7 @@ name:
 zhname:
 - 逆火效应
 zhwiki: https://zh.wikipedia.org/wiki/%E9%80%86%E7%81%AB%E6%95%88%E6%87%89
+id: 20220703234445_38c9347f824446ee
 ---
 
 # 逆火效应

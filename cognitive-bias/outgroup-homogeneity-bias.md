@@ -13,6 +13,7 @@ name:
 zhname:
 - 外团体同质性偏见
 zhwiki: https://zh.wikipedia.org/wiki/%E5%A4%96%E5%9B%A2%E4%BD%93%E5%90%8C%E8%B4%A8%E6%80%A7%E5%81%8F%E8%A7%81
+id: 20220703225332_ff7c1b6ce3ef422f
 ---
 
 # 外团体同质性偏见

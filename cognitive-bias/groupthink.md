@@ -13,6 +13,7 @@ name:
 zhname:
 - 团体迷思
 zhwiki: https://zh.wikipedia.org/wiki/%E5%9C%98%E9%AB%94%E8%BF%B7%E6%80%9D
+id: 20220703233941_f3a2230b9a684593
 ---
 
 # 团体迷思

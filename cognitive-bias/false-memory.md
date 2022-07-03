@@ -17,6 +17,7 @@ zhname:
 - 虚假记忆
 - 虚谈
 zhwiki: https://zh.wikipedia.org/wiki/%E8%99%9B%E5%81%87%E8%A8%98%E6%86%B6
+id: 20220703230617_fbb65419c5b24d51
 ---
 
 # 虚假记忆

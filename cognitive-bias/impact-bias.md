@@ -12,6 +12,7 @@ name:
 - Impact bias
 zhname:
 - 影响力偏差
+id: 20220703224847_0292f6e72ea640f7
 ---
 
 # 影响力偏差

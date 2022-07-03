@@ -12,6 +12,7 @@ name:
 - Pre-screening bias
 zhname:
 - 预筛选偏差
+id: 20220703230426_0f34a318642e44c3
 ---
 
 # 预筛选偏差

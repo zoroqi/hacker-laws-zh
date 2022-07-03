@@ -7,10 +7,11 @@ category:
 - Trilemma
 groups:
 - 哲学上的三难困境
-tags:
-zhwiki:
+tags: null
+zhwiki: null
 name: The trilemma of censorship
 zhname: 言论审查的三难困境
+id: 20220703232012_77dcdbf18ec940b5
 ---
 
 # 言论审查的三难困境

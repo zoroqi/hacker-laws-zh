@@ -13,6 +13,7 @@ name:
 zhname:
 - 宜家效应
 zhwiki: https://zh.wikipedia.org/wiki/%E5%AE%9C%E5%AE%B6%E6%95%88%E6%87%89
+id: 20220703225334_27933873dc894ce6
 ---
 
 # 宜家效应

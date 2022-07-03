@@ -12,6 +12,7 @@ name:
 - Exclusion bias
 zhname:
 - 排除偏差
+id: 20220703231734_00e0ef545585455f
 ---
 
 # 排除偏差

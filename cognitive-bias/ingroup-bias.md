@@ -13,6 +13,7 @@ name:
 zhname:
 - 群内偏见
 zhwiki: https://zh.wikipedia.org/wiki/%E7%BE%A4%E5%86%85%E5%81%8F%E8%A7%81
+id: 20220703231812_2c28c878406244ee
 ---
 
 # 群内偏见

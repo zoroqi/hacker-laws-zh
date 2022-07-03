@@ -12,6 +12,7 @@ name:
 - Reporting bias
 zhname:
 - 通报偏差
+id: 20220703234458_30b40743fa684a2c
 ---
 
 # 通报偏差

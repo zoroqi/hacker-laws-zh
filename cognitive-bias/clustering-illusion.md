@@ -13,6 +13,7 @@ name:
 zhname:
 - 集群错觉
 zhwiki: https://zh.wikipedia.org/wiki/%E9%9B%86%E7%BE%A4%E9%8C%AF%E8%A6%BA
+id: 20220703234017_34b746fb1b424302
 ---
 
 # 集群错觉

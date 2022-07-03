@@ -13,6 +13,7 @@ name:
 zhname:
 - 舌尖现象
 zhwiki: https://zh.wikipedia.org/wiki/%E8%88%8C%E5%B0%96%E7%8F%BE%E8%B1%A1
+id: 20220703231111_f7ff021ddb0e4105
 ---
 
 # 舌尖现象

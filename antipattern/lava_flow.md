@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Lava flow"
-- "熔岩流"
-name: "Lava flow"
-zhname: "熔岩流"
-zhwiki: "https://zh.wikipedia.org/wiki/%E7%86%94%E5%B2%A9%E6%B5%81_(%E5%8F%8D%E6%A8%A1%E5%BC%8F)"
-groups: "编程"
+- Lava flow
+- 熔岩流
+name: Lava flow
+zhname: 熔岩流
+zhwiki: https://zh.wikipedia.org/wiki/%E7%86%94%E5%B2%A9%E6%B5%81_(%E5%8F%8D%E6%A8%A1%E5%BC%8F)
+groups: 编程
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703232433_1d6350efb34b4c21
 ---
 
 # 熔岩流

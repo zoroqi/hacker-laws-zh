@@ -15,6 +15,7 @@ zhname:
 - 反安慰剂效应
 - 反伪药效应
 zhwiki: https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%AE%89%E6%85%B0%E5%8A%91%E6%95%88%E6%87%89
+id: 20220703230257_bd8f721cee0548a0
 ---
 
 # 反安慰剂效应

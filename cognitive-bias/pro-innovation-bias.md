@@ -12,6 +12,7 @@ name:
 - Pro-innovation bias
 zhname:
 - 支持创新偏差
+id: 20220703232102_44f3a2aca9634777
 ---
 
 # 支持创新偏差

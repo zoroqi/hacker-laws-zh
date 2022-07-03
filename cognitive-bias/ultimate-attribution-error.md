@@ -13,6 +13,7 @@ name:
 zhname:
 - 终极归因错误
 zhwiki: https://zh.wikipedia.org/wiki/%E7%BB%88%E6%9E%81%E5%BD%92%E5%9B%A0%E9%94%99%E8%AF%AF
+id: 20220703233353_dae7ad47acc141e9
 ---
 
 # 终极归因错误

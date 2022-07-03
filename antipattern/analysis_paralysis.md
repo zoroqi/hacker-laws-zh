@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Analysis paralysis"
-- "分析瘫痪"
-name: "Analysis paralysis"
-zhname: "分析瘫痪"
-zhwiki: "https://zh.wikipedia.org/wiki/%E5%88%86%E6%9E%90%E7%99%B1%E7%98%93"
-groups: "组织结构"
+- Analysis paralysis
+- 分析瘫痪
+name: Analysis paralysis
+zhname: 分析瘫痪
+zhwiki: https://zh.wikipedia.org/wiki/%E5%88%86%E6%9E%90%E7%99%B1%E7%98%93
+groups: 组织结构
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703231639_23f11f1094b14f8f
 ---
 
 # 分析瘫痪

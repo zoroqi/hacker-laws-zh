@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Overengineering"
-- "过度设计"
-name: "Overengineering"
-zhname: "过度设计"
-zhwiki: "https://zh.wikipedia.org/wiki/%E8%BF%87%E5%BA%A6%E8%AE%BE%E8%AE%A1"
-groups: "项目管理"
+- Overengineering
+- 过度设计
+name: Overengineering
+zhname: 过度设计
+zhwiki: https://zh.wikipedia.org/wiki/%E8%BF%87%E5%BA%A6%E8%AE%BE%E8%AE%A1
+groups: 项目管理
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703233426_9bbbe987aacd47f1
 ---
 
 # 过度设计

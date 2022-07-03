@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Loop-switch sequence"
-- "循环-switch序列"
-name: "Loop-switch sequence"
-zhname: "循环-switch序列"
-wiki: "https://en.wikipedia.org/wiki/Loop-switch_sequence"
-groups: "编程"
+- Loop-switch sequence
+- 循环-switch序列
+name: Loop-switch sequence
+zhname: 循环-switch序列
+wiki: https://en.wikipedia.org/wiki/Loop-switch_sequence
+groups: 编程
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703224812_89406a8a47b74203
 ---
 
 # 循环-switch序列

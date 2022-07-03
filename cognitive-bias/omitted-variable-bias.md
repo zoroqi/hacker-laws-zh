@@ -12,6 +12,7 @@ name:
 - Omitted-variable bias
 zhname:
 - 遗漏变数偏差
+id: 20220703225628_9795ff71abc04b81
 ---
 
 # 遗漏变数偏差

@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Coding by exception"
-- "靠异常编程"
-name: "Coding by exception"
-zhname: "靠异常编程"
-wiki: "https://en.wikipedia.org/wiki/Coding_by_exception"
-groups: "编程"
+- Coding by exception
+- 靠异常编程
+name: Coding by exception
+zhname: 靠异常编程
+wiki: https://en.wikipedia.org/wiki/Coding_by_exception
+groups: 编程
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703232901_03068ae5949c4dbc
 ---
 
 # 靠异常编程

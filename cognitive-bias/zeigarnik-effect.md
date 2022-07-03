@@ -13,6 +13,7 @@ name:
 zhname:
 - 蔡格尼效应
 zhwiki: https://zh.wikipedia.org/wiki/%E8%94%A1%E6%A0%BC%E5%B0%BC%E6%95%88%E6%87%89
+id: 20220703234144_9a2009b3609b48d7
 ---
 
 # 蔡格尼效应

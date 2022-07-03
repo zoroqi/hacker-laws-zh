@@ -13,6 +13,7 @@ name:
 zhname:
 - 鸵鸟效应
 zhwiki: https://zh.wikipedia.org/wiki/%E9%B8%B5%E9%B8%9F%E6%95%88%E5%BA%94
+id: 20220703230131_27845f818dc14259
 ---
 
 # 鸵鸟效应

@@ -13,6 +13,7 @@ name:
 zhname:
 - 人类中心思维
 zhwiki: https://zh.wikipedia.org/wiki/%E4%BA%BA%E9%A1%9E%E4%B8%AD%E5%BF%83%E4%B8%BB%E7%BE%A9
+id: 20220703233208_8b0a40882aa64b19
 ---
 
 # 人类中心思维

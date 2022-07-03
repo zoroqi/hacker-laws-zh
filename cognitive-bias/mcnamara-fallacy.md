@@ -13,6 +13,7 @@ name:
 zhname:
 - 麦纳马拉谬误
 zhwiki: https://zh.wikipedia.org/wiki/%E9%BA%A5%E7%B4%8D%E9%A6%AC%E6%8B%89%E8%AC%AC%E8%AA%A4
+id: 20220703232032_2ad8d152d2644ac3
 ---
 
 # 麦纳马拉谬误

@@ -10,6 +10,7 @@ tag:
 - 单一功能原则
 - 单一功能
 zhname: 单一功能原则
+id: 20220703231618_01d9dd1c22394e1a
 ---
 
 # 单一功能原则 (The Single Responsibility Principle)

@@ -10,6 +10,7 @@ tag:
 - 破窗效应
 - 破窗
 zhname: 破窗效应
+id: 20220703233153_98256b213c2049cf
 ---
 
 # 破窗效应 (The Broken Windows Theory)

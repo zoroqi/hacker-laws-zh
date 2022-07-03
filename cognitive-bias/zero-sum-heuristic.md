@@ -12,6 +12,7 @@ name:
 - Zero-sum heuristic
 zhname:
 - 零和捷思
+id: 20220703232032_b97e46ec5d294efb
 ---
 
 # 零和捷思

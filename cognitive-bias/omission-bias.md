@@ -13,6 +13,7 @@ name:
 zhname:
 - 不作为偏差
 zhwiki: https://zh.wikipedia.org/wiki/%E4%B8%8D%E4%BD%9C%E4%B8%BA%E5%81%8F%E8%AF%AF
+id: 20220703231145_e2b527a30da8426d
 ---
 
 # 不作为偏差

@@ -7,10 +7,11 @@ category:
 - Trilemma
 groups:
 - 政治上的三难困境
-tags:
-zhwiki:
+tags: null
+zhwiki: null
 name: The Žižek trilemma
 zhname: 齐泽克三难困境
+id: 20220703233549_cfedff05d0e64c6a
 ---
 
 # 齐泽克三难困境

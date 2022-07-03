@@ -12,6 +12,7 @@ name:
 - Shared information bias
 zhname:
 - 共有资讯偏差
+id: 20220703225944_a62795e576c54b78
 ---
 
 # 共有资讯偏差

@@ -13,6 +13,7 @@ name:
 zhname:
 - 雷斯多夫效应
 zhwiki: https://zh.wikipedia.org/wiki/%E9%9B%B7%E6%96%AF%E5%A4%9A%E5%A4%AB%E6%95%88%E6%87%89
+id: 20220703232817_e71237fa17844bb4
 ---
 
 # 雷斯多夫效应

@@ -13,6 +13,7 @@ name:
 zhname:
 - 合取谬误
 zhwiki: https://zh.wikipedia.org/wiki/%E5%90%88%E5%8F%96%E8%B0%AC%E8%AF%AF
+id: 20220703234448_8caaac1257774ce5
 ---
 
 # 合取谬误

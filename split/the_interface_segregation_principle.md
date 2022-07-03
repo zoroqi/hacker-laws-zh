@@ -10,6 +10,7 @@ tag:
 - 接口隔离原则
 - 接口隔离
 zhname: 接口隔离原则
+id: 20220703230402_97f18a3997e0457c
 ---
 
 # 接口隔离原则 (The Interface Segregation Principle)

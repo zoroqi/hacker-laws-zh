@@ -12,6 +12,7 @@ name:
 - Self-selection bias
 zhname:
 - 自我选择偏差
+id: 20220703232039_dafd35368ce74624
 ---
 
 # 自我选择偏差

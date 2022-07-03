@@ -10,6 +10,7 @@ tag:
 - 帕累托法则
 - 帕累托
 zhname: 帕累托法则
+id: 20220703234409_1818bb3a911f4903
 ---
 
 # 帕累托法则 (The Pareto Principle or The 80/20 Rule)

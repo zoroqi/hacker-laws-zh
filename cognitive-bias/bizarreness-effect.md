@@ -12,6 +12,7 @@ name:
 - Bizarreness effect
 zhname:
 - 怪异效应
+id: 20220703234310_a0f17207a0fa4e5d
 ---
 
 # 怪异效应

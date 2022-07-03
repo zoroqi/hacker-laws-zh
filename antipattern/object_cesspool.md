@@ -1,14 +1,15 @@
 ---
 aliases:
-- "Object cesspool"
-- "对象粪池"
-name: "Object cesspool"
-zhname: "对象粪池"
-groups: "面向对象设计"
+- Object cesspool
+- 对象粪池
+name: Object cesspool
+zhname: 对象粪池
+groups: 面向对象设计
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703232809_6a9b58690e9b44e8
 ---
 
 # 对象粪池

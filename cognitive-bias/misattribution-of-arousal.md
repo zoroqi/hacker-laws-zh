@@ -13,6 +13,7 @@ name:
 zhname:
 - 唤醒的错误归因
 zhwiki: https://zh.wikipedia.org/wiki/%E5%96%9A%E9%86%92%E7%9A%84%E9%8C%AF%E8%AA%A4%E6%AD%B8%E5%9B%A0
+id: 20220703232538_7a6a0619417a4406
 ---
 
 # 唤醒的错误归因

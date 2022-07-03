@@ -9,9 +9,10 @@ groups:
 - 宗教上的三难困境
 tags:
 - 基督教
-zhwiki:
+zhwiki: null
 name: Epicurus' trilemma
 zhname: 伊比鸠鲁三难困境
+id: 20220703231808_6b9e0d8fc6984db9
 ---
 
 # 伊比鸠鲁三难困境

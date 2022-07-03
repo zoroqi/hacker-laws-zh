@@ -10,6 +10,7 @@ tag:
 - KISS 原则
 - 'KISS '
 zhname: KISS 原则
+id: 20220703234046_9e7886de63c54c30
 ---
 
 # KISS 原则 (The KISS Principle)

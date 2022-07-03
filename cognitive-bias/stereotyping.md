@@ -13,6 +13,7 @@ name:
 zhname:
 - 刻板印象
 zhwiki: https://zh.wikipedia.org/wiki/%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1
+id: 20220703234028_0c5c2ff789534c8d
 ---
 
 # 刻板印象

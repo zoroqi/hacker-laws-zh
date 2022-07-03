@@ -12,6 +12,7 @@ name:
 - Self-generation effect
 zhname:
 - 自我生产效应
+id: 20220703230300_a8f889ff7ce2424e
 ---
 
 # 自我生产效应

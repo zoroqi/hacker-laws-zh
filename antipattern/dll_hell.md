@@ -1,15 +1,16 @@
 ---
 aliases:
-- "DLL hell"
-- "DLL地狱"
-name: "DLL hell"
-zhname: "DLL地狱"
-zhwiki: "https://zh.wikipedia.org/wiki/DLL%E5%9C%B0%E7%8B%B1"
-groups: "配置管理"
+- DLL hell
+- DLL地狱
+name: DLL hell
+zhname: DLL地狱
+zhwiki: https://zh.wikipedia.org/wiki/DLL%E5%9C%B0%E7%8B%B1
+groups: 配置管理
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703232004_d5ab69fc975147ff
 ---
 
 # DLL地狱

@@ -13,6 +13,7 @@ name:
 zhname:
 - 控制的错觉
 zhwiki: https://zh.wikipedia.org/wiki/%E6%8E%A7%E5%88%B6%E7%9A%84%E9%8C%AF%E8%A6%BA
+id: 20220703225849_ea6101d554f34bce
 ---
 
 # 控制的错觉

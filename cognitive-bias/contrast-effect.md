@@ -12,6 +12,7 @@ name:
 - Contrast effect
 zhname:
 - 对比效应
+id: 20220703225851_b085c1f3016c4a79
 ---
 
 # 对比效应

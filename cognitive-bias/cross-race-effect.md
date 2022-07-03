@@ -13,6 +13,7 @@ name:
 zhname:
 - 跨种族效应
 zhwiki: https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%A7%8D%E6%97%8F%E6%95%88%E5%BA%94
+id: 20220703232757_6bbaa98f29794808
 ---
 
 # 跨种族效应

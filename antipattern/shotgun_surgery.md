@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Shotgun surgery"
-- "霰弹枪手术"
-name: "Shotgun surgery"
-zhname: "霰弹枪手术"
-wiki: "https://en.wikipedia.org/wiki/Shotgun_surgery"
-groups: "编程"
+- Shotgun surgery
+- 霰弹枪手术
+name: Shotgun surgery
+zhname: 霰弹枪手术
+wiki: https://en.wikipedia.org/wiki/Shotgun_surgery
+groups: 编程
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703231440_2063be5e8e5c4485
 ---
 
 # 霰弹枪手术

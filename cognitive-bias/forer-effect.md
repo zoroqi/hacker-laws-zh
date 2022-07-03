@@ -17,6 +17,7 @@ zhname:
 - 佛瑞效应
 - 巴纳姆效应
 zhwiki: https://zh.wikipedia.org/wiki/%E4%BD%9B%E7%91%9E%E6%95%88%E6%87%89
+id: 20220703231030_c2e2e5b4504243ee
 ---
 
 # 佛瑞效应

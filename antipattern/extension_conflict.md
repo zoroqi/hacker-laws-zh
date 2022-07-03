@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Extension conflict"
-- "扩展冲突"
-name: "Extension conflict"
-zhname: "扩展冲突"
-wiki: "https://en.wikipedia.org/wiki/Extension_conflict"
-groups: "配置管理"
+- Extension conflict
+- 扩展冲突
+name: Extension conflict
+zhname: 扩展冲突
+wiki: https://en.wikipedia.org/wiki/Extension_conflict
+groups: 配置管理
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703234108_41876d58d2934392
 ---
 
 # 扩展冲突

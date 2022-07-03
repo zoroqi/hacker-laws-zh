@@ -1,14 +1,15 @@
 ---
 aliases:
-- "Object orgy"
-- "不羁的对象"
-name: "Object orgy"
-zhname: "不羁的对象"
-groups: "面向对象设计"
+- Object orgy
+- 不羁的对象
+name: Object orgy
+zhname: 不羁的对象
+groups: 面向对象设计
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703232155_7ca9131f203d4dac
 ---
 
 # 不羁的对象

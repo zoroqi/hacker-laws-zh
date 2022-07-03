@@ -13,6 +13,7 @@ name:
 zhname:
 - 既视感
 zhwiki: https://zh.wikipedia.org/wiki/%E6%97%A2%E8%A6%96%E6%84%9F
+id: 20220703231326_90e4833d412847dc
 ---
 
 # 既视感

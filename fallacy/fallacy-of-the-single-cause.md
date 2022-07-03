@@ -13,6 +13,7 @@ zhname:
 - 单因谬误
 zhwiki:
 - https://zh.wikipedia.org/wiki/%E5%96%AE%E5%9B%A0%E8%AC%AC%E8%AA%A4
+id: 20220703230834_70054160031f475b
 ---
 
 # 单因谬误

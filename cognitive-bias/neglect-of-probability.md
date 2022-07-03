@@ -13,6 +13,7 @@ name:
 zhname:
 - 忽略可能性
 zhwiki: https://zh.wikipedia.org/wiki/%E5%BF%BD%E7%95%A5%E5%8F%AF%E8%83%BD%E6%80%A7
+id: 20220703230652_b9628b9eba274799
 ---
 
 # 忽略可能性

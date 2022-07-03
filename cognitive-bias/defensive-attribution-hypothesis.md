@@ -12,6 +12,7 @@ name:
 - Defensive attribution hypothesis
 zhname:
 - 防卫性归因
+id: 20220703230927_c093e736cb034be3
 ---
 
 # 防卫性归因

@@ -12,6 +12,7 @@ name:
 - Less-is-better effect
 zhname:
 - 少即是好的效应
+id: 20220703225912_59689495ea434bd5
 ---
 
 # 少即是好的效应

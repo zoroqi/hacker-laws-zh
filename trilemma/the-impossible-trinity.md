@@ -8,13 +8,14 @@ category:
 - Trilemma
 groups:
 - 经济上的三难困境
-tags:
+tags: null
 zhwiki:
 - https://zh.wikipedia.org/wiki/%E4%B8%89%E5%85%83%E6%82%96%E8%AE%BA
 wiki:
 - https://en.wikipedia.org/wiki/Impossible_trinity
 name: The "impossible trinity"
 zhname: 国际金融学的“三元悖论”
+id: 20220703224829_fe3fee0e2c404255
 ---
 
 # 国际金融学的“三元悖论”

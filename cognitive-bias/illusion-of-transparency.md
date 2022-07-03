@@ -13,6 +13,7 @@ name:
 zhname:
 - 透明度错觉
 zhwiki: https://zh.wikipedia.org/wiki/%E9%80%8F%E6%98%8E%E5%BA%A6%E9%94%99%E8%A7%89
+id: 20220703225117_1a4e24bacc624159
 ---
 
 # 透明度错觉

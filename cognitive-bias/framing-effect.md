@@ -13,6 +13,7 @@ name:
 zhname:
 - 框架效应
 zhwiki: https://zh.wikipedia.org/wiki/%E6%A1%86%E6%9E%B6%E6%95%88%E6%87%89
+id: 20220703232141_10f077514ab8429b
 ---
 
 # 框架效应

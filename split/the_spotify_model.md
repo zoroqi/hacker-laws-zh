@@ -10,6 +10,7 @@ tag:
 - Spotify模型
 - Spotify
 zhname: Spotify 模型
+id: 20220703233448_1ac2a4a6688c4385
 ---
 
 # Spotify 模型 (The Spotify Model)

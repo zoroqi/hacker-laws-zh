@@ -12,6 +12,7 @@ name:
 - Egocentric bias
 zhname:
 - 自我中心偏差
+id: 20220703232506_a8a80ce4bf154f48
 ---
 
 # 自我中心偏差

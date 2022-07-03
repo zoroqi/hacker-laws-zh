@@ -12,6 +12,7 @@ name:
 - Insensitivity to sample size
 zhname:
 - 对样本数不敏锐
+id: 20220703230719_30afc20b3de64575
 ---
 
 # 对样本数不敏锐

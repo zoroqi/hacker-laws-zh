@@ -12,6 +12,7 @@ name:
 - Pseudocertainty effect
 zhname:
 - 假确定性效应
+id: 20220703234110_31b43fce2c134e66
 ---
 
 # 假确定性效应

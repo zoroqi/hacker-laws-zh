@@ -13,6 +13,7 @@ name:
 zhname:
 - 知识的诅咒
 zhwiki: https://zh.wikipedia.org/wiki/%E7%9F%A5%E8%AD%98%E7%9A%84%E8%A9%9B%E5%92%92
+id: 20220703225827_d02ad9c167944ac3
 ---
 
 # 知识的诅咒

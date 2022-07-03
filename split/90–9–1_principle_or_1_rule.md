@@ -9,6 +9,7 @@ name: 90–9–1 Principle or 1% Rule
 tag:
 - 90-9-1
 zhname: 90-9-1 法则
+id: 20220703225111_22afca2b405540fd
 ---
 
 # 90-9-1 法则 (90–9–1 Principle or 1% Rule)

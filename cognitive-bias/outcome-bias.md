@@ -13,6 +13,7 @@ name:
 zhname:
 - 结果偏差
 zhwiki: https://zh.wikipedia.org/wiki/%E7%B5%90%E6%9E%9C%E5%81%8F%E8%AA%A4
+id: 20220703231236_3afe4736958f434d
 ---
 
 # 结果偏差

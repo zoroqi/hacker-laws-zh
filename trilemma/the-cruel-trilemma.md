@@ -10,9 +10,10 @@ groups:
 tags:
 - 法律
 - 自证有罪
-zhwiki:
+zhwiki: null
 name: The "cruel trilemma"
 zhname: 残酷的三难困境
+id: 20220703225033_02e9f98fb37a4e66
 ---
 
 # 残酷的三难困境

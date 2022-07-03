@@ -13,6 +13,7 @@ name:
 zhname:
 - 敌对媒体效应
 zhwiki: https://zh.wikipedia.org/wiki/%E6%95%8C%E5%AF%B9%E5%AA%92%E4%BD%93%E6%95%88%E5%BA%94
+id: 20220703224933_1efce1405c704b6a
 ---
 
 # 敌对媒体效应

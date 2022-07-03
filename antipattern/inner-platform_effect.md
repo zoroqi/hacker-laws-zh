@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Inner-platform effect"
-- "内部平台效应"
-name: "Inner-platform effect"
-zhname: "内部平台效应"
-wiki: "https://en.wikipedia.org/wiki/Inner-platform_effect"
-groups: "软件设计"
+- Inner-platform effect
+- 内部平台效应
+name: Inner-platform effect
+zhname: 内部平台效应
+wiki: https://en.wikipedia.org/wiki/Inner-platform_effect
+groups: 软件设计
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703233441_1ff0520d782b42b4
 ---
 
 # 内部平台效应

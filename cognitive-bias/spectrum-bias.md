@@ -12,6 +12,7 @@ name:
 - Spectrum bias
 zhname:
 - 谱带偏差
+id: 20220703230512_b31a0a872e3a41f0
 ---
 
 # 谱带偏差

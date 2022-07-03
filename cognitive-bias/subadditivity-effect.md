@@ -12,6 +12,7 @@ name:
 - Subadditivity effect
 zhname:
 - 分开加总效应
+id: 20220703231029_225e6e3aea1a4f5a
 ---
 
 # 分开加总效应

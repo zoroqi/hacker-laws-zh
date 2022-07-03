@@ -12,6 +12,7 @@ name:
 - Suggestibility
 zhname:
 - 可暗示性
+id: 20220703230557_6269906b92b34d07
 ---
 
 # 可暗示性

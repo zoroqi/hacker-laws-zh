@@ -7,10 +7,11 @@ category:
 - Trilemma
 groups:
 - 经济上的三难困境
-tags:
-zhwiki:
+tags: null
+zhwiki: null
 name: Wage policy trilemmas
 zhname: 工资政策的三难困境
+id: 20220703231921_c03c6809c81b4aab
 ---
 
 # 工资政策的三难困境

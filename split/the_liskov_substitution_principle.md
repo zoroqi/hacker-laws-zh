@@ -10,6 +10,7 @@ tag:
 - 里氏替换原则
 - 里氏替换
 zhname: 里氏替换原则
+id: 20220703234004_9cbca5b910194300
 ---
 
 # 里氏替换原则 (The Liskov Substitution Principle)

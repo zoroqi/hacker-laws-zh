@@ -13,6 +13,7 @@ name:
 zhname:
 - 后见之明偏误
 zhwiki: https://zh.wikipedia.org/wiki/%E5%90%8E%E8%A7%81%E4%B9%8B%E6%98%8E%E5%81%8F%E8%AF%AF
+id: 20220703225905_fee893b05b6043d2
 ---
 
 # 后见之明偏误

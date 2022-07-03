@@ -13,6 +13,7 @@ name:
 zhname:
 - 空想性错视
 zhwiki: https://zh.wikipedia.org/wiki/%E7%A9%BA%E6%83%B3%E6%80%A7%E9%8C%AF%E8%A6%96
+id: 20220703233252_d71e4e29c2734098
 ---
 
 # 空想性错视

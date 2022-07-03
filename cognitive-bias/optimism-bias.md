@@ -13,6 +13,7 @@ name:
 zhname:
 - 乐观偏误
 zhwiki: https://zh.wikipedia.org/wiki/%E4%B9%90%E8%A7%82%E5%81%8F%E8%AF%AF
+id: 20220703233420_ce5fcbf794104dc8
 ---
 
 # 乐观偏误

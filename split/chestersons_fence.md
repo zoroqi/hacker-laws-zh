@@ -9,6 +9,7 @@ name: Chesterson's Fence
 tag:
 - 切斯特森围栏
 zhname: 切斯特森围栏
+id: 20220703224530_3ae755c077c94a1d
 ---
 
 # 切斯特森围栏 (Chesterson's Fence)

@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Smoke and mirrors"
-- "障眼法"
-name: "Smoke and mirrors"
-zhname: "障眼法"
-wiki: "https://en.wikipedia.org/wiki/Smoke_and_mirrors"
-groups: "项目管理"
+- Smoke and mirrors
+- 障眼法
+name: Smoke and mirrors
+zhname: 障眼法
+wiki: https://en.wikipedia.org/wiki/Smoke_and_mirrors
+groups: 项目管理
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703225435_8ea990923eb44f9d
 ---
 
 # 障眼法

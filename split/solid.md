@@ -10,6 +10,7 @@ tag:
 - SOLID
 - SOLID
 zhname: SOLID
+id: 20220703225127_9520fc7ae1a54e7d
 ---
 
 # SOLID (SOLID)

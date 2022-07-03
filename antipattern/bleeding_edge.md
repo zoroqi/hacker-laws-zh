@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Bleeding edge"
-- "超前沿技术"
-- "血刃科技"
-name: "Bleeding edge"
-zhname: "超前沿技术"
-zhwiki: "https://zh.wikipedia.org/wiki/%E8%B6%85%E5%89%8D%E6%B2%BF%E6%8A%80%E8%A1%93"
-groups: "组织结构"
+- Bleeding edge
+- 超前沿技术
+- 血刃科技
+name: Bleeding edge
+zhname: 超前沿技术
+zhwiki: https://zh.wikipedia.org/wiki/%E8%B6%85%E5%89%8D%E6%B2%BF%E6%8A%80%E8%A1%93
+groups: 组织结构
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703230644_a3358d82d47e49ff
 ---
 
 # 超前沿技术

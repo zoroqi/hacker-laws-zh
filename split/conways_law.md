@@ -10,6 +10,7 @@ tag:
 - 康威定律
 - 康威
 zhname: 康威定律
+id: 20220703231613_7d4f39ecddc24f65
 ---
 
 # 康威定律 (Conway's Law)

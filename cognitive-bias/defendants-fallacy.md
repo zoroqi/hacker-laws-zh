@@ -13,6 +13,7 @@ name:
 zhname:
 - 辩护人谬误
 zhwiki: https://zh.wikipedia.org/wiki/%E8%BE%AF%E8%AD%B7%E4%BA%BA%E8%AC%AC%E8%AA%A4
+id: 20220703231639_87d8be05cbaf4269
 ---
 
 # 辩护人谬误

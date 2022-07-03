@@ -12,6 +12,7 @@ name:
 - Naïve realism
 zhname:
 - 素朴实在论
+id: 20220703225852_21d5da7111a0485c
 ---
 
 # 素朴实在论

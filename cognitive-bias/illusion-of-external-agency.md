@@ -13,6 +13,7 @@ name:
 zhname:
 - 外部机构错觉
 zhwiki: https://zh.wikipedia.org/wiki/%E5%A4%96%E9%83%A8%E6%9C%BA%E6%9E%84%E9%94%99%E8%A7%89
+id: 20220703225351_9decb8615e7548be
 ---
 
 # 外部机构错觉

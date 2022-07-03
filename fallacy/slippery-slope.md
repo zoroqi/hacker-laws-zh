@@ -13,6 +13,7 @@ zhname:
 - 滑坡谬误
 zhwiki:
 - https://zh.wikipedia.org/wiki/%E6%BB%91%E5%9D%A1%E8%AC%AC%E8%AA%A4
+id: 20220703225451_fa63323b4216483a
 ---
 
 # 滑坡谬误

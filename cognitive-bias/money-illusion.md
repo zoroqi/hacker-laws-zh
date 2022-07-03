@@ -13,6 +13,7 @@ name:
 zhname:
 - 货币错觉
 zhwiki: https://zh.wikipedia.org/wiki/%E8%B2%A8%E5%B9%A3%E9%8C%AF%E8%A6%BA
+id: 20220703230831_7e3b073eb71e4bae
 ---
 
 # 货币错觉

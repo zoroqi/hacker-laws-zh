@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Action at distance"
-- "远隔作用"
-name: "Action at distance"
-zhname: "远隔作用"
-zhwiki: "https://zh.wikipedia.org/wiki/%E8%BF%9C%E9%9A%94%E4%BD%9C%E7%94%A8_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)"
-groups: "编程"
+- Action at distance
+- 远隔作用
+name: Action at distance
+zhname: 远隔作用
+zhwiki: https://zh.wikipedia.org/wiki/%E8%BF%9C%E9%9A%94%E4%BD%9C%E7%94%A8_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)
+groups: 编程
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703234428_74c4f70da857428c
 ---
 
 # 远隔作用

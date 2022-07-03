@@ -12,6 +12,7 @@ name:
 - Positivity effect
 zhname:
 - 正面效应
+id: 20220703231828_2a8bff0212124a67
 ---
 
 # 正面效应

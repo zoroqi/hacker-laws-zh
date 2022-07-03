@@ -13,6 +13,7 @@ zhname:
 - 以偏概全
 zhwiki:
 - https://zh.wikipedia.org/wiki/%E4%BB%A5%E5%81%8F%E6%A6%82%E5%85%A8
+id: 20220703230021_e228efd578e941d4
 ---
 
 # 以偏概全

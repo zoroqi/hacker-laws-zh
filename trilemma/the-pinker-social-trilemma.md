@@ -7,10 +7,11 @@ category:
 - Trilemma
 groups:
 - 经济上的三难困境
-tags:
-zhwiki:
+tags: null
+zhwiki: null
 name: The Pinker social trilemma
 zhname: 平克的社会三难困境
+id: 20220703230753_a606150b1ad64c56
 ---
 
 # 平克的社会三难困境

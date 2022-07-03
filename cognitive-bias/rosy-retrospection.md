@@ -12,6 +12,7 @@ name:
 - Rosy retrospection
 zhname:
 - 玫瑰色回忆
+id: 20220703230107_98df417536244bec
 ---
 
 # 玫瑰色回忆

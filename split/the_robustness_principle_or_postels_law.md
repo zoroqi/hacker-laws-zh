@@ -10,6 +10,7 @@ tag:
 - 鲁棒性原则
 - 鲁棒性
 zhname: 鲁棒性原则
+id: 20220703230809_6ef7be23a73b47b9
 ---
 
 # 鲁棒性原则 (The Robustness Principle or Postel's Law)

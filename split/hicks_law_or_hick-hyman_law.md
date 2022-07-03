@@ -10,6 +10,7 @@ tag:
 - 席克定律
 - 席克
 zhname: 席克定律
+id: 20220703224937_17177c01164f4b51
 ---
 
 # 席克定律 (Hick's Law or Hick-Hyman Law)

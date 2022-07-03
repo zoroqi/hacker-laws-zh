@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Not invented here"
-- "非我所创"
-name: "Not invented here"
-zhname: "非我所创"
-zhwiki: "https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%88%91%E6%89%80%E5%89%B5"
-groups: "方法论"
+- Not invented here
+- 非我所创
+name: Not invented here
+zhname: 非我所创
+zhwiki: https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%88%91%E6%89%80%E5%89%B5
+groups: 方法论
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703232631_b9adc3c87ee24a93
 ---
 
 # 非我所创

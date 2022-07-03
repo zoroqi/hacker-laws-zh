@@ -10,6 +10,7 @@ tag:
 - 邓宁-克鲁格效应
 - 邓宁-克鲁格
 zhname: 邓宁-克鲁格效应
+id: 20220703232954_c901e29ba7f24dcd
 ---
 
 # 邓宁-克鲁格效应 (The Dunning-Kruger Effect)

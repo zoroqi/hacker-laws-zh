@@ -14,6 +14,7 @@ name:
 - Part-set cueing effect
 zhname:
 - 部分项目提示效应
+id: 20220703233228_535aea610fc0485e
 ---
 
 # 部分项目提示效应

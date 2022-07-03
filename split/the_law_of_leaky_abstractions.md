@@ -10,6 +10,7 @@ tag:
 - 抽象泄漏定律
 - 抽象泄漏
 zhname: 抽象泄漏定律
+id: 20220703233953_d195fb2ef78e4436
 ---
 
 # 抽象泄漏定律 (The Law of Leaky Abstractions)

@@ -12,6 +12,7 @@ name:
 - Projection bias
 zhname:
 - 投射偏差
+id: 20220703234029_d9df486fde69431d
 ---
 
 # 投射偏差

@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Tester Driven Development"
-- "测试人员驱动开发"
-name: "Tester Driven Development"
-zhname: "测试人员驱动开发"
-wiki: "https://en.wikipedia.org/wiki/Tester_Driven_Development"
-groups: "方法论"
+- Tester Driven Development
+- 测试人员驱动开发
+name: Tester Driven Development
+zhname: 测试人员驱动开发
+wiki: https://en.wikipedia.org/wiki/Tester_Driven_Development
+groups: 方法论
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703231317_1c560d3222e3456e
 ---
 
 # 测试人员驱动开发

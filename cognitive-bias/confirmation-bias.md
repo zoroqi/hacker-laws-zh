@@ -13,6 +13,7 @@ name:
 zhname:
 - 确认偏误
 zhwiki: https://zh.wikipedia.org/wiki/%E7%A2%BA%E8%AA%8D%E5%81%8F%E8%AA%A4
+id: 20220703233404_7e60a66f606b4cec
 ---
 
 # 确认偏误

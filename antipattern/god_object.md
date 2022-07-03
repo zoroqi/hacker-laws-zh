@@ -1,15 +1,16 @@
 ---
 aliases:
-- "God object"
-- "上帝对象"
-name: "God object"
-zhname: "上帝对象"
-zhwiki: "https://zh.wikipedia.org/wiki/%E4%B8%8A%E5%B8%9D%E5%AF%B9%E8%B1%A1"
-groups: "面向对象设计"
+- God object
+- 上帝对象
+name: God object
+zhname: 上帝对象
+zhwiki: https://zh.wikipedia.org/wiki/%E4%B8%8A%E5%B8%9D%E5%AF%B9%E8%B1%A1
+groups: 面向对象设计
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703231832_5719368094d94d64
 ---
 
 # 上帝对象

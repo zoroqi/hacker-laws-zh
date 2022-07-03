@@ -12,6 +12,7 @@ name:
 - Cryptomnesia
 zhname:
 - 潜抑记忆
+id: 20220703232711_ffb567b216d44a7a
 ---
 
 # 潜抑记忆

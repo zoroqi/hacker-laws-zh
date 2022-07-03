@@ -13,6 +13,7 @@ name:
 zhname:
 - 回归谬误
 zhwiki: https://zh.wikipedia.org/wiki/%E8%BF%B4%E6%AD%B8%E8%AC%AC%E8%AA%A4
+id: 20220703231055_e13263986c44480b
 ---
 
 # 回归谬误

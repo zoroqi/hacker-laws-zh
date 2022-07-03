@@ -13,6 +13,7 @@ name:
 zhname:
 - 保守倾向 (贝叶斯)
 zhwiki: https://zh.wikipedia.org/w/index.php?title=%E4%BF%9D%E5%AE%88%E5%82%BE%E5%90%91_(%E8%B2%9D%E8%91%89%E6%96%AF
+id: 20220703230548_6c032c26dca14dad
 ---
 
 # 保守倾向 (贝叶斯)

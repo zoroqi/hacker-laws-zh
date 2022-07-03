@@ -9,6 +9,7 @@ name: Anscombe's quartet
 tag:
 - 安斯库姆四重奏
 zhname: 安斯库姆四重奏
+id: 20220703231033_4103c85d1d604a0c
 ---
 
 # 安斯库姆四重奏 (Anscombe's quartet)

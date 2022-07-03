@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Reinventing the square wheel"
-- "重新发明方的轮子"
-name: "Reinventing the square wheel"
-zhname: "重新发明方的轮子"
-zhwiki: "https://zh.wikipedia.org/wiki/%E9%87%8D%E6%96%B0%E5%8F%91%E6%98%8E%E6%96%B9%E7%9A%84%E8%BD%AE%E5%AD%90"
-groups: "方法论"
+- Reinventing the square wheel
+- 重新发明方的轮子
+name: Reinventing the square wheel
+zhname: 重新发明方的轮子
+zhwiki: https://zh.wikipedia.org/wiki/%E9%87%8D%E6%96%B0%E5%8F%91%E6%98%8E%E6%96%B9%E7%9A%84%E8%BD%AE%E5%AD%90
+groups: 方法论
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703231831_38d40097c8604781
 ---
 
 # 重新发明方的轮子

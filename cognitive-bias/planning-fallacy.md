@@ -13,6 +13,7 @@ name:
 zhname:
 - 规划谬误
 zhwiki: https://zh.wikipedia.org/wiki/%E8%A6%8F%E5%8A%83%E8%AC%AC%E8%AA%A4
+id: 20220703231938_1df734326e5341fc
 ---
 
 # 规划谬误

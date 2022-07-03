@@ -10,6 +10,7 @@ tag:
 - 过早优化效应
 - 过早优化
 zhname: 过早优化效应
+id: 20220703230145_c20e4565ec034c5f
 ---
 
 # 过早优化效应 (Premature Optimization Effect)

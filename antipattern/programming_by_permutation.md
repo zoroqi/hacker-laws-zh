@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Programming by permutation"
-- "转换编程法"
-name: "Programming by permutation"
-zhname: "转换编程法"
-wiki: "https://en.wikipedia.org/wiki/Programming_by_permutation"
-groups: "方法论"
+- Programming by permutation
+- 转换编程法
+name: Programming by permutation
+zhname: 转换编程法
+wiki: https://en.wikipedia.org/wiki/Programming_by_permutation
+groups: 方法论
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703232936_ea365a881c494137
 ---
 
 # 转换编程法

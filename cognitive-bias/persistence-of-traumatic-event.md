@@ -12,6 +12,7 @@ name:
 - Persistence of traumatic event
 zhname:
 - 创伤的持续性
+id: 20220703234150_ffb4e34eaf084131
 ---
 
 # 创伤的持续性

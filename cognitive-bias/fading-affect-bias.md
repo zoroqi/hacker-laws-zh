@@ -12,6 +12,7 @@ name:
 - Fading affect bias
 zhname:
 - 情感衰退偏差
+id: 20220703232308_aa70dc3b5f874be1
 ---
 
 # 情感衰退偏差

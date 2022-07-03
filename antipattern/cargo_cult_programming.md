@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Cargo cult programming"
-- "拜物编程"
-name: "Cargo cult programming"
-zhname: "拜物编程"
-zhwiki: "https://zh.wikipedia.org/wiki/%E6%8B%9C%E7%89%A9%E7%BC%96%E7%A8%8B"
-groups: "编程"
+- Cargo cult programming
+- 拜物编程
+name: Cargo cult programming
+zhname: 拜物编程
+zhwiki: https://zh.wikipedia.org/wiki/%E6%8B%9C%E7%89%A9%E7%BC%96%E7%A8%8B
+groups: 编程
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703232352_851e6a99e0ab45df
 ---
 
 # 拜物编程

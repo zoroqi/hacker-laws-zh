@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Bicycle shed"
-- "脚踏车棚"
-name: "Bicycle shed"
-zhname: "脚踏车棚"
-zhwiki: "https://zh.wikipedia.org/wiki/%E5%B8%95%E9%87%91%E6%A3%AE%E7%91%A3%E7%A2%8E%E5%AE%9A%E7%90%86"
-groups: "组织结构"
+- Bicycle shed
+- 脚踏车棚
+name: Bicycle shed
+zhname: 脚踏车棚
+zhwiki: https://zh.wikipedia.org/wiki/%E5%B8%95%E9%87%91%E6%A3%AE%E7%91%A3%E7%A2%8E%E5%AE%9A%E7%90%86
+groups: 组织结构
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703231137_2e86641f8d194b05
 ---
 
 # 脚踏车棚

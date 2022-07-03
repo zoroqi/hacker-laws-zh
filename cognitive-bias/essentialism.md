@@ -13,6 +13,7 @@ name:
 zhname:
 - 本质主义
 zhwiki: https://zh.wikipedia.org/wiki/%E6%9C%AC%E8%B4%A8%E4%B8%BB%E4%B9%89
+id: 20220703231417_46022f2ecef74ddc
 ---
 
 # 本质主义

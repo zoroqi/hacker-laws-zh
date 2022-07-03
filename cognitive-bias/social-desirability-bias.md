@@ -13,6 +13,7 @@ name:
 zhname:
 - 社会期许偏差
 zhwiki: https://zh.wikipedia.org/wiki/%E7%A4%BE%E6%9C%83%E6%9C%9F%E8%A8%B1%E5%81%8F%E8%AA%A4
+id: 20220703225633_f83af8d0ad114a68
 ---
 
 # 社会期许偏差

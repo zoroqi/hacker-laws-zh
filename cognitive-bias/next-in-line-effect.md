@@ -13,6 +13,7 @@ name:
 zhname:
 - 轮流发言效应
 zhwiki: https://zh.wikipedia.org/wiki/%E8%BD%AE%E6%B5%81%E5%8F%91%E8%A8%80%E6%95%88%E5%BA%94
+id: 20220703230333_b3a26d76c1374a70
 ---
 
 # 轮流发言效应

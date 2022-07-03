@@ -10,6 +10,7 @@ tag:
 - 彼得原理
 - 彼得
 zhname: 彼得原理
+id: 20220703230217_25d7a71b069941b8
 ---
 
 # 彼得原理 (The Peter Principle)

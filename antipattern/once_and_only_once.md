@@ -1,14 +1,15 @@
 ---
 aliases:
-- "once and only once"
-- "自我复制"
-name: "once and only once"
-zhname: "自我复制"
-groups: "编程"
+- once and only once
+- 自我复制
+name: once and only once
+zhname: 自我复制
+groups: 编程
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703231417_ebafa451056341b6
 ---
 
 # 自我复制

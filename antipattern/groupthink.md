@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Groupthink"
-- "团队思维"
-name: "Groupthink"
-zhname: "团队思维"
-zhwiki: "https://zh.wikipedia.org/wiki/%E5%9C%98%E9%AB%94%E8%BF%B7%E6%80%9D"
-groups: "项目管理"
+- Groupthink
+- 团队思维
+name: Groupthink
+zhname: 团队思维
+zhwiki: https://zh.wikipedia.org/wiki/%E5%9C%98%E9%AB%94%E8%BF%B7%E6%80%9D
+groups: 项目管理
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703230231_b0dc5a93fcac46f2
 ---
 
 # 团队思维

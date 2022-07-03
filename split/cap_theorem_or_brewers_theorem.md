@@ -10,6 +10,7 @@ tag:
 - CAP定理
 - CAP
 zhname: CAP 定理
+id: 20220703232710_adeddd2fa5ac49cc
 ---
 
 # CAP 定理 (CAP Theorem or Brewer's Theorem)

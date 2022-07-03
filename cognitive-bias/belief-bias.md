@@ -13,6 +13,7 @@ name:
 zhname:
 - 信念偏差
 zhwiki: https://zh.wikipedia.org/wiki/%E4%BF%A1%E5%BF%B5%E5%81%8F%E8%AA%A4
+id: 20220703224905_6ccccbc55e6f4751
 ---
 
 # 信念偏差

@@ -17,6 +17,7 @@ zhname:
 - 基本比率谬误
 - 基本比率忽视
 zhwiki: https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%9C%AC%E6%AF%94%E7%8E%87%E8%AC%AC%E8%AA%A4
+id: 20220703234212_56ab0d4eb2744e65
 ---
 
 # 基本比率谬误

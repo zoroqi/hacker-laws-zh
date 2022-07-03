@@ -13,6 +13,7 @@ name:
 zhname:
 - 频率错觉
 zhwiki: https://zh.wikipedia.org/wiki/%E9%A2%91%E7%8E%87%E9%94%99%E8%A7%89
+id: 20220703231302_0ec93c0aeba648f6
 ---
 
 # 频率错觉

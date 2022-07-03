@@ -10,6 +10,7 @@ tag:
 - 死海效应
 - 死海
 zhname: 死海效应
+id: 20220703225556_f625c67038084cd6
 ---
 
 # 死海效应 (The Dead Sea Effect)

@@ -17,6 +17,7 @@ zhname:
 - 实验者偏差
 - 期望偏差
 zhwiki: https://zh.wikipedia.org/wiki/%E5%AF%A6%E9%A9%97%E8%80%85%E5%81%8F%E8%AA%A4
+id: 20220703230833_9a23dda016494417
 ---
 
 # 实验者偏差

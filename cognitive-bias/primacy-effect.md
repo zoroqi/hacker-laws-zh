@@ -21,6 +21,7 @@ zhname:
 - 近时效应
 - 序位效应
 zhwiki: https://zh.wikipedia.org/wiki/%E5%88%9D%E4%BD%8D%E6%95%88%E6%87%89
+id: 20220703233738_1f362d888b184725
 ---
 
 # 初位效应

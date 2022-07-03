@@ -13,6 +13,7 @@ name:
 zhname:
 - 幸存者偏差
 zhwiki: https://zh.wikipedia.org/wiki/%E5%80%96%E5%AD%98%E8%80%85%E5%81%8F%E5%B7%AE
+id: 20220703230318_62122a1bd71246dc
 ---
 
 # 幸存者偏差

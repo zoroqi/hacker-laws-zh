@@ -12,6 +12,7 @@ name:
 - Rhyme as reason effect
 zhname:
 - 韵律当理由效应
+id: 20220703234458_df5dc2d0ca4f474b
 ---
 
 # 韵律当理由效应

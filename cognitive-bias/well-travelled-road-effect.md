@@ -13,6 +13,7 @@ name:
 zhname:
 - 熟悉路线效应
 zhwiki: https://zh.wikipedia.org/wiki/%E7%86%9F%E6%82%89%E8%B7%AF%E7%B7%9A%E6%95%88%E6%87%89
+id: 20220703230056_ba08b4e491be440b
 ---
 
 # 熟悉路线效应

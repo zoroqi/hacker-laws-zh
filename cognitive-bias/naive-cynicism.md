@@ -12,6 +12,7 @@ name:
 - Naïve cynicism
 zhname:
 - 素朴犬儒主义
+id: 20220703231226_f9bb0a002cc54ce4
 ---
 
 # 素朴犬儒主义

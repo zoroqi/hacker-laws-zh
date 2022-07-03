@@ -13,6 +13,7 @@ zhname:
 - 倒果为因
 zhwiki:
 - https://zh.wikipedia.org/wiki/%E5%80%92%E6%9E%9C%E7%82%BA%E5%9B%A0
+id: 20220703232952_6398958c5bfd45f5
 ---
 
 # 倒果为因

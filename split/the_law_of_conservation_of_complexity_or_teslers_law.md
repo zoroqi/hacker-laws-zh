@@ -10,6 +10,7 @@ tag:
 - 复杂性守恒定律
 - 复杂性守恒
 zhname: 复杂性守恒定律
+id: 20220703225619_f420db133a73494f
 ---
 
 # 复杂性守恒定律 (The Law of Conservation of Complexity or Tesler's Law)

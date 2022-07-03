@@ -12,6 +12,7 @@ name:
 - Trait ascription bias
 zhname:
 - 性格归属偏差
+id: 20220703232743_3652ba0cb6b34b5b
 ---
 
 # 性格归属偏差

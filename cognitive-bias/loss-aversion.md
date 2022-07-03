@@ -13,6 +13,7 @@ name:
 zhname:
 - 损失趋避
 zhwiki: https://zh.wikipedia.org/wiki/%E6%90%8D%E5%A4%B1%E8%B6%A8%E9%81%BF
+id: 20220703224704_9b78c3eaa2934f5f
 ---
 
 # 损失趋避

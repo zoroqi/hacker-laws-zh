@@ -15,6 +15,7 @@ zhname:
 - 不明确性效应
 - 厌恶不明确
 zhwiki: https://zh.wikipedia.org/wiki/%E4%B8%8D%E6%98%8E%E7%A2%BA%E6%80%A7%E6%95%88%E6%87%89
+id: 20220703233525_70ec67cf6f334938
 ---
 
 # 不明确性效应

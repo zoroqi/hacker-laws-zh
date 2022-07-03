@@ -13,6 +13,7 @@ name:
 zhname:
 - 热手谬误
 zhwiki: https://zh.wikipedia.org/wiki/%E7%86%B1%E6%89%8B%E8%AC%AC%E8%AA%A4
+id: 20220703231719_5042de3c981a4bfe
 ---
 
 # 热手谬误

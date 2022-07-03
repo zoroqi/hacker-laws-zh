@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Accidental complexity"
-- "偶然复杂度"
-name: "Accidental complexity"
-zhname: "偶然复杂度"
-zhwiki: "https://zh.wikipedia.org/wiki/%E5%81%B6%E7%84%B6%E5%A4%8D%E6%9D%82%E5%BA%A6"
-groups: "编程"
+- Accidental complexity
+- 偶然复杂度
+name: Accidental complexity
+zhname: 偶然复杂度
+zhwiki: https://zh.wikipedia.org/wiki/%E5%81%B6%E7%84%B6%E5%A4%8D%E6%9D%82%E5%BA%A6
+groups: 编程
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703232429_abe7fa2b7f0b40a7
 ---
 
 # 偶然复杂度

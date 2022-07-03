@@ -13,6 +13,7 @@ name:
 zhname:
 - 检察官谬误
 zhwiki: https://zh.wikipedia.org/wiki/%E6%AA%A2%E5%AF%9F%E5%AE%98%E8%AC%AC%E8%AA%A4
+id: 20220703231542_94c0e23200de4154
 ---
 
 # 检察官谬误

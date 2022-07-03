@@ -15,6 +15,7 @@ zhname:
 - 多看效应
 - 单纯接触效应
 zhwiki: https://zh.wikipedia.org/wiki/%E5%A4%9A%E7%9C%8B%E6%95%88%E6%87%89
+id: 20220703230007_c064c92e39c34763
 ---
 
 # 多看效应

@@ -12,6 +12,7 @@ name:
 - Exaggerated expectation
 zhname:
 - 极端预期
+id: 20220703233148_b2137d26ee7b4b5c
 ---
 
 # 极端预期

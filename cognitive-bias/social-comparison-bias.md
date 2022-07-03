@@ -12,6 +12,7 @@ name:
 - Social comparison bias
 zhname:
 - 社会比较偏差
+id: 20220703231254_10916158b2a443eb
 ---
 
 # 社会比较偏差

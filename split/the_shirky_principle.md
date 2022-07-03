@@ -10,6 +10,7 @@ tag:
 - 舍基原理
 - 舍基原理
 zhname: 舍基原理
+id: 20220703225347_bfb6aa0c40304490
 ---
 
 # 舍基原理 (The Shirky Principle)

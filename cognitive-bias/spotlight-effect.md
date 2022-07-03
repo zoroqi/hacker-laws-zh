@@ -12,6 +12,7 @@ name:
 - Spotlight effect
 zhname:
 - 镁光灯效应
+id: 20220703233623_cfc6a91b83a940ee
 ---
 
 # 镁光灯效应

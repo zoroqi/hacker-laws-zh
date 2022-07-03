@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Interface bloat"
-- "接口膨胀"
-name: "Interface bloat"
-zhname: "接口膨胀"
-wiki: "https://en.wikipedia.org/wiki/Interface_bloat"
-groups: "软件设计"
+- Interface bloat
+- 接口膨胀
+name: Interface bloat
+zhname: 接口膨胀
+wiki: https://en.wikipedia.org/wiki/Interface_bloat
+groups: 软件设计
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703230728_ce37d3affb504674
 ---
 
 # 接口膨胀

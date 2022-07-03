@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Ambiguous viewpoint"
-- "用意不明"
-name: "Ambiguous viewpoint"
-zhname: "用意不明"
-wiki: "https://en.wikipedia.org/wiki/Ambiguous_viewpoint"
-groups: "软件设计"
+- Ambiguous viewpoint
+- 用意不明
+name: Ambiguous viewpoint
+zhname: 用意不明
+wiki: https://en.wikipedia.org/wiki/Ambiguous_viewpoint
+groups: 软件设计
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703231903_0fea7c8ae95a40c2
 ---
 
 # 用意不明

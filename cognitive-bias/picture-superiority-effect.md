@@ -13,6 +13,7 @@ name:
 zhname:
 - 图片优势效应
 zhwiki: https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%89%87%E4%BC%98%E5%8A%BF%E6%95%88%E5%BA%94
+id: 20220703225100_3721971d4ef340ef
 ---
 
 # 图片优势效应

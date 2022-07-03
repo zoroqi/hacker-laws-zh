@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Stovepipe system"
-- "烟囱系统"
-name: "Stovepipe system"
-zhname: "烟囱系统"
-wiki: "https://en.wikipedia.org/wiki/Stovepipe_system"
-groups: "软件设计"
+- Stovepipe system
+- 烟囱系统
+name: Stovepipe system
+zhname: 烟囱系统
+wiki: https://en.wikipedia.org/wiki/Stovepipe_system
+groups: 软件设计
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703230530_36b4263c15434091
 ---
 
 # 烟囱系统

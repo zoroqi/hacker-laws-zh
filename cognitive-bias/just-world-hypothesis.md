@@ -13,6 +13,7 @@ name:
 zhname:
 - 公正世界理论
 zhwiki: https://zh.wikipedia.org/wiki/%E5%85%AC%E6%AD%A3%E4%B8%96%E7%95%8C%E7%90%86%E8%AE%BA
+id: 20220703232607_c37c2e71a5bc4038
 ---
 
 # 公正世界理论

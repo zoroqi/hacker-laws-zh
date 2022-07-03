@@ -13,6 +13,7 @@ name:
 zhname:
 - 聚焦效应
 zhwiki: https://zh.wikipedia.org/wiki/%E8%81%9A%E7%84%A6%E6%95%88%E5%BA%94
+id: 20220703225216_a44a11b0e9154aa1
 ---
 
 # 聚焦效应

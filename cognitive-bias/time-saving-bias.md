@@ -12,6 +12,7 @@ name:
 - Time-saving bias
 zhname:
 - 省时偏差
+id: 20220703225800_47bebf01ca4943ca
 ---
 
 # 省时偏差

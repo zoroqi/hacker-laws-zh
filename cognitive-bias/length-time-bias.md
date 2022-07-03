@@ -12,6 +12,7 @@ name:
 - Length-time bias
 zhname:
 - 时距偏差
+id: 20220703234108_f98e93d80f6946ee
 ---
 
 # 时距偏差

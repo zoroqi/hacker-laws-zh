@@ -10,6 +10,7 @@ tag:
 - 侯世达定律
 - 侯世达
 zhname: 侯世达定律
+id: 20220703225345_5944e3ceef6b4a5b
 ---
 
 # 侯世达定律 (Hofstadter's Law)

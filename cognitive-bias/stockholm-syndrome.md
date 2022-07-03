@@ -13,6 +13,7 @@ name:
 zhname:
 - 斯德哥尔摩症候群
 zhwiki: https://zh.wikipedia.org/wiki/%E6%96%AF%E5%BE%B7%E5%93%A5%E7%88%BE%E6%91%A9%E7%97%87%E5%80%99%E7%BE%A4
+id: 20220703233412_9a6a291cb18d42ea
 ---
 
 # 斯德哥尔摩症候群

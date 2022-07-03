@@ -17,6 +17,7 @@ zhname:
 - 沉没成本谬误
 - 不理性增值
 zhwiki: https://zh.wikipedia.org/wiki/%E6%B2%89%E6%B2%A1%E6%88%90%E6%9C%AC%E8%B0%AC%E8%AF%AF
+id: 20220703231013_7fd82387caac4c1b
 ---
 
 # 沉没成本谬误

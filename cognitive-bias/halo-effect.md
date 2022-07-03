@@ -15,6 +15,7 @@ zhname:
 - 月晕效应
 - 晕轮效应
 zhwiki: https://zh.wikipedia.org/wiki/%E6%9C%88%E6%9A%88%E6%95%88%E6%87%89
+id: 20220703233334_04f9f7d484344af7
 ---
 
 # 月晕效应

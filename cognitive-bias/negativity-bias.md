@@ -13,6 +13,7 @@ name:
 zhname:
 - 负面偏差
 zhwiki: https://zh.wikipedia.org/wiki/%E8%B2%A0%E9%9D%A2%E5%81%8F%E8%AA%A4
+id: 20220703231217_012999dd4db14b92
 ---
 
 # 负面偏差

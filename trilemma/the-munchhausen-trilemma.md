@@ -16,6 +16,7 @@ wiki:
 - https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma
 name: The Münchhausen trilemma
 zhname: 明希豪森的三难困境
+id: 20220703233938_7542cd8c76354ae1
 ---
 
 # 明希豪森的三难困境

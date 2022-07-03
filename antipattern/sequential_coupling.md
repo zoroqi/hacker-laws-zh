@@ -1,14 +1,15 @@
 ---
 aliases:
-- "Sequential coupling"
-- "顺序耦合"
-name: "Sequential coupling"
-zhname: "顺序耦合"
-groups: "面向对象设计"
+- Sequential coupling
+- 顺序耦合
+name: Sequential coupling
+zhname: 顺序耦合
+groups: 面向对象设计
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703225846_e4aafb65a0a14a68
 ---
 
 # 顺序耦合

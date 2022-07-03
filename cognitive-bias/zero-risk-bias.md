@@ -13,6 +13,7 @@ name:
 zhname:
 - 零风险偏误
 zhwiki: https://zh.wikipedia.org/wiki/%E9%9B%B6%E9%A3%8E%E9%99%A9%E5%81%8F%E8%AF%AF
+id: 20220703233701_39e0dbc7e4ba4338
 ---
 
 # 零风险偏误

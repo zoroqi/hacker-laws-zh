@@ -14,6 +14,7 @@ zhname:
 - 相关不蕴涵因果
 zhwiki:
 - https://zh.wikipedia.org/wiki/%E7%9B%B8%E9%97%9C%E4%B8%8D%E8%98%8A%E6%B6%B5%E5%9B%A0%E6%9E%9C
+id: 20220703231852_e3f772deeee74bf3
 ---
 
 # 相关不蕴涵因果

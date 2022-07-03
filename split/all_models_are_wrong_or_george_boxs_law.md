@@ -12,6 +12,7 @@ tag:
 - 伯克斯
 - 乔治·伯克斯
 zhname: 乔治·伯克斯定律
+id: 20220703224818_f54c7244a1014be5
 ---
 
 # 乔治·伯克斯定律 (All Models Are Wrong or George Box's Law)

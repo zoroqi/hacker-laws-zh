@@ -10,6 +10,7 @@ tag:
 - 呆伯特法则
 - 呆伯特
 zhname: 呆伯特法则
+id: 20220703225534_d4bf77c39b424c76
 ---
 
 # 呆伯特法则 (The Dilbert Principle)

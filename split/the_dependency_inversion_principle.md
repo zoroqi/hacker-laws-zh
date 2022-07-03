@@ -10,6 +10,7 @@ tag:
 - 依赖反转原则
 - 依赖反转
 zhname: 依赖反转原则
+id: 20220703231035_a1e9cfdc8fcb45c2
 ---
 
 # 依赖反转原则 (The Dependency Inversion Principle)

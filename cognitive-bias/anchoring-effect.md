@@ -15,6 +15,7 @@ name:
 zhname:
 - 锚定效应
 zhwiki: https://zh.wikipedia.org/wiki/%E9%8C%A8%E5%AE%9A%E6%95%88%E6%87%89
+id: 20220703234212_8090d8e9521e46bc
 ---
 
 # 锚定效应

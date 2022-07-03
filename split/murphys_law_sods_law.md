@@ -10,6 +10,7 @@ tag:
 - 墨菲定律
 - 墨菲
 zhname: 墨菲定律
+id: 20220703231143_641bcbb29d1542dc
 ---
 
 # 墨菲定律 (Murphy's Law / Sod's Law)

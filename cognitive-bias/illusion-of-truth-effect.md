@@ -12,6 +12,7 @@ name:
 - Illusion of truth effect
 zhname:
 - 真相错觉效应
+id: 20220703225521_876847aa73d64d1e
 ---
 
 # 真相错觉效应

@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Death march (project management)"
-- "死亡征途"
-name: "Death march (project management)"
-zhname: "死亡征途"
-wiki: "https://en.wikipedia.org/wiki/Death_march_(project_management)"
-groups: "项目管理"
+- Death march (project management)
+- 死亡征途
+name: Death march (project management)
+zhname: 死亡征途
+wiki: https://en.wikipedia.org/wiki/Death_march_(project_management)
+groups: 项目管理
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703234421_4967b3b7817d473d
 ---
 
 # 死亡征途

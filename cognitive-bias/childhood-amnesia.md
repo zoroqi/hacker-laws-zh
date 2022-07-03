@@ -13,6 +13,7 @@ name:
 zhname:
 - 童年失忆症
 zhwiki: https://zh.wikipedia.org/wiki/%E7%AB%A5%E5%B9%B4%E5%A4%B1%E6%86%B6%E7%97%87
+id: 20220703232443_c0996747e4e14197
 ---
 
 # 童年失忆症

@@ -10,6 +10,7 @@ tag:
 - 技术成熟度曲线
 - 技术成熟度曲线
 zhname: 技术成熟度曲线
+id: 20220703230112_f32b8770c8404141
 ---
 
 # 技术成熟度曲线 (The Hype Cycle or Amara's Law)

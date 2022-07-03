@@ -13,6 +13,7 @@ name:
 zhname:
 - 难易效应
 zhwiki: https://zh.wikipedia.org/wiki/%E9%9A%BE%E6%98%93%E6%95%88%E5%BA%94
+id: 20220703224917_0a3b15cca9734c62
 ---
 
 # 难易效应

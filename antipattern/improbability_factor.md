@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Improbability factor"
-- "不可能因素"
-name: "Improbability factor"
-zhname: "不可能因素"
-wiki: "https://en.wikipedia.org/wiki/Improbability_factor"
-groups: "方法论"
+- Improbability factor
+- 不可能因素
+name: Improbability factor
+zhname: 不可能因素
+wiki: https://en.wikipedia.org/wiki/Improbability_factor
+groups: 方法论
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703230735_f1a7721553494b80
 ---
 
 # 不可能因素

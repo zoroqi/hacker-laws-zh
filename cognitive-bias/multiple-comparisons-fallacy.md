@@ -13,6 +13,7 @@ name:
 zhname:
 - 多重比较谬误
 zhwiki: https://zh.wikipedia.org/wiki/%E5%A4%9A%E9%87%8D%E6%AF%94%E8%BC%83%E8%AC%AC%E8%AA%A4
+id: 20220703230042_fc8bd46eb6654303
 ---
 
 # 多重比较谬误

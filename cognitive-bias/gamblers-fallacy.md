@@ -13,6 +13,7 @@ name:
 zhname:
 - 赌徒谬误
 zhwiki: https://zh.wikipedia.org/wiki/%E8%B3%AD%E5%BE%92%E8%AC%AC%E8%AA%A4
+id: 20220703233820_8294ea0fc61145b3
 ---
 
 # 赌徒谬误

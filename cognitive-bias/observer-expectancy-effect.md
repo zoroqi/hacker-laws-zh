@@ -13,6 +13,7 @@ name:
 zhname:
 - 观察者期望效应
 zhwiki: https://zh.wikipedia.org/wiki/%E8%A7%80%E5%AF%9F%E8%80%85%E6%9C%9F%E6%9C%9B%E6%95%88%E6%87%89
+id: 20220703231406_9cd77e2d344b4157
 ---
 
 # 观察者期望效应

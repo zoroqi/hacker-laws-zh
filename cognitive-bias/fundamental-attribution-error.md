@@ -13,6 +13,7 @@ name:
 zhname:
 - 基本归因错误
 zhwiki: https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%9C%AC%E5%BD%92%E5%9B%A0%E9%94%99%E8%AF%AF
+id: 20220703225610_1a6afd944d934d79
 ---
 
 # 基本归因错误

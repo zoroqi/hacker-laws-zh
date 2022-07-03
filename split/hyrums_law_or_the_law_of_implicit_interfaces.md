@@ -10,6 +10,7 @@ tag:
 - 隐式接口定律
 - 隐式接口
 zhname: 隐式接口定律
+id: 20220703231816_aa39f24919d640db
 ---
 
 # 隐式接口定律 (Hyrum's Law or The Law of Implicit Interfaces)

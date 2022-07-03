@@ -12,6 +12,7 @@ name:
 - Moral credential effect
 zhname:
 - 道德许可证效应
+id: 20220703233521_2ef8ec45a34042a3
 ---
 
 # 道德许可证效应

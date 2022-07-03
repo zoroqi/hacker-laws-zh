@@ -10,6 +10,7 @@ tag:
 - 开闭原则
 - 开闭
 zhname: 开闭原则
+id: 20220703234010_05ef000bd1de45a6
 ---
 
 # 开闭原则 (The Open/Closed Principle)

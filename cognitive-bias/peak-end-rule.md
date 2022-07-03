@@ -12,6 +12,7 @@ name:
 - Peak-end rule
 zhname:
 - 峰终法则
+id: 20220703230200_6fa973dcf9994739
 ---
 
 # 峰终法则

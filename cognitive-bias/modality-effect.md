@@ -12,6 +12,7 @@ name:
 - Modality effect
 zhname:
 - 模态效应
+id: 20220703234242_acc88e9e9eae4e55
 ---
 
 # 模态效应

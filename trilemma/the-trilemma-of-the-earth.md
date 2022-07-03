@@ -6,10 +6,11 @@ aliases:
 category:
 - 三难困境
 - Trilemma
-tags:
-zhwiki:
+tags: null
+zhwiki: null
 name: The Trilemma of the Earth
 zhname: 地球的三难困境
+id: 20220703225625_9f9fc09362fc430c
 ---
 
 # 地球的三难困境

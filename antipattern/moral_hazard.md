@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Moral hazard"
-- "道德风险"
-name: "Moral hazard"
-zhname: "道德风险"
-zhwiki: "https://zh.wikipedia.org/wiki/%E9%81%93%E5%BE%B7%E9%A3%8E%E9%99%A9"
-groups: "组织结构"
+- Moral hazard
+- 道德风险
+name: Moral hazard
+zhname: 道德风险
+zhwiki: https://zh.wikipedia.org/wiki/%E9%81%93%E5%BE%B7%E9%A3%8E%E9%99%A9
+groups: 组织结构
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703230040_5b94bb90f5ec49ef
 ---
 
 # 道德风险

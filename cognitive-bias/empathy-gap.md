@@ -13,6 +13,7 @@ name:
 zhname:
 - 移情隔阂
 zhwiki: https://zh.wikipedia.org/wiki/%E7%A7%BB%E6%83%85%E9%9A%94%E9%96%A1
+id: 20220703233113_9569e771929347e0
 ---
 
 # 移情隔阂

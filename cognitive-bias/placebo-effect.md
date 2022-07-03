@@ -15,6 +15,7 @@ zhname:
 - 安慰剂效应
 - 伪药效应
 zhwiki: https://zh.wikipedia.org/wiki/%E5%AE%89%E6%85%B0%E5%8A%91%E6%95%88%E6%87%89
+id: 20220703225014_fae17bccdac948b5
 ---
 
 # 安慰剂效应

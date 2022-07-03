@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Database-as-IPC"
-- "数据库式进程间通信"
-name: "Database-as-IPC"
-zhname: "数据库式进程间通信"
-wiki: "https://en.wikipedia.org/wiki/Database-as-IPC"
-groups: "软件设计"
+- Database-as-IPC
+- 数据库式进程间通信
+name: Database-as-IPC
+zhname: 数据库式进程间通信
+wiki: https://en.wikipedia.org/wiki/Database-as-IPC
+groups: 软件设计
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703224535_ad318a472cdf4980
 ---
 
 # 数据库式进程间通信

@@ -12,6 +12,7 @@ name:
 - Whole only effect
 zhname:
 - 只看整体效应
+id: 20220703231115_8d91298a660b4acd
 ---
 
 # 只看整体效应

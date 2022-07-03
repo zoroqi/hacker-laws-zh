@@ -13,6 +13,7 @@ name:
 zhname:
 - 可得性捷思法
 zhwiki: https://zh.wikipedia.org/wiki/%E5%8F%AF%E5%BE%97%E6%80%A7%E6%8D%B7%E6%80%9D%E6%B3%95
+id: 20220703225105_db24a688e4314c54
 ---
 
 # 可得性捷思法

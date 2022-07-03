@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Ninety-ninety rule"
-- "九九定律"
-name: "Ninety-ninety rule"
-zhname: "九九定律"
-zhwiki: "https://zh.wikipedia.org/wiki/90-90%E6%B3%95%E5%88%99"
-groups: "项目管理"
+- Ninety-ninety rule
+- 九九定律
+name: Ninety-ninety rule
+zhname: 九九定律
+zhwiki: https://zh.wikipedia.org/wiki/90-90%E6%B3%95%E5%88%99
+groups: 项目管理
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703232818_bdcf9985b9804e97
 ---
 
 # 九九定律

@@ -13,6 +13,7 @@ name:
 zhname:
 - 效度的错觉
 zhwiki: https://zh.wikipedia.org/wiki/%E6%95%88%E5%BA%A6%E7%9A%84%E9%8C%AF%E8%A6%BA
+id: 20220703224538_2c5fd473c3b345e9
 ---
 
 # 效度的错觉

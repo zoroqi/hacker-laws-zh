@@ -13,6 +13,7 @@ name:
 zhname:
 - 道德运气
 zhwiki: https://zh.wikipedia.org/wiki/%E9%81%93%E5%BE%B7%E8%BF%90%E6%B0%94
+id: 20220703234233_d547e779f5244c1e
 ---
 
 # 道德运气

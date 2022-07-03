@@ -13,6 +13,7 @@ name:
 zhname:
 - 可辨识受害者效应
 zhwiki: https://zh.wikipedia.org/wiki/%E5%8F%AF%E8%BE%A8%E8%AD%98%E5%8F%97%E5%AE%B3%E8%80%85%E6%95%88%E6%87%89
+id: 20220703233456_099933581eb148d7
 ---
 
 # 可辨识受害者效应

@@ -9,11 +9,12 @@ groups:
 - 宗教上的三难困境
 tags:
 - 基督教
-zhwiki:
+zhwiki: null
 wiki:
 - https://en.wikipedia.org/wiki/Lewis%27s_trilemma
 name: Apologetic trilemma
 zhname: 辨惑学的三难困境
+id: 20220703225345_bfb868c5f48d4bf9
 ---
 
 # 辨惑学的三难困境

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Stovepipe or Silos"
-- "烟囱式管理"
-- "谷仓式管理"
-name: "Stovepipe or Silos"
-zhname: "烟囱式管理"
-wiki: "https://en.wikipedia.org/wiki/Stovepipe_or_Silos"
-groups: "组织结构"
+- Stovepipe or Silos
+- 烟囱式管理
+- 谷仓式管理
+name: Stovepipe or Silos
+zhname: 烟囱式管理
+wiki: https://en.wikipedia.org/wiki/Stovepipe_or_Silos
+groups: 组织结构
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703231315_9cf3f1b49ca94ed0
 ---
 
 # 烟囱式管理

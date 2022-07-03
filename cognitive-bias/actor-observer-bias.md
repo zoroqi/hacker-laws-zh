@@ -12,6 +12,7 @@ name:
 - Actor-observer bias
 zhname:
 - 行为者-观察者偏差
+id: 20220703232352_01e1ef589a5f4c8b
 ---
 
 # 行为者-观察者偏差

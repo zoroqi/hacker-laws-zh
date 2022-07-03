@@ -13,6 +13,7 @@ name:
 zhname:
 - 妄下结论
 zhwiki: https://zh.wikipedia.org/wiki/%E5%A6%84%E4%B8%8B%E7%BB%93%E8%AE%BA
+id: 20220703233802_2672d4a216d54e99
 ---
 
 # 妄下结论

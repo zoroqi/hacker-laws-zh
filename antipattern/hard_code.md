@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Hard code"
-- "硬编码"
-name: "Hard code"
-zhname: "硬编码"
-zhwiki: "https://zh.wikipedia.org/wiki/%E7%A1%AC%E7%BC%96%E7%A0%81"
-groups: "编程"
+- Hard code
+- 硬编码
+name: Hard code
+zhname: 硬编码
+zhwiki: https://zh.wikipedia.org/wiki/%E7%A1%AC%E7%BC%96%E7%A0%81
+groups: 编程
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703232240_97c36206286c43f7
 ---
 
 # 硬编码

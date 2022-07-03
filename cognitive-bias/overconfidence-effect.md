@@ -13,6 +13,7 @@ name:
 zhname:
 - 过度自信效应
 zhwiki: https://zh.wikipedia.org/wiki/%E9%81%8E%E5%BA%A6%E8%87%AA%E4%BF%A1%E6%95%88%E6%87%89
+id: 20220703230421_548bb9584da24676
 ---
 
 # 过度自信效应

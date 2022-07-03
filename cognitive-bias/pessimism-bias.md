@@ -13,6 +13,7 @@ name:
 zhname:
 - 悲观偏误
 zhwiki: https://zh.wikipedia.org/wiki/%E6%82%B2%E8%A7%82%E5%81%8F%E8%AF%AF
+id: 20220703233233_8ffe3ce6e6ba47e5
 ---
 
 # 悲观偏误

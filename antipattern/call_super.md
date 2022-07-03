@@ -1,14 +1,15 @@
 ---
 aliases:
-- "Call super"
-- "调用父类"
-name: "Call super"
-zhname: "调用父类"
-groups: "面向对象设计"
+- Call super
+- 调用父类
+name: Call super
+zhname: 调用父类
+groups: 面向对象设计
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703225621_11003d8d84164b0d
 ---
 
 # 调用父类

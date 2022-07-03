@@ -13,6 +13,7 @@ name:
 zhname:
 - 谷歌效应
 zhwiki: https://zh.wikipedia.org/wiki/%E8%B0%B7%E6%AD%8C%E6%95%88%E5%BA%94
+id: 20220703232512_c008d14eab0843f2
 ---
 
 # 谷歌效应

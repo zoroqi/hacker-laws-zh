@@ -12,6 +12,7 @@ name:
 - Consistency bias
 zhname:
 - 一致性偏差
+id: 20220703225628_cd2bca62f23a4f51
 ---
 
 # 一致性偏差

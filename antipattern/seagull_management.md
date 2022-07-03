@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Seagull management"
-- "海鸥式管理"
-name: "Seagull management"
-zhname: "海鸥式管理"
-wiki: "https://en.wikipedia.org/wiki/Seagull_management"
-groups: "组织结构"
+- Seagull management
+- 海鸥式管理
+name: Seagull management
+zhname: 海鸥式管理
+wiki: https://en.wikipedia.org/wiki/Seagull_management
+groups: 组织结构
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703233649_de495d62a7ef4360
 ---
 
 # 海鸥式管理

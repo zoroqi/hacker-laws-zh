@@ -12,6 +12,7 @@ name:
 - Semmelweis reflex
 zhname:
 - 塞麦尔维斯反射
+id: 20220703231012_a52da32bc5ff4a96
 ---
 
 # 塞麦尔维斯反射

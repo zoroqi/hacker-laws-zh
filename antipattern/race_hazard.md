@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Race hazard"
-- "竞争风险"
-name: "Race hazard"
-zhname: "竞争风险"
-zhwiki: "https://zh.wikipedia.org/wiki/%E7%AB%9E%E4%BA%89%E9%A3%8E%E9%99%A9"
-groups: "软件设计"
+- Race hazard
+- 竞争风险
+name: Race hazard
+zhname: 竞争风险
+zhwiki: https://zh.wikipedia.org/wiki/%E7%AB%9E%E4%BA%89%E9%A3%8E%E9%99%A9
+groups: 软件设计
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703232301_09c015c4933e4040
 ---
 
 # 竞争风险

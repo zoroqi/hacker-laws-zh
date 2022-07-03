@@ -12,6 +12,7 @@ name:
 - Illusion of asymmetric insight
 zhname:
 - 认知不对称的错觉
+id: 20220703224933_6252ba0ca4d548d9
 ---
 
 # 认知不对称的错觉

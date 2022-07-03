@@ -12,6 +12,7 @@ name:
 - Mood-congruent memory bias
 zhname:
 - 心境相合性记忆偏差
+id: 20220703224810_cb51814460794789
 ---
 
 # 心境相合性记忆偏差

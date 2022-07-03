@@ -12,6 +12,7 @@ name:
 - Comfort zone effect
 zhname:
 - 舒适区效应
+id: 20220703233246_1366547b6ee949b4
 ---
 
 # 舒适区效应

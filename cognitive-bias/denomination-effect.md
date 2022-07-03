@@ -12,6 +12,7 @@ name:
 - Denomination effect
 zhname:
 - 面额效应
+id: 20220703233445_f43693b0f9094258
 ---
 
 # 面额效应

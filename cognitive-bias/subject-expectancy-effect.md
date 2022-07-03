@@ -13,6 +13,7 @@ name:
 zhname:
 - 受试者期望效应
 zhwiki: https://zh.wikipedia.org/wiki/%E5%8F%97%E8%A9%A6%E8%80%85%E6%9C%9F%E6%9C%9B%E6%95%88%E6%87%89
+id: 20220703234138_16f5f4d572744866
 ---
 
 # 受试者期望效应

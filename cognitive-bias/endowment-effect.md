@@ -15,6 +15,7 @@ zhname:
 - 原赋效应
 - 禀赋效应
 zhwiki: https://zh.wikipedia.org/wiki/%E5%8E%9F%E8%B3%A6%E6%95%88%E6%87%89
+id: 20220703230205_849a4e9e3bfd423d
 ---
 
 # 原赋效应

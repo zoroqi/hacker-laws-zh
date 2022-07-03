@@ -12,6 +12,7 @@ name:
 - Recency illusion
 zhname:
 - 新词错觉
+id: 20220703233602_fc464fa7ae9b46c2
 ---
 
 # 新词错觉

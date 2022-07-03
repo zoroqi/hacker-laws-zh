@@ -12,6 +12,7 @@ name:
 - Distinction bias
 zhname:
 - 差异偏差
+id: 20220703225645_7b999b1cf4174357
 ---
 
 # 差异偏差

@@ -13,6 +13,7 @@ name:
 zhname:
 - 达克效应
 zhwiki: https://zh.wikipedia.org/wiki/%E8%BE%BE%E5%85%8B%E6%95%88%E5%BA%94
+id: 20220703224856_7bf8f0b7f28b44e0
 ---
 
 # 达克效应

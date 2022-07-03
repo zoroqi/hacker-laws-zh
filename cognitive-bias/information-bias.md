@@ -13,6 +13,7 @@ name:
 zhname:
 - 资讯偏差
 zhwiki: https://zh.wikipedia.org/wiki/%E8%B3%87%E8%A8%8A%E5%81%8F%E8%AA%A4
+id: 20220703231422_be5fcfdfe79b43dc
 ---
 
 # 资讯偏差

@@ -13,6 +13,7 @@ zhname:
 - 复合结果
 zhwiki:
 - https://zh.wikipedia.org/wiki/%E8%A4%87%E5%90%88%E7%B5%90%E6%9E%9C
+id: 20220703234436_af0a9e316dbc4c3a
 ---
 
 # 复合结果

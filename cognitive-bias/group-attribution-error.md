@@ -13,6 +13,7 @@ name:
 zhname:
 - 群体归因错误
 zhwiki: https://zh.wikipedia.org/wiki/%E7%BE%A4%E4%BD%93%E5%BD%92%E5%9B%A0%E9%94%99%E8%AF%AF
+id: 20220703230823_631a60404b074752
 ---
 
 # 群体归因错误

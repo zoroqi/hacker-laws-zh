@@ -9,6 +9,7 @@ name: Hanlon's Razor
 tag:
 - 汉隆的剃刀
 zhname: 汉隆的剃刀
+id: 20220703233217_e32f04f5819e4eaf
 ---
 
 # 汉隆的剃刀 (Hanlon's Razor)

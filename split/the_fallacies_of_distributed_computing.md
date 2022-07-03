@@ -10,6 +10,7 @@ tag:
 - 分布式计算的谬论
 - 分布式计算
 zhname: 分布式计算的谬论
+id: 20220703232105_a980d37c091e4008
 ---
 
 # 分布式计算的谬论 (The Fallacies of Distributed Computing)

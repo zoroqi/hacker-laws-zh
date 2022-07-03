@@ -13,6 +13,7 @@ name:
 zhname:
 - 单位偏误
 zhwiki: https://zh.wikipedia.org/wiki/%E5%8D%95%E4%BD%8D%E5%81%8F%E8%AF%AF
+id: 20220703230828_e30ccfe392a04415
 ---
 
 # 单位偏误

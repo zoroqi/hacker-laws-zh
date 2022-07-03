@@ -12,6 +12,7 @@ name:
 - Self-relevance effect
 zhname:
 - 自身相关效应
+id: 20220703232718_bdc13eeacd29449a
 ---
 
 # 自身相关效应

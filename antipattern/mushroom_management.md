@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Mushroom management"
-- "蘑菇管理"
-name: "Mushroom management"
-zhname: "蘑菇管理"
-zhwiki: "https://zh.wikipedia.org/wiki/%E8%98%91%E8%8F%87%E7%AE%A1%E7%90%86"
-groups: "组织结构"
+- Mushroom management
+- 蘑菇管理
+name: Mushroom management
+zhname: 蘑菇管理
+zhwiki: https://zh.wikipedia.org/wiki/%E8%98%91%E8%8F%87%E7%AE%A1%E7%90%86
+groups: 组织结构
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: 20220703231824_cbe4107d6f9949c4
 ---
 
 # 蘑菇管理

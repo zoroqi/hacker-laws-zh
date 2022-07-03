@@ -12,6 +12,7 @@ name:
 - Worse-than-average effect
 zhname:
 - 差于常人效应
+id: 20220703225827_ee896efd74ea4e41
 ---
 
 # 差于常人效应

@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Input kludge"
-- "输入问题"
-name: "Input kludge"
-zhname: "输入问题"
-wiki: "https://en.wikipedia.org/wiki/Input_kludge"
-groups: "软件设计"
+- Input kludge
+- 输入问题
+name: Input kludge
+zhname: 输入问题
+wiki: https://en.wikipedia.org/wiki/Input_kludge
+groups: 软件设计
 category:
 - 反面模式
 - antipattern
 - 方法论
+id: "20220703224733_2972702719254016"
 ---
 
 # 输入问题
