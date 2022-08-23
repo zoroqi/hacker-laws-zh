@@ -26,5 +26,6 @@ id: 20220703231816_aa39f24919d640db
 参见：
 
 - [the_law_of_leaky_abstractions|抽象泄漏定律](./the_law_of_leaky_abstractions.md)
-- [XKCD 1172](https://xkcd.com/1172/)
+- [XKCD 1172](https://xkcd.com/1172/) 
+- [XKCD 1172 中文](https://xkcd.tw/1172)
 

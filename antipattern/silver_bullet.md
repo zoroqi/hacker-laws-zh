@@ -6,6 +6,8 @@ name: Silver bullet
 zhname: 银弹
 zhwiki: https://zh.wikipedia.org/wiki/%E9%93%B6%E5%BC%B9
 groups: 方法论
+tags:
+- 银弹
 category:
 - 反面模式
 - antipattern

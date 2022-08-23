@@ -1,11 +1,11 @@
 ---
 aliases:
 - 古德哈特定律
-- Goodhart's Law
+- "Goodhart's Law"
 category:
 - 方法论
 - hacker-law
-name: Goodhart's Law
+name: "Goodhart's Law"
 tag:
 - 古德哈特定律
 - 古德哈特
@@ -38,6 +38,5 @@ id: 20220703232410_13ff86d6e3394c09
 参见
 
 - [古德哈特定律：错误的测量如何导致不道德的行为](https://coffeeandjunk.com/goodharts-campbells-law/)
-- [goodharts_law|古德哈特定律](./goodharts_law.md)
 - [呆伯特与无 bug 软件](https://dilbert.com/strip/1995-11-13)
 
