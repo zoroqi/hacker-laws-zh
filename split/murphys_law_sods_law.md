@@ -1,11 +1,12 @@
 ---
 aliases:
 - 墨菲定律
-- Murphy's Law / Sod's Law
+- "Murphy's Law"
+- "Sod's Law"
 category:
 - 方法论
 - hacker-law
-name: Murphy's Law / Sod's Law
+name: "Murphy's Law / Sod's Law"
 tag:
 - 墨菲定律
 - 墨菲
@@ -26,10 +27,4 @@ id: 20220703231143_641bcbb29d1542dc
 
 > 如果某件事可能出错，那么它一定会在最糟糕的时候发生。
 
-这些定律常常用于幽默嘲弄。但是，类似于 [_Confirmation Bias_](#TODO) 和 [_Selection Bias_](#TODO) 的现象很容易导致人们过分强调这些定律（即在大部分情况下，一件事的成功会显得司空见惯；而失败才会引起更多的注意和讨论）。
-
-参见:
-
-- [Confirmation Bias](#TODO)
-- [Selection Bias](#TODO)
-
+这些定律常常用于幽默嘲弄。但是，类似于 [[confirmation-bias|确认偏误]] 和 [[selection-bias|选择偏差]] 的现象很容易导致人们过分强调这些定律（即在大部分情况下，一件事的成功会显得司空见惯；而失败才会引起更多的注意和讨论）。

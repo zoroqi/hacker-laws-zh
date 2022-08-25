@@ -18,3 +18,6 @@ id: 20220703230735_f1a7721553494b80
 * [wiki:https://en.wikipedia.org/wiki/Improbability_factor](https://en.wikipedia.org/wiki/Improbability_factor)
 
 认为已知的错误不可能发生
+
+> [!NOTE]
+> [[murphys_law_sods_law|墨菲定律]], 坏事总汇发生

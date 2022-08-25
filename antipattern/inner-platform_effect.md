@@ -18,3 +18,6 @@ id: 20220703233441_1ff0520d782b42b4
 * [wiki:https://en.wikipedia.org/wiki/Inner-platform_effect](https://en.wikipedia.org/wiki/Inner-platform_effect)
 
 系统可自定义的太多，以至于成为一个软件开发平台的蹩脚的复制品。
+
+> [!NOTE]
+> 这也是程序员经常出现的情况, 需要控制在最小范围内. 不要无限的可变, 可变到一定程度就会有创造脚本语言的冲动了.

@@ -18,3 +18,6 @@ id: 20220703233649_de495d62a7ef4360
 * [wiki:https://en.wikipedia.org/wiki/Seagull_management](https://en.wikipedia.org/wiki/Seagull_management)
 
 只有当出现问题的时候管理人员才会跟雇员进行接触和互动的管理模式。典型的场景就是，海鸥式的管理人员“飞”过来，嘁嘁喳喳，是人都批评一通，尔后“飞”走了！
+
+> [!NOTE]
+> 遇到这种管理者就趁早离职
