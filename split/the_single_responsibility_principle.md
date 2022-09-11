@@ -1,6 +1,7 @@
 ---
 aliases:
 - 单一功能原则
+- 单一职责原则
 - The Single Responsibility Principle
 category:
 - 方法论
