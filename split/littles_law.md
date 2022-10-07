@@ -11,6 +11,7 @@ tag:
 - 利特尔
 zhname: 利特尔法则
 id: 20220703232032_e8d8b1bdf8244e19
+zhwiki: https://zh.wikipedia.org/wiki/%E5%88%A9%E7%89%B9%E7%88%BE%E6%B3%95%E5%89%87
 ---
 
 # 利特尔法则 (Little's law)
