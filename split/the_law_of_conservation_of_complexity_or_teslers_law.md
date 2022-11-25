@@ -1,6 +1,7 @@
 ---
 aliases:
 - 复杂性守恒定律
+- 复杂度守恒定律
 - The Law of Conservation of Complexity or Tesler's Law
 category:
 - 方法论

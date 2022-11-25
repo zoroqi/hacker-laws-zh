@@ -8,6 +8,8 @@ category:
 - 认知偏差
 - 认知偏误
 groups: 决策、信念与行为偏差
+tags:
+- 斯德哥尔摩综合征
 name:
 - Stockholm syndrome
 zhname:

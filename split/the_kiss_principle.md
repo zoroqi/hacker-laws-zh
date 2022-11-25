@@ -2,6 +2,7 @@
 aliases:
 - KISS 原则
 - The KISS Principle
+- Keep It Simple, Stupid
 category:
 - 方法论
 - hacker-law

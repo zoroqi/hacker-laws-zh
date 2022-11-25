@@ -15,13 +15,16 @@ id: 20220703233953_d195fb2ef78e4436
 
 # 抽象泄漏定律 (The Law of Leaky Abstractions)
 
-- [英文在线地址](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+- [英文在线地址](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) [archive](https://web.archive.org/web/20221119215013/https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+- [中文wiki](https://zh.wikipedia.org/wiki/%E6%8A%BD%E8%B1%A1%E6%B3%84%E6%BC%8F)
 
 > 在某种程度上，所有非平凡的抽象都是有泄漏的。
 >
 > [乔尔斯·波尔斯基](https://twitter.com/spolsky) (Joel Spolsky)
 
 该定律指出，通常用于简化复杂系统的抽象，在某些情况下将底层系统泄漏出来，使得抽象表现出意外的行为。
+
+wiki: “抽象泄漏”是软件开发时，本应隐藏实现细节的抽象化不可避免地暴露出底层细节与局限性。抽象泄露是棘手的问题，因为抽象化本来目的就是向用户隐藏不必要公开的细节。
 
 例如加载文件并读取其内容。文件系统 API 是较低级别内核系统的抽象，它们本身是与磁盘（或 SSD 的闪存）上的数据更改相关的物理过程的抽象。在大多数情况下，处理文件（如二进制数据流）的抽象将起作用。但是，对于磁盘驱动器，顺序读取数据将比随机访问快得多（由于页面错误的开销增加）。但对于 SSD 驱动器，此开销不会出现。需要理解基础细节来处理这种情况（例如，数据库索引文件的良好结构可以减少随机访问的开销），开发人员需要合理的抽象，来处理不同的细节。
 

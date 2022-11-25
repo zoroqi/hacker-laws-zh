@@ -3,6 +3,7 @@ aliases:
 - 不要重复你自己原则
 - The DRY Principle
 - DRY 原则
+- Don't Repeat Yourself
 category:
 - 方法论
 - hacker-law
