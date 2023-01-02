@@ -20,7 +20,7 @@ id: 20220703231035_a1e9cfdc8fcb45c2
 
 > 高级模块不应该依赖于低级实现。
 
-[SOLID](./solid.md) 的第五个原则。该原则指出，更高级别的协调组件不应该知道其依赖项的详细信息。
+[[solid|SOLID]] 的第五个原则。该原则指出，更高级别的协调组件不应该知道其依赖项的详细信息。
 
 举个例子，假设我们有一个从网站读取元数据的程序。我们假设主要组件必须知道下载网页内容的组件，以及可以读取元数据的组件。如果我们考虑依赖反转，主要组件将仅依赖于可以获取字节数据的抽象组件，然后是一个能够从字节流中读取元数据的抽象组件，主要组件不需要了解 TCP、IP、HTTP、HTML 等。
 
@@ -29,7 +29,7 @@ id: 20220703231035_a1e9cfdc8fcb45c2
 参见：
 
 - [Object-Orientated Programming](#todo)
-- [SOLID](./solid.md)
+- [[solid|SOLID]]
 - [Inversion of Control](#todo)
 - [Dependency Injection](#todo)
 

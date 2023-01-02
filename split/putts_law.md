@@ -29,6 +29,6 @@ id: 20220703233539_2b9e73f2f89a4214
 
 参见：
 
-- [the_peter_principle|彼得原理](./the_peter_principle.md)
-- [the_dilbert_principle|呆伯特法则](./the_dilbert_principle.md)
+- [[the_peter_principle|彼得原理]]
+- [[the_dilbert_principle|呆伯特法则]]
 

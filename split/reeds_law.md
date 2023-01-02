@@ -23,6 +23,6 @@ id: 20220703225804_79c61b4b08db4693
 
 参见:
 
-- [metcalfes_law|梅特卡夫定律](./metcalfes_law.md)
-- [dunbars_number|邓巴数字](./dunbars_number.md)
+- [[metcalfes_law|梅特卡夫定律]]
+- [[dunbars_number|邓巴数字]]
 

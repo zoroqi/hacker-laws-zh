@@ -31,5 +31,5 @@ id: 20220703225347_bfb6aa0c40304490
 
 参见:
 
-- [the_pareto_principle_or_the_80_20_rule|帕累托法则](./the_pareto_principle_or_the_80_20_rule.md)
+- [[the_pareto_principle_or_the_80_20_rule|帕累托法则]]
 

@@ -8,7 +8,7 @@ category:
 name: Hofstadter's Law
 tag:
 - 侯世达定律
-- 侯世达
+- person/侯世达
 zhname: 侯世达定律
 id: 20220703225345_5944e3ceef6b4a5b
 ---
@@ -27,5 +27,4 @@ id: 20220703225345_5944e3ceef6b4a5b
 
 参见：
 
-- 阅读清单：《哥德尔、艾舍尔、巴赫：集异璧之大成》
-
+- 阅读清单：《[[GEB]]》

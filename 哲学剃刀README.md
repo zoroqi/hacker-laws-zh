@@ -17,3 +17,9 @@
 这所有的剃刀不适合对单个人行为的解读, 不管是事前还是事后. 人的复杂在于他会可以隐瞒很多事情, 合理化曾经做出的决策, 而这些都是和这些剃刀作用相反的. 而集体的行为反而可以进行使用, 集体会产生某种可观测和可测量的情况.
 
 * [哲学剃刀](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E5%89%83%E5%88%80)
+
+```dataview
+table name,zhname
+from "hacker-laws-zh/philosophical-razor"
+sort groups
+```

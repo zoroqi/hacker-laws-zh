@@ -5,6 +5,10 @@ aliases:
 - Alder's razor
 - 阿尔德剃刀
 - 牛顿的火焰激光剑
+zhname:
+- 阿尔德剃刀
+name:
+- Alder's razor
 category:
 - 哲学剃刀
 - hacker-law

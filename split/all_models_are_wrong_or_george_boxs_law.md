@@ -30,4 +30,4 @@ id: 20220703224818_f54c7244a1014be5
 
 参见:
 
-- [the_law_of_leaky_abstractions|抽象泄漏定律](./the_law_of_leaky_abstractions.md)
+- [[the_law_of_leaky_abstractions|抽象泄漏定律]]

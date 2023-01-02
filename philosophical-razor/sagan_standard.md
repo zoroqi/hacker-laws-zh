@@ -4,6 +4,10 @@ date: "2022-10-09"
 aliases:
 - Sagan standard
 - 萨根标准
+name:
+- Sagan standard
+zhname:
+- 萨根标准
 category:
 - 哲学剃刀
 - hacker-law

@@ -22,5 +22,5 @@ id: 20220703231613_7d4f39ecddc24f65
 
 参见：
 
-- [the_spotify_model|Spotify 模型](./the_spotify_model.md)
+- [[the_spotify_model|Spotify 模型]]
 - [[康威定律]]

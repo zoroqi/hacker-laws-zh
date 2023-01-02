@@ -35,5 +35,5 @@ id: 20220703224937_17177c01164f4b51
 
 参见：
 
-- [fittss_law|费茨法则](./fittss_law.md)
+- [[fittss_law|费茨法则]]
 

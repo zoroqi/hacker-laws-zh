@@ -4,6 +4,10 @@ date: "2022-10-09"
 aliases:
 - 希钦斯剃刀
 - Hitchens's razor
+zhname:
+- 希钦斯剃刀
+name:
+- Hitchens's razor
 category:
 - 哲学剃刀
 - hacker-law

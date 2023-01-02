@@ -28,6 +28,6 @@ id: 20220703230217_25d7a71b069941b8
 
 参见：
 
-- [the_dilbert_principle|呆伯特法则](./the_dilbert_principle.md)
-- [putts_law|普特定律](./putts_law.md)
+- [[the_dilbert_principle|呆伯特法则]]
+- [[putts_law|普特定律]]
 

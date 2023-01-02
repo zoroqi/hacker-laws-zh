@@ -28,5 +28,9 @@ id: 20220703231618_01d9dd1c22394e1a
 参见：
 
 - [Object-Orientated Programming](#todo)
-- [[SOLID]]
+- [[solid|SOLID]]
 
+## 如何践行
+
+* 可以轻松的起一个合适的名字
+* 可以用一句话进行准确的行为描述清楚

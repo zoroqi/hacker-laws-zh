@@ -24,6 +24,5 @@ id: 20220703232024_806fbcf6b8fd4c09
 
 参见:
 
-- [reeds_law|里德定律](./reeds_law.md)
-- [dunbars_number|邓巴数字](./dunbars_number.md)
-
+- [[reeds_law|里德定律]]
+- [[dunbars_number|邓巴数字]]

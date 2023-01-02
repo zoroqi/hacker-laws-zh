@@ -23,5 +23,5 @@ id: 20220703230450_6e5c352a21144ad5
 
 参见：
 
-- [conways_law|康威定律](./conways_law.md)
+- [[conways_law|康威定律]]
 

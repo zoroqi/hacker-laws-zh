@@ -4,6 +4,10 @@ date: "2022-10-09"
 aliases:
 - Occam's Razor
 - 奥卡姆剃刀
+name:
+- Occam's Razor
+zhname:
+- 奥卡姆剃刀
 category:
 - 哲学剃刀
 - hacker-law

@@ -27,5 +27,4 @@ id: 20220703232836_6b55b704208540b8
 
 参见：
 
-- [the_kiss_principle|KISS 原则](./the_kiss_principle.md)
-
+- [[the_kiss_principle|KISS 原则]]

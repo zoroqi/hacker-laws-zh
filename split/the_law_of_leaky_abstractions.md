@@ -34,7 +34,7 @@ wiki: “抽象泄漏”是软件开发时，本应隐藏实现细节的抽象�
 
 参见：
 
-- [hyrums_law_or_the_law_of_implicit_interfaces|隐式接口定律](./hyrums_law_or_the_law_of_implicit_interfaces.md)
+- [[hyrums_law_or_the_law_of_implicit_interfaces|隐式接口定律]]
 
 真实的例子：
 

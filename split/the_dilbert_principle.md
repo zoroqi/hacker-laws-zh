@@ -26,6 +26,6 @@ id: 20220703225534_d4bf77c39b424c76
 
 参见：
 
-- [the_peter_principle|彼得原理](./the_peter_principle.md)
-- [putts_law|普特定律](./putts_law.md)
+- [[the_peter_principle|彼得原理]]
+- [[putts_law|普特定律]]
 

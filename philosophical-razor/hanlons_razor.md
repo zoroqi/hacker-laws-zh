@@ -4,6 +4,10 @@ date: "2022-10-09"
 aliases:
 - 汉隆的剃刀
 - Hanlon's Razor
+zhname:
+- 汉隆的剃刀
+name:
+- Hanlon's Razor
 category:
 - 哲学剃刀
 - hacker-law

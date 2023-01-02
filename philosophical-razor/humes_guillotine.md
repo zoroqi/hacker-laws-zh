@@ -4,6 +4,10 @@ date: "2022-10-09"
 aliases:
 - 休谟剃刀
 - Hume's guillotine
+zhname:
+- 休谟剃刀
+name:
+- Hume's guillotine
 category:
 - 哲学剃刀
 - hacker-law

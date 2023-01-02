@@ -27,7 +27,7 @@ id: 20220703230927_5727a00e833f45a7
 
 参见：
 
-- [the_kiss_principle|KISS 原则](./the_kiss_principle.md)
-- [the_unix_philosophy|Unix 哲学](./the_unix_philosophy.md)
-- [occams_razor|奥卡姆剃刀](./occams_razor.md)
+- [[the_kiss_principle|KISS 原则]]
+- [[the_unix_philosophy|Unix 哲学]]
+- [[occams_razor|奥卡姆剃刀]]
 

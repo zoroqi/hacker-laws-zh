@@ -34,6 +34,5 @@ _(图片来源：By Daniels220 at English Wikipedia, Creative Commons Attributio
 
 参见：
 
-- [brookss_law|布鲁克斯法则](./brookss_law.md)
-- [moores_law|摩尔定律](./moores_law.md)
-
+- [[brookss_law|布鲁克斯法则]]
+- [[moores_law|摩尔定律]]

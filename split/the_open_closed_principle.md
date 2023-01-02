@@ -29,5 +29,5 @@ id: 20220703234010_05ef000bd1de45a6
 参见：
 
 - [Object-Orientated Programming](#todo)
-- [SOLID](./solid.md)
+- [[solid|SOLID]]
 

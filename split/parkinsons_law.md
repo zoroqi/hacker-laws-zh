@@ -26,7 +26,7 @@ id: 20220703225456_959b7b09af5742c2
 
 参见：
 
-- [hofstadters_law|侯世达定律](./hofstadters_law.md)
+- [[hofstadters_law|侯世达定律]]
 
 ## 帕金森定理官僚系统扩展
 

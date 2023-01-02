@@ -4,6 +4,10 @@ date: "2022-10-09"
 aliases:
 - 波普尔的可证伪性原则
 - Popper's falsifiability principle
+zhname:
+- 波普尔的可证伪性原则
+name:
+- Popper's falsifiability principle
 category:
 - 哲学剃刀
 - hacker-law

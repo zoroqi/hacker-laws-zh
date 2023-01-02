@@ -4,6 +4,10 @@ date: "2022-10-09"
 aliases:
 - 格莱斯剃刀
 - Grice's Razor
+zhname:
+- 格莱斯剃刀
+name:
+- Grice's Razor
 category:
 - 哲学剃刀
 - hacker-law
