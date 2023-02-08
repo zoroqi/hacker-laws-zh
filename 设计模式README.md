@@ -38,3 +38,9 @@ flowchart LR
     Adapter
     Bridge
 ```
+
+```dataview
+table name,zhname,tags[0]
+from "hacker-laws-zh/gof"
+sort groups
+```
