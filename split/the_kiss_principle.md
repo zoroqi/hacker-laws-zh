@@ -9,7 +9,7 @@ category:
 name: The KISS Principle
 tag:
 - KISS 原则
-- 'KISS '
+- KISS
 zhname: KISS 原则
 id: 20220703234046_9e7886de63c54c30
 ---
@@ -18,6 +18,8 @@ id: 20220703234046_9e7886de63c54c30
 
 - [英文维基百科](https://en.wikipedia.org/wiki/KISS_principle)
 - [中文维基百科](https://zh.wikipedia.org/wiki/KISS%E5%8E%9F%E5%88%99)
+
+是 **"Keep it simple, stupid!"** 的简写
 
 > 保持简单和直白。
 

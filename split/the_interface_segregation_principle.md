@@ -26,6 +26,8 @@ id: 20220703230402_97f18a3997e0457c
 
 该原则与面向对象编程紧密相关，其中接口，层次结构和抽象类型用于不同组件的 [minimise the coupling](#todo)。 [Duck typing](#todo) 是一种通过消除显式接口来强制执行该原则的方法。
 
+![[the_law_of_leaky_abstractions|抽象泄漏定律]]
+
 参见：
 
 - [Object-Orientated Programming](#todo)
