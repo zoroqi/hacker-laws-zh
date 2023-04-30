@@ -3,6 +3,7 @@ aliases:
 - 帕累托法则
 - The Pareto Principle or The 80/20 Rule
 - 二八定律
+- "80/20法则"
 category:
 - 方法论
 - hacker-law
