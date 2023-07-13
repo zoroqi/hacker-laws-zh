@@ -2,6 +2,7 @@
 aliases:
 - Negativity bias
 - 负面偏差
+- 消极偏见
 category:
 - 行为经济学
 - 认知偏见

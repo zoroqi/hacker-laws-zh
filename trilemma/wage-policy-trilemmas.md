@@ -1,6 +1,7 @@
 ---
 aliases:
 - 工资政策的三难困境
+- 工资政策三难困境
 - Wage policy trilemmas
 category:
 - 三难困境

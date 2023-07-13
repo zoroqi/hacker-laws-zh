@@ -1,6 +1,7 @@
 ---
 aliases:
 - 不稳定的三角关系
+- 不稳定三角关系
 - The Uneasy Triangle
 category:
 - 三难困境

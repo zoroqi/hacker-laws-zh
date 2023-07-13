@@ -1,6 +1,7 @@
 ---
 aliases:
 - 残酷的三难困境
+- 残酷三难困境
 - The "cruel trilemma"
 category:
 - 三难困境

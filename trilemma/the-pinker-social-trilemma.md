@@ -1,6 +1,7 @@
 ---
 aliases:
 - 平克的社会三难困境
+- 平克社会三难困境
 - The Pinker social trilemma
 category:
 - 三难困境

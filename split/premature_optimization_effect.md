@@ -2,6 +2,7 @@
 aliases:
 - 过早优化效应
 - 过早优化是万恶之源
+- 过早优化
 - Premature Optimization Effect
 category:
 - 方法论

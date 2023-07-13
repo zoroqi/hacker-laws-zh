@@ -1,8 +1,10 @@
 ---
 aliases:
 - 国际金融学的“三元悖论”
+- 国际金融学“三元悖论”
 - The "impossible trinity"
 - 不可能的三头马车
+- 不可能三头马车
 category:
 - 三难困境
 - Trilemma

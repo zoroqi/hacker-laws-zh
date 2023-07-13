@@ -1,6 +1,7 @@
 ---
 aliases:
 - 言论审查的三难困境
+- 言论审查三难困境
 - The trilemma of censorship
 category:
 - 三难困境

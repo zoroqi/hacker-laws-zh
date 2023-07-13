@@ -1,6 +1,7 @@
 ---
 aliases:
 - 辨惑学的三难困境
+- 辨惑学三难困境
 - Apologetic trilemma
 category:
 - 三难困境

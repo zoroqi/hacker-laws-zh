@@ -1,6 +1,7 @@
 ---
 aliases:
 - KISS 原则
+- KISS 哲学
 - The KISS Principle
 - Keep It Simple, Stupid
 category:

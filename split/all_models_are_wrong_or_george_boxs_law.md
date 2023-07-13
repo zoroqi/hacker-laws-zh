@@ -6,7 +6,7 @@ category:
 - 方法论
 - hacker-law
 name: All Models Are Wrong or George Box's Law
-tag:
+tags:
 - 乔治·伯克斯定律
 - 乔治
 - 伯克斯
