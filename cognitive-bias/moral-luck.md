@@ -19,3 +19,6 @@ id: 20220703234233_d547e779f5244c1e
 # 道德运气
 
 评价他人行为的道德时，根据结果而非根据行为时的情境。
+
+**Moral Luck**: Better moral standing happens due to a positive outcome; worse moral standing happens due to a negative outcome.
+一个更好的结果会提高人们对其道德的评价，反之亦然。

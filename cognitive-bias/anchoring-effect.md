@@ -21,3 +21,6 @@ id: 20220703234212_8090d8e9521e46bc
 # 锚定效应
 
 为不熟悉事物估值时，会把熟悉的类似事物或不久前接触到的无关数值当做“锚”（经验），估出来的数值会大大倾向“锚”。
+
+**Anchoring**: We rely heavily on the first piece of information introduced when making decisions.
+我们做决定时非常依赖第一眼信息。

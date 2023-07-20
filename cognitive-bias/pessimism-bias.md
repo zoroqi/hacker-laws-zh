@@ -2,6 +2,7 @@
 aliases:
 - Pessimism bias
 - 悲观偏误
+- 悲观偏见
 category:
 - 行为经济学
 - 认知偏见
@@ -19,3 +20,6 @@ id: 20220703233233_8ffe3ce6e6ba47e5
 # 悲观偏误
 
 高估负面事件发生在自己身上的可能性，相信自己比其他人更容易遇到不好的事。患有抑郁症的人尤其明显。（参见悲观主义）
+
+**Pessimism Bias**: We sometimes overestimate the likelihood of bad outcomes.
+我们有时候会高估坏结果的概率。

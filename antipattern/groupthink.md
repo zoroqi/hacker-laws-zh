@@ -5,11 +5,17 @@ aliases:
 name: Groupthink
 zhname: 团队思维
 zhwiki: https://zh.wikipedia.org/wiki/%E5%9C%98%E9%AB%94%E8%BF%B7%E6%80%9D
-groups: 项目管理
+groups:
+- 项目管理
+- 社会偏差
 category:
 - 反面模式
 - antipattern
 - 方法论
+- 行为经济学
+- 认知偏见
+- 认知偏差
+- 认知偏误
 id: 20220703230231_b0dc5a93fcac46f2
 ---
 
@@ -20,3 +26,8 @@ id: 20220703230231_b0dc5a93fcac46f2
 在团队思维中，团队成员避免提出在一致观点之外的思维。
 
 团体迷思（英文：Groupthink，亦作团体盲思、集体错觉）是一个心理学现象，指的是团体在决策过程中，由于成员倾向让自己的观点与团体一致，因而令整个团体缺乏不同的思考角度，不能进行客观分析。一些值得争议的观点、有创意的想法或客观的意见不会有人提出，或是在提出之后，遭到其他团体成员的忽视及隔离。团体迷思可能导致团体作出不合理、甚至是很坏的决定。部分成员即使并不赞同团体的最终决定，但在团体迷思的影响下，也会顺从团体。
+
+又称集体错觉。团体在决策过程中，由于成员倾向让自己的观点与团体一致，因而令整个团体缺乏不同的思考角度，不能进行客观分析。
+
+**Groupthink:** Due to a desire for conformity and harmony in the group, we make irrational decisions, often to minimize conflict.
+人们更希望与团体能保持一致与和谐，为了尽量减少冲突，我们偶尔会做出一些不合理的决定。

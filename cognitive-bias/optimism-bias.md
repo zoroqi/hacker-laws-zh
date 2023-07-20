@@ -2,6 +2,7 @@
 aliases:
 - Optimism bias
 - 乐观偏误
+- 乐观偏见
 category:
 - 行为经济学
 - 认知偏见
@@ -19,3 +20,6 @@ id: 20220703233420_ce5fcbf794104dc8
 # 乐观偏误
 
 低估负面事件发生在自己身上的可能性，相信自己比其他人更不容易遇到不好的事。（参见一厢情愿）
+
+**Optimism Bias**: We sometimes are over-optimistic about good outcomes.
+我们有时候会对好结果过于乐观。

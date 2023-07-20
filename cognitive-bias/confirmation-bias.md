@@ -19,3 +19,6 @@ id: 20220703233404_7e60a66f606b4cec
 # 确认偏误
 
 关注、寻找、诠释、记忆资讯的方向多半是能确认自己成见的方向（ #舒适圈 ）。
+
+**Confirmation Bias**: We tend to find and remember information that confirms our perceptions. 
+我们倾向于找到并记住能证实我们想法的信息。

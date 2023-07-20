@@ -19,3 +19,6 @@ id: 20220703233349_313aa997e0264ee5
 # 偏见盲点
 
 认为自己比其他人更能辨识认知偏差，也较不易受影响。
+
+**Blind Spot Bias**: We don’t think we have bias, and we see it others more than ourselves.
+人们不认为自己有偏见，还会觉得别人比我们自己更偏激。

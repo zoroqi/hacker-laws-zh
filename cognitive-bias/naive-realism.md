@@ -2,6 +2,7 @@
 aliases:
 - Naïve realism
 - 素朴实在论
+- 朴素现实主义
 category:
 - 行为经济学
 - 认知偏见
@@ -18,3 +19,6 @@ id: 20220703225852_21d5da7111a0485c
 # 素朴实在论
 
 相信自己所见所闻即是真相、是客观且不带偏见的，认为这是显而易见的事实，理性人一定会同意自己，不同意的人一定是资讯不足、懒惰、不理性或有偏见。（参见哲学实在论）
+
+**Naïve Realism**: We believe that we observe objective reality and that other people are irrational, uninformed, or biased.
+我们习惯相信自己观察到的是客观事实，而其他人是不理性，不知情的或者有偏见的。

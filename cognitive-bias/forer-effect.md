@@ -4,6 +4,7 @@ aliases:
 - Barnum effect
 - 佛瑞效应
 - 巴纳姆效应
+- 福勒效应
 category:
 - 行为经济学
 - 认知偏见
@@ -23,3 +24,6 @@ id: 20220703231030_c2e2e5b4504243ee
 # 佛瑞效应
 
 人们会把他们认为是为自己量身定做的人格描述评价为高度准确，而这些描述往往十分**模糊**及普遍，能放诸四海皆准适用于很多人。
+
+ **Forer Effect (aka Barnum Effect)**: We easily attribute our personalities to vague statements, even if they can apply to a wide range of people.
+我们很容易接受一些含混不清，用途广泛的词来形容自己的性格。

@@ -19,3 +19,6 @@ id: 20220703225356_6b62b3d250514c60
 # 从众效应
 
 倾向做很多人做的事或相信很多人相信的事（社会心理学中人受社会所影响）。
+
+**Bandwagon Effect:** Ideas, fads, and beliefs grow as more people adopt them.
+随着越来越多的人接收到某些理念、时尚和信仰，这些理念的影响也会随之壮大。

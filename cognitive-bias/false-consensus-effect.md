@@ -19,3 +19,6 @@ id: 20220703232524_74ca0e2c0d5b4de7
 # 错误共识效应
 
 高估别人对自己的认同程度，认为所有人以同一方式思考。
+
+**False Consensus**: We believe more people agree with us than is actually the case.
+现实中支持我们观点的人，要比我们想象中的少。

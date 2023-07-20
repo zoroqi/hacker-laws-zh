@@ -2,6 +2,7 @@
 aliases:
 - Status quo bias
 - 安于现状偏差
+- 现状偏见
 category:
 - 行为经济学
 - 认知偏见
@@ -18,4 +19,10 @@ id: 20220703234024_438fc51f2a7e4364
 
 # 安于现状偏差
 
-倾向于维持现状。（参见损失趋避、原赋效应、系统正当化）
+倾向于维持现状。（参见[[loss-aversion|损失趋避]]、[[endowment-effect|原赋效应]]、[[system-justification|系统正当化]]）
+
+**Status Quo Bias**: We tend to prefer things to stay the same; changes from the baseline are considered to be a loss.
+更倾向于保持不变，认为即使是有利的变化也是一种损失。
+
+> [!NOTE]
+> 感觉更像是 [[sunk-cost-fallacy|沉默成本]]

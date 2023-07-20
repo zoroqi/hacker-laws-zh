@@ -19,3 +19,6 @@ id: 20220703230318_62122a1bd71246dc
 # 幸存者偏差
 
 专注于从某个过程中存活下来的人或事寻找弱点意欲补强，却忽略了最大的弱点更可能在未存活的人或事之中。
+
+**Survivorship Bias**: We tend to focus on those things that survived a process and overlook ones that failed.
+人们更倾向于关注那些幸存下来的事物，而忽略那些失败了的。

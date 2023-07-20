@@ -19,3 +19,6 @@ id: 20220703225334_27933873dc894ce6
 # 宜家效应
 
 对于需要自行组装的东西给予不成比例的高评价，而不管其实际品质。此称呼出自于经常贩售组装家具的宜家。
+
+**IKEA Effect**: We place higher value on things we partially created ourselves.
+人们会更看重自己参与了一部分创造过程的东西。

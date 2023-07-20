@@ -2,6 +2,7 @@
 aliases:
 - Zeigarnik effect
 - 蔡格尼效应
+- 蔡格尼克记忆效应
 category:
 - 行为经济学
 - 认知偏见
@@ -19,3 +20,9 @@ id: 20220703234144_9a2009b3609b48d7
 # 蔡格尼效应
 
 比起己完成的事，未完成或中断的事情会记得更清楚。
+
+**Zeigarnik Effect**: We remember incomplete tasks more than completed ones.
+比起已经完成的任务，人们更容易记住未完成的任务。
+
+> [!NOTE]
+> 不然呢? 都做完了, 还记得干什么.
