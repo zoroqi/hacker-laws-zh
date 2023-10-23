@@ -2,6 +2,7 @@
 aliases:
 - 林迪效应
 - Lindy effect
+- 存在越久越难走向消亡
 category:
 - 方法论
 - hacker-law

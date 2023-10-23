@@ -2,6 +2,7 @@
 aliases:
 - Spaghetti code
 - 面条代码
+- 意大利面式的代码
 name: Spaghetti code
 zhname: 面条代码
 zhwiki: https://zh.wikipedia.org/wiki/%E9%9D%A2%E6%9D%A1%E4%BB%A3%E7%A0%81

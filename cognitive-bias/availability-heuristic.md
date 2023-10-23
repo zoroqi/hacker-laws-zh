@@ -1,8 +1,11 @@
 ---
 aliases:
 - Availability heuristic
+- Availability Bias
 - 可得性捷思法
 - 可用性启发式
+- 可得性偏差
+- 易取性偏误
 category:
 - 行为经济学
 - 认知偏见

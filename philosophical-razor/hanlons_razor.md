@@ -2,10 +2,10 @@
 id: 20221009195300_59d44184c1354102
 date: "2022-10-09"
 aliases:
-- 汉隆的剃刀
+- 汉隆剃刀
 - Hanlon's Razor
 zhname:
-- 汉隆的剃刀
+- 汉隆剃刀
 name:
 - Hanlon's Razor
 category:
