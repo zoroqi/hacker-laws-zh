@@ -2,6 +2,7 @@
 aliases:
 - Hindsight bias
 - 后见之明偏误
+- 马后炮效应
 category:
 - 行为经济学
 - 认知偏见

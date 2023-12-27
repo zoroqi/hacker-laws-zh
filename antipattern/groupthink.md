@@ -2,7 +2,9 @@
 aliases:
 - Groupthink
 - 团队思维
+- 团体迷思
 - 群体迷思
+- 集体错觉
 name: Groupthink
 zhname: 团队思维
 zhwiki: https://zh.wikipedia.org/wiki/%E5%9C%98%E9%AB%94%E8%BF%B7%E6%80%9D
