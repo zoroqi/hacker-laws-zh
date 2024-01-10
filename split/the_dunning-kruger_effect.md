@@ -2,9 +2,13 @@
 aliases:
 - 邓宁-克鲁格效应
 - The Dunning-Kruger Effect
+- 达克效应
 category:
 - 方法论
 - hacker-law
+- 认知偏见
+- 认知偏差
+- 认知偏误
 name: The Dunning-Kruger Effect
 tag:
 - 邓宁-克鲁格效应

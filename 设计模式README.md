@@ -24,7 +24,7 @@ flowchart LR
     Interpreter -- 定义语法 --> Composite
     Interpreter -- 增加操作 --> Visitor
     ChainOfResponsibillity -- 定义链 --> Composite
-    Command -- 避免之后 --> Memento
+    Command -- 避免滞后 --> Memento
     Command -- 使用组合命令 --> Composite
     Decorator <--改变外表/改变内容 --> Strategy
     TemplateMethod -- 定义算法步骤 --> Strategy

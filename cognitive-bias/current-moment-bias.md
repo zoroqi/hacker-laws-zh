@@ -5,7 +5,6 @@ aliases:
 - Hyperbolic discounting
 - 当下偏差
 - 现时偏差
-- ""
 - 双曲折现
 category:
 - 行为经济学
