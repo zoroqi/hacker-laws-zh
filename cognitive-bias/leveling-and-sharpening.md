@@ -8,6 +8,8 @@ category:
 - 认知偏差
 - 认知偏误
 groups: 记忆错误与偏差
+tags:
+- 记忆
 name:
 - Leveling and Sharpening
 zhname:

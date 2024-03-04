@@ -2,6 +2,7 @@
 aliases:
 - Fundamental attribution error
 - 基本归因错误
+- 错误归因
 category:
 - 行为经济学
 - 认知偏见

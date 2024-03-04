@@ -2,6 +2,7 @@
 aliases:
 - Cargo cult programming
 - 拜物编程
+- 货物崇拜编程
 name: Cargo cult programming
 zhname: 拜物编程
 zhwiki: https://zh.wikipedia.org/wiki/%E6%8B%9C%E7%89%A9%E7%BC%96%E7%A8%8B

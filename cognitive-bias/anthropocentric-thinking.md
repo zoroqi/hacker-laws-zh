@@ -2,6 +2,7 @@
 aliases:
 - Anthropocentric thinking
 - 人类中心思维
+- 人类中心主义
 category:
 - 行为经济学
 - 认知偏见

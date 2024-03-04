@@ -2,6 +2,7 @@
 aliases:
 - Confirmation bias
 - 确认偏误
+- 确认偏差
 category:
 - 行为经济学
 - 认知偏见

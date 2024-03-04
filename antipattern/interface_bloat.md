@@ -15,7 +15,7 @@ id: 20220703230728_ce37d3affb504674
 
 # 接口膨胀
 
-* [wiki:https://en.wikipedia.org/wiki/Interface_bloat](https://en.wikipedia.org/wiki/Interface_bloat)
+* [Interface_bloat](https://en.wikipedia.org/wiki/Interface_bloat)
 
 把一个接口做得过于强大以至于极其难以实现
 
