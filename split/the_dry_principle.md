@@ -31,6 +31,5 @@ DRY 是 **Do not Repeat Yourself** 的缩写。这个原则旨在帮助开发人
 
 参见：
 
-- 《程序员修炼之道》[英文维基百科](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+- 《[[程序员修炼之道]]》[英文维基百科](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
 - 《程序员修炼之道》[豆瓣](https://book.douban.com/subject/1417047/)
-
