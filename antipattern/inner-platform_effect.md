@@ -15,7 +15,7 @@ id: 20220703233441_1ff0520d782b42b4
 
 # 内部平台效应
 
-* [wiki:https://en.wikipedia.org/wiki/Inner-platform_effect](https://en.wikipedia.org/wiki/Inner-platform_effect)
+* [Inner-platform_effect](https://en.wikipedia.org/wiki/Inner-platform_effect)
 
 系统可自定义的太多，以至于成为一个软件开发平台的蹩脚的复制品。
 
