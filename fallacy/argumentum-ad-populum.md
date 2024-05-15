@@ -1,6 +1,9 @@
 ---
 aliases:
 - 诉诸群众
+- 诉诸民主
+- 诉诸多数
+- 共识谬误
 - Argumentum ad populum
 date: "2023-01-06"
 groups: 谬误

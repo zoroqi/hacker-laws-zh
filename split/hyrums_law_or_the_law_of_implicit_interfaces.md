@@ -2,6 +2,7 @@
 aliases:
 - 隐式接口定律
 - Hyrum's Law or The Law of Implicit Interfaces
+- 海勒姆定律
 category:
 - 方法论
 - hacker-law
