@@ -22,3 +22,5 @@ id: 20220703225827_d02ad9c167944ac3
 
 **Curse of Knowledge**: Once we know something, we assume everyone else knows it, too.
 一旦我们知道了某件事，就很容易假设其他人也同样知道这件事。
+
+知识的诅咒, 也叫专家盲点. 指人在与他人交流的时候, 下意识地假设对方拥有理解所需要的背景知识. 换句话说, 就是一旦我们知道某样东西, 我们就会发现很难想象不知道它的时候会是什么样子

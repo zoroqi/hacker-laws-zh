@@ -15,7 +15,7 @@ id: 20220703225435_8ea990923eb44f9d
 
 # 障眼法
 
-* [wiki:https://en.wikipedia.org/wiki/Smoke_and_mirrors](https://en.wikipedia.org/wiki/Smoke_and_mirrors)
+* [Smoke and mirrors](https://en.wikipedia.org/wiki/Smoke_and_mirrors)
 
 展示还没实现的功能，就像它们已经实现了一样
 

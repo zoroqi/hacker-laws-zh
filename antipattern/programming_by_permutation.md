@@ -2,6 +2,7 @@
 aliases:
 - Programming by permutation
 - 转换编程法
+- 巧合编程
 name: Programming by permutation
 zhname: 转换编程法
 wiki: https://en.wikipedia.org/wiki/Programming_by_permutation
