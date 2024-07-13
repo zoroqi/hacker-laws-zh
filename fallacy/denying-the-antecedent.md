@@ -13,6 +13,7 @@ zhname:
 
 # 否定前件
 
-命题逻辑的推理错误：“若P则Q”为真，且P为假，推得Q为假。
+[否定前件](https://zh.wikipedia.org/wiki/%E5%90%A6%E5%AE%9A%E5%89%8D%E4%BB%B6) 命题逻辑的推理错误：“若P则Q”为真，且P为假，推得Q为假。
 
-* [否定前件](https://zh.wikipedia.org/wiki/%E5%90%A6%E5%AE%9A%E5%89%8D%E4%BB%B6)
+例: 
+- 如果有火灾，就会有浓烟; 没有火灾; 因此，没有浓烟.

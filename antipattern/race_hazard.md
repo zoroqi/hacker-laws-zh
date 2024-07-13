@@ -1,7 +1,9 @@
 ---
 aliases:
 - Race hazard
+- Race Condition
 - 竞争风险
+- 竞态条件
 name: Race hazard
 zhname: 竞争风险
 zhwiki: https://zh.wikipedia.org/wiki/%E7%AB%9E%E4%BA%89%E9%A3%8E%E9%99%A9
