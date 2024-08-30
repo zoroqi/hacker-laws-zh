@@ -2,6 +2,7 @@
 aliases:
 - 侯世达定律
 - Hofstadter's Law
+- 霍夫施塔特定律
 category:
 - 方法论
 - hacker-law

@@ -1,6 +1,7 @@
 ---
 aliases:
 - 诉诸后果
+- 诉诸结果
 - Argumentum ad consequentiam
 - Appeal to consequences
 date: "2023-01-06"
