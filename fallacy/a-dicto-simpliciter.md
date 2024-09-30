@@ -21,6 +21,4 @@ zhname:
 
 # 简化推论
 
-认为通则不能容许任何例外。可分为![[accident|偶例谬误]]与![[converse-accident|逆偶例谬误]]。
-
-* [简化推论](https://zh.wikipedia.org/wiki/%E7%B0%A1%E5%8C%96%E6%8E%A8%E8%AB%96)
+[简化推论](https://zh.wikipedia.org/wiki/%E7%B0%A1%E5%8C%96%E6%8E%A8%E8%AB%96)  认为通则不能容许任何例外。可分为![[accident|偶例谬误]]与![[converse-accident|逆偶例谬误]]。

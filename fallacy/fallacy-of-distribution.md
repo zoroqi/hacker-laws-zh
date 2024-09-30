@@ -13,4 +13,4 @@ zhname:
 
 # 分布谬误
 
-[分布谬误](https://zh.wikipedia.org/w/index.php?title=%E5%88%86%E5%B8%83%E8%AC%AC%E8%AA%A4&action=edit&redlink=1) 认为个体和整体有相同的特质。可分为[[composition-fallacy|合成谬误]]与[[division-fallacy|分割谬误]]。
+[分布谬误](https://zh.wikipedia.org/wiki/%E5%88%86%E5%B8%83%E8%AC%AC%E8%AA%A4) 认为个体和整体有相同的特质。可分为[[composition-fallacy|合成谬误]]与[[division-fallacy|分割谬误]]。

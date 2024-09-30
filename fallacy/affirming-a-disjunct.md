@@ -1,7 +1,11 @@
 ---
 aliases:
 - 肯定选言
+- 替代选言谬误
+- 不当排除选言
 - Affirming a disjunct
+- fallacy of the alternative disjunct
+- false exclusionary disjunct
 date: "2023-01-06"
 groups: 谬误
 id: 20230106213338_558ffcf57ec843c7

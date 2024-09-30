@@ -5,6 +5,10 @@ aliases:
 - 诉诸逻辑
 - 谬误学家的谬误
 - Fallacy fallacy
+- 烂理由谬误
+- Bad reasons fallacy
+- fallacist's fallacy
+- Argument from fallacy
 date: "2023-01-06"
 groups: 谬误
 id: 20230106210252_e732f57d9c1a49bf
