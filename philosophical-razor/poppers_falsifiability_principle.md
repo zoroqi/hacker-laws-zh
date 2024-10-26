@@ -13,7 +13,7 @@ category:
 - hacker-law
 tags:
 - 哲学剃刀
-- 波普尔的可证伪性原则
+- 可证伪性
 wiki: https://en.wikipedia.org/wiki/Falsifiability
 ---
 
