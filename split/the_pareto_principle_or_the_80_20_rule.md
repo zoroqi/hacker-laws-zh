@@ -3,6 +3,7 @@ aliases:
 - 帕累托法则
 - The Pareto Principle or The 80/20 Rule
 - 二八定律
+- 二八法则
 - "80/20法则"
 category:
 - 方法论
@@ -21,9 +22,7 @@ id: 20220703234409_1818bb3a911f4903
 - [英文维基百科](https://en.wikipedia.org/wiki/Pareto_principle)
 - [中文维基百科](https://zh.wikipedia.org/wiki/%E5%B8%95%E7%B4%AF%E6%89%98%E6%B3%95%E5%88%99)
 
-> 生活中大多数事情不是均匀分布的。
-[[the_peter_principle]]
-帕累托法则可以帮你认识到大多数结果来自少数投入：
+> 生活中大多数事情不是均匀分布的。[[the_peter_principle|彼得原理]]帕累托法则可以帮你认识到大多数结果来自少数投入：
 
 - 某个软件的 80％ 代码只占了总分配时间的 20％（相反，最难的 20％ 代码部分占用了 80％ 的时间）
 - 20％ 的努力产生了 80％ 的结果
@@ -39,4 +38,5 @@ id: 20220703234409_1818bb3a911f4903
 
 - 微软 2002 年的报告表明，修复最常出现的 20％ 错误，将消除 Windows 和 Office 中 80％ 的
   错误和崩溃。[报告地址](https://www.crn.com/news/security/18821726/microsofts-ceo-80-20-rule-applies-to-bugs-not-just-features.htm)
+
 
