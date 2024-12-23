@@ -24,4 +24,4 @@ id: 20220703225823_ed1be41bae724710
 
 # 优于常人效应
 
-高估自己的优点、低估自己的缺点。是差于常人效应（英语：Worse-than-average effect）的反例。
+高估自己的优点、低估自己的缺点。是[[worse-than-average-effect|差于常人效应]]（英语：Worse-than-average effect）的反例。

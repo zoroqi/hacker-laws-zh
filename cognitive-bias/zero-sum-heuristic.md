@@ -10,6 +10,8 @@ category:
 groups: 决策、信念与行为偏差
 name:
 - Zero-sum heuristic
+tags:
+- 零和博弈
 zhname:
 - 零和捷思
 id: 20220703232032_b97e46ec5d294efb
