@@ -17,6 +17,7 @@ zhname:
 
 # 诉诸荒谬
 
-嘲笑某事物，宣称其荒谬可笑，以诱导他人不支持某事物。
+[诉诸荒谬](https://zh.wikipedia.org/wiki/%E8%A8%B4%E8%AB%B8%E8%8D%92%E8%AC%AC)（appeal to ridicule）或诉诸嘲弄（appeal to mockery）是一种诉诸情感谬误，是表达对方的说法荒谬、可笑、愚蠢，而不提出任何论证的做为。 嘲笑某事物，宣称其荒谬可笑，以诱导他人不支持某事物。
 
-* [诉诸荒谬](https://zh.wikipedia.org/wiki/%E8%A8%B4%E8%AB%B8%E8%8D%92%E8%AC%AC)
+例:
+- 那些人认为强大的军事力量是维持和平的关键，你不觉得很离谱吗？

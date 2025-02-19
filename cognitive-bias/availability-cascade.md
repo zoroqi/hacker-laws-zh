@@ -3,6 +3,7 @@ aliases:
 - Availability cascade
 - 可获性层叠
 - 可用性级联
+- 三人成虎
 category:
 - 行为经济学
 - 认知偏见
