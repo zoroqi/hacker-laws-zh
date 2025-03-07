@@ -4,6 +4,7 @@ category:
 aliases:
 - Inappropriate Intimacy
 - 狎昵关系
+- class 不当的亲密关系
 name: Inappropriate Intimacy
 zhname: 狎昵关系
 tags:
