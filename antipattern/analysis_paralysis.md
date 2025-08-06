@@ -1,7 +1,7 @@
 ---
 aliases:
-- Analysis paralysis
 - 分析瘫痪
+- Analysis paralysis
 name: Analysis paralysis
 zhname: 分析瘫痪
 zhwiki: https://zh.wikipedia.org/wiki/%E5%88%86%E6%9E%90%E7%99%B1%E7%98%93

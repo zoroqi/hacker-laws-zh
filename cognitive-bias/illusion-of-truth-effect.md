@@ -1,7 +1,7 @@
 ---
 aliases:
-- Illusion of truth effect
 - 真相错觉效应
+- Illusion of truth effect
 category:
 - 行为经济学
 - 认知偏见

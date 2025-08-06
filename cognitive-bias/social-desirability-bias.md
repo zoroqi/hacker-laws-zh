@@ -1,7 +1,7 @@
 ---
 aliases:
-- Social desirability bias
 - 社会期许偏差
+- Social desirability bias
 category:
 - 行为经济学
 - 认知偏见

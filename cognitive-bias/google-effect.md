@@ -1,8 +1,10 @@
 ---
 aliases:
-- Google effect
 - 谷歌效应
 - 数码健忘症
+- Google 效应
+- Google effect
+- AI 效应
 category:
 - 行为经济学
 - 认知偏见

@@ -1,7 +1,7 @@
 ---
 aliases:
-- Hot Hand Fallacy
 - 热手谬误
+- Hot Hand Fallacy
 category:
 - 行为经济学
 - 认知偏见

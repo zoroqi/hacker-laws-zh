@@ -1,7 +1,7 @@
 ---
 aliases:
-- Planning fallacy
 - 规划谬误
+- Planning fallacy
 category:
 - 行为经济学
 - 认知偏见
@@ -18,4 +18,7 @@ id: 20220703231938_1df734326e5341fc
 
 # 规划谬误
 
-低估完成一件事需要的时间。
+[规划谬误](https://zh.wikipedia.org/wiki/%E8%A6%8F%E5%8A%83%E8%AC%AC%E8%AA%A4) 是指人们在估计未来任务的完成时间时低估任务完成时间的一种现象
+
+- [[hofstadters_law|侯世达定律]]
+- [[parkinsons_law|帕金森定理]]

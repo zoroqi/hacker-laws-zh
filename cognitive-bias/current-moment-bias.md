@@ -1,9 +1,9 @@
 ---
 aliases:
+- 当下偏差
 - Current moment bias
 - Present-bias
 - Hyperbolic discounting
-- 当下偏差
 - 现时偏差
 - 双曲折现
 category:

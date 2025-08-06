@@ -1,7 +1,7 @@
 ---
 aliases:
-- Gambler's fallacy
 - 赌徒谬误
+- Gambler's fallacy
 category:
 - 行为经济学
 - 认知偏见

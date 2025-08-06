@@ -25,6 +25,8 @@ id: 20220703224937_17177c01164f4b51
 
 ![席克定律](../images/hicks_law.svg)
 
+$$T = b \cdot log_2(n+1)$$
+
 *(图片参考：Creative Commons Attribution-Share Alike 3.0 Unported, https://en.wikipedia.org/wiki/Hick%27s_law)*
 
 该定律仅适用于选项 _按顺序排列_ 的情况，例如 ABCD。这隐含在一二为底的对数中，也就是说决策者本质上在进行 _二分法查找_。实验表明，如果选项不是按顺序排列的，那么所花费时间与选项个数将会呈线性增长关系。

@@ -1,7 +1,7 @@
 ---
 aliases:
-- Impact bias
 - 影响力偏差
+- Impact bias
 category:
 - 行为经济学
 - 认知偏见

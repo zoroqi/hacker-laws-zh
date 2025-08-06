@@ -19,14 +19,14 @@ id: 20220703232105_a980d37c091e4008
 
 又称 _网络计算的谬误_，这是一系列关于分布式计算的猜想（或者看法），这些猜想可能会引起软件开发中的失败。这些假设是：
 
-- 网络可靠
-- 延迟为零
-- 带宽无限
-- 网络安全
-- 拓扑恒定
-- 单一管理员
-- 运输成本为零
-- 网络为同构的
+1. 网络可靠
+2. 延迟为零
+3. 带宽无限
+4. 网络安全
+5. 拓扑恒定
+6. 单一管理员
+7. 运输成本为零
+8. 网络为同构的
 
 前 4 各项目由 [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) 和 [Tom Lyon](https://twitter.com/aka_pugs) 于 1991 左右提出。并被 [James Gosling](https://en.wikipedia.org/wiki/James_Gosling) 首次归类于“网络计算的谬误”；后 [L. Peter Deutsch](https://en.wikipedia.org/wiki/L._Peter_Deutsch) 添加了第 5、6、7 个谬误；90 年代末，Gosling 添加了最后一个谬误。
 

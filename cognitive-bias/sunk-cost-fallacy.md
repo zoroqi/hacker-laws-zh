@@ -1,10 +1,10 @@
 ---
 aliases:
+- 沉默成本
 - Sunk cost fallacy
 - Irrational escalation
 - 沉没成本谬误
 - 不理性增值
-- 沉默成本
 - 沉没成本
 category:
 - 行为经济学

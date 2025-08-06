@@ -1,7 +1,7 @@
 ---
 aliases:
-- Reactance
 - 对抗心理
+- Reactance
 - 抗拒心理
 - 阻抗心理
 category:

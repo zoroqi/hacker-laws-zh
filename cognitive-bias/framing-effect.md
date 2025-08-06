@@ -1,7 +1,7 @@
 ---
 aliases:
-- Framing effect
 - 框架效应
+- Framing effect
 category:
 - 行为经济学
 - 认知偏见

@@ -1,7 +1,7 @@
 ---
 aliases:
-- Frequency illusion
 - 频率错觉
+- Frequency illusion
 category:
 - 行为经济学
 - 认知偏见
@@ -18,4 +18,4 @@ id: 20220703231302_0ec93c0aeba648f6
 
 # 频率错觉
 
-因最近注意到一件原先没注意到的事，就觉得这件事到处都在发生。（参见近因错觉（英语：Recency illusion）及选择偏差（英语：Selection bias））
+因最近注意到一件原先没注意到的事，就觉得这件事到处都在发生。（参见近因错觉（英语：Recency illusion）及[[selection-bias|选择偏差]]（英语：Selection bias））

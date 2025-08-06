@@ -2,6 +2,7 @@
 aliases:
 - 你不需要它原则
 - YAGNI
+- You Aren't Gonna Need It
 category:
 - 方法论
 - hacker-law

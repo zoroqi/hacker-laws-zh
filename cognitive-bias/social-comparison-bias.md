@@ -1,7 +1,7 @@
 ---
 aliases:
-- Social comparison bias
 - 社会比较偏差
+- Social comparison bias
 category:
 - 行为经济学
 - 认知偏见

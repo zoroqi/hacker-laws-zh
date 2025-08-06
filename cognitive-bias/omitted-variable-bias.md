@@ -1,7 +1,7 @@
 ---
 aliases:
-- Omitted-variable bias
 - 遗漏变数偏差
+- Omitted-variable bias
 category:
 - 行为经济学
 - 认知偏见
@@ -17,4 +17,4 @@ id: 20220703225628_9795ff71abc04b81
 
 # 遗漏变数偏差
 
-
+当获得的奖励出乎意料之外，我们获得奖励的喜悦感就会增加。

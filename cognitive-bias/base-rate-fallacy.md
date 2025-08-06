@@ -1,8 +1,8 @@
 ---
 aliases:
+- 基本比率谬误
 - Base rate fallacy
 - Base rate neglect
-- 基本比率谬误
 - 基本比率忽视
 category:
 - 行为经济学

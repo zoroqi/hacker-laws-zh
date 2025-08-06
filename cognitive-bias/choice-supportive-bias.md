@@ -1,7 +1,7 @@
 ---
 aliases:
-- Choice-supportive bias
 - 支持选择偏差
+- Choice-supportive bias
 category:
 - 行为经济学
 - 认知偏见

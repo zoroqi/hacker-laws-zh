@@ -1,7 +1,7 @@
 ---
 aliases:
-- Survivorship bias
 - 幸存者偏差
+- Survivorship bias
 category:
 - 行为经济学
 - 认知偏见

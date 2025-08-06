@@ -1,7 +1,7 @@
 ---
 aliases:
-- Sampling bias
 - 取样偏差
+- Sampling bias
 - 统计学取样偏差
 category:
 - 行为经济学

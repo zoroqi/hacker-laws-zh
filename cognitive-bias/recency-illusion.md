@@ -1,7 +1,8 @@
 ---
 aliases:
-- Recency illusion
 - 新词错觉
+- 近因错觉
+- Recency illusion
 category:
 - 行为经济学
 - 认知偏见

@@ -1,7 +1,7 @@
 ---
 aliases:
-- Belief bias
 - 信念偏差
+- Belief bias
 category:
 - 行为经济学
 - 认知偏见
@@ -18,7 +18,8 @@ id: 20220703224905_6ccccbc55e6f4751
 
 # 信念偏差
 
-由于相信结论，而认为推理出该结论的过程是有道理、合逻辑的。
+[信念偏差](https://zh.wikipedia.org/wiki/%E4%BF%A1%E5%BF%B5%E5%81%8F%E8%AA%A4) 由于相信结论，而认为推理出该结论的过程是有道理、合逻辑的。
+我们更倾向于接受与我们的先验知识相符的论点，而拒绝对该论点的反驳。
 
 **Belief Bias**: We judge an argument’s strength not by how strongly it supports the conclusion but how plausible the conclusion is in our own minds.
 当我们判断一个观点是否可信时，凭借的不是这个观点是否正确，而是我们愿不愿意相信这个观点

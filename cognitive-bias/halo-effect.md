@@ -1,7 +1,7 @@
 ---
 aliases:
-- Halo effect
 - 月晕效应
+- Halo effect
 - 晕轮效应
 - 光环效应
 category:

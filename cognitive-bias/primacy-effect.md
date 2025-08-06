@@ -1,10 +1,10 @@
 ---
 aliases:
+- 近时效应
 - Primacy effect
 - Recency effect
 - Serial position effect
 - 初位效应
-- 近时效应
 - 序位效应
 category:
 - 行为经济学

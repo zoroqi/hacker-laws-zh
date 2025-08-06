@@ -1,7 +1,7 @@
 ---
 aliases:
-- Zeigarnik effect
 - 蔡格尼效应
+- Zeigarnik effect
 - 蔡格尼克记忆效应
 category:
 - 行为经济学

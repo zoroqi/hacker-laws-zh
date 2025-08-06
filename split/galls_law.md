@@ -2,6 +2,7 @@
 aliases:
 - 盖尔定律
 - Gall's Law
+- 一个切实可行的复杂系统势必是从一个切实可行的简单系统发展而来的
 category:
 - 方法论
 - hacker-law

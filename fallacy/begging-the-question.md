@@ -1,7 +1,7 @@
 ---
 aliases:
-- 乞题
 - 窃取论点
+- 乞题
 - Begging the question
 - Petitio principii
 date: "2023-01-06"

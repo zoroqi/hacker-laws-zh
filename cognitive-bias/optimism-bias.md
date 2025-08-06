@@ -1,8 +1,8 @@
 ---
 aliases:
+- 乐观偏见
 - Optimism bias
 - 乐观偏误
-- 乐观偏见
 category:
 - 行为经济学
 - 认知偏见

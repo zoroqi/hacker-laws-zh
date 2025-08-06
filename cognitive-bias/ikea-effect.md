@@ -1,7 +1,7 @@
 ---
 aliases:
-- IKEA effect
 - 宜家效应
+- IKEA effect
 category:
 - 行为经济学
 - 认知偏见

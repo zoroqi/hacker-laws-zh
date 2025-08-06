@@ -1,7 +1,7 @@
 ---
 aliases:
-- Humor effect
 - 幽默效应
+- Humor effect
 category:
 - 行为经济学
 - 认知偏见
@@ -18,4 +18,4 @@ id: 20220703231855_03639bb277ea41a8
 
 # 幽默效应
 
-幽默的事比不幽默的事更容易记住，可能的解释是幽默的事有较长的认知处理时间，或造成较多的情绪激发（处理难度效应（英语：Processing difficulty effect））。\[来源请求\]
+幽默的事比不幽默的事更容易记住，可能的解释是幽默的事有较长的认知处理时间，或造成较多的情绪激发（[[processing-difficulty-effect|处理难度效应]]）。

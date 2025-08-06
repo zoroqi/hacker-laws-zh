@@ -1,9 +1,12 @@
 ---
 aliases:
-- Mere exposure effect
-- 多看效应
 - 单纯接触效应
 - 重复曝光效应
+- Mere exposure effect
+- familiarity principle
+- 多看效应
+- 多看效应
+- 
 category:
 - 行为经济学
 - 认知偏见

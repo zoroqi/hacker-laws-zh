@@ -1,7 +1,7 @@
 ---
 aliases:
-- Neglect of probability
 - 忽略可能性
+- Neglect of probability
 category:
 - 行为经济学
 - 认知偏见
@@ -18,4 +18,4 @@ id: 20220703230652_b9628b9eba274799
 
 # 忽略可能性
 
-对于不确定的事，无法准确评估其发生几率，不是完全无视，便是过分高估。
+[忽略可能性](https://zh.wikipedia.org/wiki/%E5%BF%BD%E7%95%A5%E5%8F%AF%E8%83%BD%E6%80%A7) 对于不确定的事，无法准确评估其发生几率，不是完全无视，便是过分高估。

@@ -1,7 +1,7 @@
 ---
 aliases:
-- Loss aversion
 - 损失趋避
+- Loss aversion
 - 损失厌恶
 category:
 - 行为经济学

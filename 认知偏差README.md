@@ -16,6 +16,7 @@ tags:
 
 * [认知偏误](https://zh.wikipedia.org/wiki/%E8%AA%8D%E7%9F%A5%E5%81%8F%E8%AA%A4)
 * [认知偏差列表](https://zh.wikipedia.org/wiki/%E8%AA%8D%E7%9F%A5%E5%81%8F%E8%AA%A4%E5%88%97%E8%A1%A8)
+* [认知偏差知识手册](https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf)
 
 认知偏误（英语：Cognitive bias），或作认知偏差、认知偏见等，是一种在判断中偏离规范（英语：norm，哲学术语）或理性的系统模式。个人根据他们对输入的感知创造他们自己的“主观现实”。个人对现实的建构，而不是客观输入，可能会决定他们在世界上的行为。因此，认知偏差有时可能会导致知觉扭曲、不准确的判断、不合逻辑的解释或广义上的非理性（英语：irrationality）。
 

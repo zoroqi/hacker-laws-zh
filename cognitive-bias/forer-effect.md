@@ -1,9 +1,9 @@
 ---
 aliases:
+- 巴纳姆效应
 - Forer effect
 - Barnum effect
 - 佛瑞效应
-- 巴纳姆效应
 - 福勒效应
 category:
 - 行为经济学

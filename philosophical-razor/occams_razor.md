@@ -2,8 +2,8 @@
 id: 20221009194733_e1f4e921760b4f20
 date: "2022-10-09"
 aliases:
-- Occam's Razor
 - 奥卡姆剃刀
+- Occam's Razor
 name:
 - Occam's Razor
 zhname:

@@ -1,8 +1,8 @@
 ---
 aliases:
+- 选择性注意
 - Selective attention
 - Selective perception
-- 选择性注意
 - 选择性知觉
 category:
 - 行为经济学

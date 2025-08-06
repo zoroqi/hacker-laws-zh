@@ -1,7 +1,7 @@
 ---
 aliases:
-- Picture superiority effect
 - 图片优势效应
+- Picture superiority effect
 category:
 - 行为经济学
 - 认知偏见
