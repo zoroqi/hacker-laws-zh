@@ -1,7 +1,7 @@
 ---
 aliases:
-- Narrative fallacy
 - 叙事谬误
+- Narrative fallacy
 category:
 - 因果谬误
 - 逻辑

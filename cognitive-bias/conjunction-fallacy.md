@@ -1,7 +1,7 @@
 ---
 aliases:
-- Conjunction fallacy
 - 合取谬误
+- Conjunction fallacy
 category:
 - 行为经济学
 - 认知偏见

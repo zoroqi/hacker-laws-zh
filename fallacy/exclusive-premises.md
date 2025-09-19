@@ -13,6 +13,4 @@ zhname:
 
 # 互斥前提
 
-三段论逻辑的推理错误，二前提皆为否定。
-
-* [互斥前提](https://zh.wikipedia.org/zh-cn/%E4%BA%92%E6%96%A5%E5%89%8D%E6%8F%90)
+[互斥前提](https://zh.wikipedia.org/zh-cn/%E4%BA%92%E6%96%A5%E5%89%8D%E6%8F%90) 三段论逻辑的推理错误，二前提皆为否定。

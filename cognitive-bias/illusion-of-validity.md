@@ -1,7 +1,7 @@
 ---
 aliases:
-- Illusion of validity
 - 效度的错觉
+- Illusion of validity
 category:
 - 行为经济学
 - 认知偏见

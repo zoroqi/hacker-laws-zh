@@ -1,7 +1,7 @@
 ---
 aliases:
-- Outcome bias
 - 结果偏差
+- Outcome bias
 - 结果偏误
 category:
 - 行为经济学
